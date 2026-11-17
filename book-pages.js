@@ -51,5 +51,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-01/lesson_013_classification_of_games.md",
   "label": "013 Classification of Games"
+ },
+ {
+  "file": "part-01/lesson_014_models_assumptions_and_explanation.md",
+  "label": "014 Models, Assumptions and Explanation"
+ },
+ {
+  "file": "part-02/lesson_015_normal_form_games.md",
+  "label": "015 Normal-Form Games"
+ },
+ {
+  "file": "part-02/lesson_016_strict_and_weak_dominance.md",
+  "label": "016 Strict and Weak Dominance"
+ },
+ {
+  "file": "part-02/lesson_017_iterated_elimination.md",
+  "label": "017 Iterated Elimination"
+ },
+ {
+  "file": "part-02/lesson_018_best_response.md",
+  "label": "018 Best Response"
  }
 ];

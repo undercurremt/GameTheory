@@ -25,7 +25,7 @@
 
 **Guiding question:** Как разбираме какво действително показва един експеримент?
 
-**Prerequisites:** 014, 077
+**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), 077
 
 **Related lessons:** 080, 085
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как когнитивните ограничения влияят на решенията?
 
-**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 014, 077, 078
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), [014](/part-01/lesson_014_models_assumptions_and_explanation.md), 077, 078
 
 **Related lessons:** 080–082
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Как участниците адаптират стратегиите си чрез опит?
 
-**Prerequisites:** 018, 040, 079
+**Prerequisites:** [018](/part-02/lesson_018_best_response.md), 040, 079
 
 **Related lessons:** 046, 087
 

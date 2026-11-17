@@ -67,7 +67,7 @@
 
 **Guiding question:** Как намираме равновесие при непълна информация?
 
-**Prerequisites:** 018, 020, 054, 055
+**Prerequisites:** [018](/part-02/lesson_018_best_response.md), 020, 054, 055
 
 **Related lessons:** 057, 064
 

@@ -11,7 +11,7 @@
 
 **Guiding question:** Как редът на действията променя стратегиите?
 
-**Prerequisites:** [013](/part-01/lesson_013_classification_of_games.md), 015
+**Prerequisites:** [013](/part-01/lesson_013_classification_of_games.md), [015](/part-02/lesson_015_normal_form_games.md)
 
 **Related lessons:** 030
 
