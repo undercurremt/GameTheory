@@ -39,7 +39,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–024, 033, 043, 056, 091
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–[024](/part-02/lesson_024_stag_hunt.md), 033, 043, 056, 091
 
 **Related lessons:** 100
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Кога стратегическото мислене помага и кога става подвеждащо?
 
-**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), 028, 077, 083, 090
+**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 077, 083, 090
 
 **Related lessons:** 095, 101
 

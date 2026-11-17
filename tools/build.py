@@ -31,6 +31,7 @@ PROGRESS_RE = re.compile(r"<!-- progress -->.*?<!-- /progress -->", re.S)
 # ------------------------------------------------------------------ curriculum
 
 def slug(text):
+    text = re.sub(r"[–—]", " ", text)  # en/em dashes separate words ("Hawk–Dove" -> hawk_dove)
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
     return "_".join(re.findall(r"[a-z0-9]+", text.lower()))
 

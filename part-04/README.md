@@ -109,7 +109,7 @@
 
 **Guiding question:** Как възниква доверие при риск от злоупотреба?
 
-**Prerequisites:** 024, 040, 046
+**Prerequisites:** [024](/part-02/lesson_024_stag_hunt.md), 040, 046
 
 **Related lessons:** 085, 095
 

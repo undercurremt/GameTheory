@@ -91,5 +91,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-02/lesson_023_coordination_games.md",
   "label": "023 Coordination Games"
+ },
+ {
+  "file": "part-02/lesson_024_stag_hunt.md",
+  "label": "024 Stag Hunt"
+ },
+ {
+  "file": "part-02/lesson_025_chicken_and_hawk_dove.md",
+  "label": "025 Chicken and Hawk–Dove"
+ },
+ {
+  "file": "part-02/lesson_026_mixed_strategies.md",
+  "label": "026 Mixed Strategies"
+ },
+ {
+  "file": "part-02/lesson_027_correlated_equilibrium.md",
+  "label": "027 Correlated Equilibrium"
+ },
+ {
+  "file": "part-02/lesson_028_pareto_efficiency_and_welfare.md",
+  "label": "028 Pareto Efficiency and Welfare"
  }
 ];

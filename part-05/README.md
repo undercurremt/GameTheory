@@ -111,7 +111,7 @@
 
 **Prerequisites:** 055–058
 
-**Related lessons:** 027, 096
+**Related lessons:** [027](/part-02/lesson_027_correlated_equilibrium.md), 096
 
 *Full lesson content coming soon.*
 

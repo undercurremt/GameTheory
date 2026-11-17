@@ -67,7 +67,7 @@
 
 **Guiding question:** Как моделираме вероятностните отклонения от оптималния избор?
 
-**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [020](/part-02/lesson_020_nash_equilibrium.md), 026, 079
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [020](/part-02/lesson_020_nash_equilibrium.md), [026](/part-02/lesson_026_mixed_strategies.md), 079
 
 **Related lessons:** 080, 082
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Защо несправедливостта може да мотивира отказ от лична изгода?
 
-**Prerequisites:** 028, 083
+**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 083
 
 **Related lessons:** 085, 095
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как стратегиите се разпространяват чрез еволюционни процеси?
 
-**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), 025, 026
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [025](/part-02/lesson_025_chicken_and_hawk_dove.md), [026](/part-02/lesson_026_mixed_strategies.md)
 
 **Related lessons:** 082, 088
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Кога една стратегия е устойчива на навлизането на алтернативи?
 
-**Prerequisites:** 025, 087
+**Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), 087
 
 **Related lessons:** 089
 

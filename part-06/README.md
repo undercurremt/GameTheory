@@ -11,7 +11,7 @@
 
 **Guiding question:** Как различни интереси могат да доведат до споразумение?
 
-**Prerequisites:** 028, 029, 039
+**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 029, 039
 
 **Related lessons:** 066, 068
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как формалните принципи определят решение за разпределение?
 
-**Prerequisites:** 028, 065–067
+**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 065–067
 
 **Related lessons:** 084
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Защо конфликтите могат да продължават въпреки взаимната вреда?
 
-**Prerequisites:** 025, 034, 065
+**Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), 034, 065
 
 **Related lessons:** 071, 098
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо участниците продължават да изчакват въпреки растящите разходи?
 
-**Prerequisites:** 026, 038, 070
+**Prerequisites:** [026](/part-02/lesson_026_mixed_strategies.md), 038, 070
 
 **Related lessons:** 050
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Защо общата полза не гарантира индивидуален принос?
 
-**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 028
+**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md)
 
 **Related lessons:** 073, 083
 
