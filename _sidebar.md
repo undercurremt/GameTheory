@@ -1,5 +1,6 @@
 * [Introduction](/)
 * [**Part I — Foundations of Game Theory**](/part-01/)
+  * [001 Origins of Game Theory](/part-01/lesson_001_origins_of_game_theory.md)
 * [**Part II — Strategic Reasoning & Equilibrium**](/part-02/)
 * [**Part III — Sequential Games & Commitment**](/part-03/)
 * [**Part IV — Repeated Games & Cooperation**](/part-04/)
