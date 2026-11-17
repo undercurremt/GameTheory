@@ -11,7 +11,7 @@
 
 **Guiding question:** Защо хората не винаги действат според класическите модели?
 
-**Prerequisites:** 009, 020, 022
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 020, 022
 
 **Related lessons:** 078
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как когнитивните ограничения влияят на решенията?
 
-**Prerequisites:** 009, 014, 077, 078
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 014, 077, 078
 
 **Related lessons:** 080–082
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Защо хората използват различни нива на стратегическо разсъждение?
 
-**Prerequisites:** 011, 019, 079
+**Prerequisites:** [011](/part-01/lesson_011_common_knowledge.md), 019, 079
 
 **Related lessons:** 081
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как емоциите и убежденията за чуждите очаквания влияят на поведението?
 
-**Prerequisites:** 010, 055, 083, 084
+**Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), 055, 083, 084
 
 **Related lessons:** 074, 100
 

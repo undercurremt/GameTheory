@@ -31,5 +31,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-01/lesson_008_payoffs_and_incentives.md",
   "label": "008 Payoffs and Incentives"
+ },
+ {
+  "file": "part-01/lesson_009_rationality.md",
+  "label": "009 Rationality"
+ },
+ {
+  "file": "part-01/lesson_010_knowledge_beliefs_and_expectations.md",
+  "label": "010 Knowledge, Beliefs and Expectations"
+ },
+ {
+  "file": "part-01/lesson_011_common_knowledge.md",
+  "label": "011 Common Knowledge"
+ },
+ {
+  "file": "part-01/lesson_012_rules_and_game_structure.md",
+  "label": "012 Rules and Game Structure"
+ },
+ {
+  "file": "part-01/lesson_013_classification_of_games.md",
+  "label": "013 Classification of Games"
  }
 ];

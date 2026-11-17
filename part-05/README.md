@@ -11,7 +11,7 @@
 
 **Guiding question:** Какво се променя, когато не познаваме характеристиките на играта?
 
-**Prerequisites:** 010, 013
+**Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [013](/part-01/lesson_013_classification_of_games.md)
 
 **Related lessons:** 053, 054
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как моделираме скритите характеристики на участниците?
 
-**Prerequisites:** 010, 052
+**Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), 052
 
 **Related lessons:** 046, 055
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как променяме убежденията си при нова информация?
 
-**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 010, 054
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), 054
 
 **Related lessons:** 056, 059
 

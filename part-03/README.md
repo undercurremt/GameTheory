@@ -11,7 +11,7 @@
 
 **Guiding question:** Как редът на действията променя стратегиите?
 
-**Prerequisites:** 013, 015
+**Prerequisites:** [013](/part-01/lesson_013_classification_of_games.md), 015
 
 **Related lessons:** 030
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Какво знае участникът в момента на решението?
 
-**Prerequisites:** 010, 030
+**Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), 030
 
 **Related lessons:** 053, 057
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как анализираме играта от края към началото?
 
-**Prerequisites:** 009, 030, 031
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 030, 031
 
 **Related lessons:** 033, 069
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как можем да променяме структурата на играта?
 
-**Prerequisites:** 012, 030, 036
+**Prerequisites:** [012](/part-01/lesson_012_rules_and_game_structure.md), 030, 036
 
 **Related lessons:** 075, 076
 

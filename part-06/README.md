@@ -151,7 +151,7 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 012, 020, 039
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), 020, 039
 
 **Related lessons:** 061, 063
 

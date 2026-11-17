@@ -11,7 +11,7 @@
 
 **Guiding question:** Как представяме стратегическа игра чрез матрица?
 
-**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), 013
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), [013](/part-01/lesson_013_classification_of_games.md)
 
 **Related lessons:** 030
 
@@ -25,7 +25,7 @@
 
 **Guiding question:** Кога една стратегия превъзхожда друга?
 
-**Prerequisites:** 009, 015
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 015
 
 **Related lessons:** 017, 019
 
@@ -41,7 +41,7 @@
 
 **Prerequisites:** 016
 
-**Related lessons:** 011, 019
+**Related lessons:** [011](/part-01/lesson_011_common_knowledge.md), 019
 
 *Full lesson content coming soon.*
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Какво е най-доброто действие при даден избор на другия?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 009, 015
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [009](/part-01/lesson_009_rationality.md), 015
 
 **Related lessons:** 019, 020
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Кои стратегии са съвместими с рационално стратегическо разсъждение?
 
-**Prerequisites:** 011, 017, 018
+**Prerequisites:** [011](/part-01/lesson_011_common_knowledge.md), 017, 018
 
 **Related lessons:** 020, 080
 

@@ -25,7 +25,7 @@
 
 **Guiding question:** Как систематично описваме една реална ситуация?
 
-**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–012, 090
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[012](/part-01/lesson_012_rules_and_game_structure.md), 090
 
 **Related lessons:** 092
 
