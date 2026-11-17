@@ -39,7 +39,7 @@
 
 **Guiding question:** Как оценяваме бъдещите резултати?
 
-**Prerequisites:** 007, 040, 041
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 040, 041
 
 **Related lessons:** 050
 

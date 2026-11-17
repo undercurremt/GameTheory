@@ -53,7 +53,7 @@
 
 **Guiding question:** Как променяме убежденията си при нова информация?
 
-**Prerequisites:** 007, 010, 054
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 010, 054
 
 **Related lessons:** 056, 059
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как ненаблюдаваните действия влияят върху стимулите?
 
-**Prerequisites:** 008, 031, 054
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 031, 054
 
 **Related lessons:** 048, 075
 

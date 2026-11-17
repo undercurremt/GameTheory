@@ -67,7 +67,7 @@
 
 **Guiding question:** Как моделираме вероятностните отклонения от оптималния избор?
 
-**Prerequisites:** 007, 020, 026, 079
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 020, 026, 079
 
 **Related lessons:** 080, 082
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо чуждите резултати могат да влияят върху собствената ни полезност?
 
-**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 077, 078
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), 077, 078
 
 **Related lessons:** 084–086
 

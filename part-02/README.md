@@ -11,7 +11,7 @@
 
 **Guiding question:** Как представяме стратегическа игра чрез матрица?
 
-**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–008, 013
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), 013
 
 **Related lessons:** 030
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Какво е най-доброто действие при даден избор на другия?
 
-**Prerequisites:** 008, 009, 015
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 009, 015
 
 **Related lessons:** 019, 020
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Кога случайният избор между стратегии е рационален?
 
-**Prerequisites:** 007, 018, 020
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 018, 020
 
 **Related lessons:** 027, 081
 
@@ -193,7 +193,7 @@
 
 **Guiding question:** Защо равновесието не гарантира най-добрия общ резултат?
 
-**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 020
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), 020
 
 **Related lessons:** 068, 084
 

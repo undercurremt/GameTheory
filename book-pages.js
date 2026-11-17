@@ -23,5 +23,13 @@ window.BOOK_PAGES = [
  {
   "file": "part-01/lesson_006_outcomes_and_preferences.md",
   "label": "006 Outcomes and Preferences"
+ },
+ {
+  "file": "part-01/lesson_007_utility_and_expected_utility.md",
+  "label": "007 Utility and Expected Utility"
+ },
+ {
+  "file": "part-01/lesson_008_payoffs_and_incentives.md",
+  "label": "008 Payoffs and Incentives"
  }
 ];

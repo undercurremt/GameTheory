@@ -25,7 +25,7 @@
 
 **Guiding question:** Как алтернативите влияят върху преговорите?
 
-**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 065
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), 065
 
 **Related lessons:** 067, 069
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Защо участници се възползват от чуждите усилия?
 
-**Prerequisites:** 008, 072
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 072
 
 **Related lessons:** 074, 076
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** 008, 012, 020, 039
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 012, 020, 039
 
 **Related lessons:** 061, 063
 

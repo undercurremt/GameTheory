@@ -6,6 +6,8 @@
   * [004 Players and Interdependence](/part-01/lesson_004_players_and_interdependence.md)
   * [005 Actions and Strategies](/part-01/lesson_005_actions_and_strategies.md)
   * [006 Outcomes and Preferences](/part-01/lesson_006_outcomes_and_preferences.md)
+  * [007 Utility and Expected Utility](/part-01/lesson_007_utility_and_expected_utility.md)
+  * [008 Payoffs and Incentives](/part-01/lesson_008_payoffs_and_incentives.md)
 * [**Part II — Strategic Reasoning & Equilibrium**](/part-02/)
 * [**Part III — Sequential Games & Commitment**](/part-03/)
 * [**Part IV — Repeated Games & Cooperation**](/part-04/)
