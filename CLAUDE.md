@@ -17,4 +17,5 @@ terms and titles); Claude only files and publishes them. Never edit lesson text 
 - Generated, never edit by hand: `_sidebar.md`, `part-*/README.md`, `book-pages.js`, progress line in `README.md`.
   Change `curriculum.yaml` and run `python tools/build.py` instead.
 - UI labels on generated pages are in English (Core concept, Guiding question, Prerequisites, Related lessons).
+- Math in lessons (`$$…$$`, `\[…\]`, `\(…\)`) is rendered by KaTeX via a plugin in `index.html`; single `$` is not math.
 - Requires `pip install pyyaml`.
