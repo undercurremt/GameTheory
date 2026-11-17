@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо чуждите резултати могат да влияят върху собствената ни полезност?
 
-**Prerequisites:** 006–008, 077, 078
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 077, 078
 
 **Related lessons:** 084–086
 

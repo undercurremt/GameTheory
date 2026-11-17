@@ -3,5 +3,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-01/lesson_001_origins_of_game_theory.md",
   "label": "001 Origins of Game Theory"
+ },
+ {
+  "file": "part-01/lesson_002_founders_and_scientific_development.md",
+  "label": "002 Founders and Scientific Development"
+ },
+ {
+  "file": "part-01/lesson_003_strategic_interaction.md",
+  "label": "003 Strategic Interaction"
+ },
+ {
+  "file": "part-01/lesson_004_players_and_interdependence.md",
+  "label": "004 Players and Interdependence"
+ },
+ {
+  "file": "part-01/lesson_005_actions_and_strategies.md",
+  "label": "005 Actions and Strategies"
+ },
+ {
+  "file": "part-01/lesson_006_outcomes_and_preferences.md",
+  "label": "006 Outcomes and Preferences"
  }
 ];

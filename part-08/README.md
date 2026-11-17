@@ -11,7 +11,7 @@
 
 **Guiding question:** Как разпознаваме стратегическо взаимодействие в ежедневието?
 
-**Prerequisites:** 003–014, 020
+**Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–014, 020
 
 **Related lessons:** 100
 
@@ -25,7 +25,7 @@
 
 **Guiding question:** Как систематично описваме една реална ситуация?
 
-**Prerequisites:** 005–012, 090
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–012, 090
 
 **Related lessons:** 092
 

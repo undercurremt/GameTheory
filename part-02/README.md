@@ -11,7 +11,7 @@
 
 **Guiding question:** Как представяме стратегическа игра чрез матрица?
 
-**Prerequisites:** 005–008, 013
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–008, 013
 
 **Related lessons:** 030
 
@@ -193,7 +193,7 @@
 
 **Guiding question:** Защо равновесието не гарантира най-добрия общ резултат?
 
-**Prerequisites:** 006–008, 020
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 020
 
 **Related lessons:** 068, 084
 

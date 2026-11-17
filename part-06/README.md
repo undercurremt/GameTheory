@@ -25,7 +25,7 @@
 
 **Guiding question:** Как алтернативите влияят върху преговорите?
 
-**Prerequisites:** 006–008, 065
+**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–008, 065
 
 **Related lessons:** 067, 069
 

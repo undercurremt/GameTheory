@@ -25,7 +25,7 @@
 
 **Guiding question:** Как се представят последователните решения?
 
-**Prerequisites:** 005, 008, 029
+**Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md), 008, 029
 
 **Related lessons:** 031, 032
 
