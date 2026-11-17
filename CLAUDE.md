@@ -18,4 +18,6 @@ terms and titles); Claude only files and publishes them. Never edit lesson text 
   Change `curriculum.yaml` and run `python tools/build.py` instead.
 - UI labels on generated pages are in English (Core concept, Guiding question, Prerequisites, Related lessons).
 - Math in lessons (`$$…$$`, `\[…\]`, `\(…\)`) is rendered by KaTeX via a plugin in `index.html`; single `$` is not math.
+  The plugin also repairs, at render time only, three known ChatGPT artefacts: doubled `\(\(…\)\)`, `\frac` split into newline+`rac`,
+  and `---` placed directly under a text line (which Markdown would turn into a heading).
 - Requires `pip install pyyaml`.
