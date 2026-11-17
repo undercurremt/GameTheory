@@ -109,7 +109,7 @@
 
 **Guiding question:** Защо общата полза не гарантира индивидуален принос?
 
-**Prerequisites:** 022, 028
+**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 028
 
 **Related lessons:** 073, 083
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), 020, 039
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), [020](/part-02/lesson_020_nash_equilibrium.md), 039
 
 **Related lessons:** 061, 063
 

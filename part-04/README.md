@@ -11,7 +11,7 @@
 
 **Guiding question:** Как повторяемостта променя решенията?
 
-**Prerequisites:** 020, 022, 029
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md), 029
 
 **Related lessons:** 041, 043
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как повторението може да създаде възможност за сътрудничество?
 
-**Prerequisites:** 022, 040–042
+**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 040–042
 
 **Related lessons:** 044, 048
 

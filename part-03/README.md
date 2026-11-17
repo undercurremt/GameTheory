@@ -67,7 +67,7 @@
 
 **Guiding question:** Кое равновесие остава устойчиво във всяка подигра?
 
-**Prerequisites:** 020, 030–032
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), 030–032
 
 **Related lessons:** 034, 035
 

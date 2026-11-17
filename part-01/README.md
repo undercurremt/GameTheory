@@ -23,7 +23,7 @@
 
 **Prerequisites:** [001](/part-01/lesson_001_origins_of_game_theory.md)
 
-**Related lessons:** 020, 068, 087
+**Related lessons:** [020](/part-02/lesson_020_nash_equilibrium.md), 068, 087
 
 ---
 
@@ -93,7 +93,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[007](/part-01/lesson_007_utility_and_expected_utility.md)
 
-**Related lessons:** 022, 075
+**Related lessons:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 075
 
 ---
 
@@ -105,7 +105,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md)
 
-**Related lessons:** 019, 079
+**Related lessons:** [019](/part-02/lesson_019_rationalizability.md), 079
 
 ---
 
@@ -129,7 +129,7 @@
 
 **Prerequisites:** [009](/part-01/lesson_009_rationality.md), [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md)
 
-**Related lessons:** 019, 020
+**Related lessons:** [019](/part-02/lesson_019_rationalizability.md), [020](/part-02/lesson_020_nash_equilibrium.md)
 
 ---
 

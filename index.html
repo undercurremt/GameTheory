@@ -72,6 +72,8 @@
             found = []
             return md.split(CODE).map(function (part, i) {
               if (i % 2) return part // code — leave untouched
+              // tolerate accidentally doubled inline delimiters: \(\(4>0\)\) -> \(4>0\)
+              part = part.replace(/\\\(\\\(/g, '\\(').replace(/\\\)\\\)/g, '\\)')
               return part.replace(MATH, function (_, d1, d2, inl) {
                 found.push({ tex: d1 || d2 || inl, display: !inl })
                 return 'KATEXMATH' + (found.length - 1) + 'X'

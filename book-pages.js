@@ -71,5 +71,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-02/lesson_018_best_response.md",
   "label": "018 Best Response"
+ },
+ {
+  "file": "part-02/lesson_019_rationalizability.md",
+  "label": "019 Rationalizability"
+ },
+ {
+  "file": "part-02/lesson_020_nash_equilibrium.md",
+  "label": "020 Nash Equilibrium"
+ },
+ {
+  "file": "part-02/lesson_021_multiple_equilibria.md",
+  "label": "021 Multiple Equilibria"
+ },
+ {
+  "file": "part-02/lesson_022_prisoner_s_dilemma.md",
+  "label": "022 Prisoner's Dilemma"
+ },
+ {
+  "file": "part-02/lesson_023_coordination_games.md",
+  "label": "023 Coordination Games"
  }
 ];

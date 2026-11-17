@@ -11,7 +11,7 @@
 
 **Guiding question:** Как разпознаваме стратегическо взаимодействие в ежедневието?
 
-**Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[014](/part-01/lesson_014_models_assumptions_and_explanation.md), 020
+**Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[014](/part-01/lesson_014_models_assumptions_and_explanation.md), [020](/part-02/lesson_020_nash_equilibrium.md)
 
 **Related lessons:** 100
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** 020, 022–024, 033, 043, 056, 091
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–024, 033, 043, 056, 091
 
 **Related lessons:** 100
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** 023, 072–076, 089
+**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), 072–076, 089
 
 **Related lessons:** 094, 100
 

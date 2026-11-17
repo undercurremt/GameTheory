@@ -11,7 +11,7 @@
 
 **Guiding question:** Защо хората не винаги действат според класическите модели?
 
-**Prerequisites:** [009](/part-01/lesson_009_rationality.md), 020, 022
+**Prerequisites:** [009](/part-01/lesson_009_rationality.md), [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)
 
 **Related lessons:** 078
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Защо хората използват различни нива на стратегическо разсъждение?
 
-**Prerequisites:** [011](/part-01/lesson_011_common_knowledge.md), 019, 079
+**Prerequisites:** [011](/part-01/lesson_011_common_knowledge.md), [019](/part-02/lesson_019_rationalizability.md), 079
 
 **Related lessons:** 081
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Как моделираме вероятностните отклонения от оптималния избор?
 
-**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 020, 026, 079
+**Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [020](/part-02/lesson_020_nash_equilibrium.md), 026, 079
 
 **Related lessons:** 080, 082
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Как експериментите изследват справедливостта, доверието и взаимността?
 
-**Prerequisites:** 022, 047, 065, 078, 083
+**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 047, 065, 078, 083
 
 **Related lessons:** 072, 086
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как стратегиите се разпространяват чрез еволюционни процеси?
 
-**Prerequisites:** 020, 025, 026
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), 025, 026
 
 **Related lessons:** 082, 088
 
@@ -179,7 +179,7 @@
 
 **Guiding question:** Как възникват и се поддържат социалните норми?
 
-**Prerequisites:** 023, 076, 082, 087
+**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), 076, 082, 087
 
 **Related lessons:** 051, 099
 
