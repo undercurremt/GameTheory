@@ -27,7 +27,7 @@
 
 **Prerequisites:** [031](/part-03/lesson_031_information_sets.md), 052
 
-**Related lessons:** 049, 058
+**Related lessons:** [049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), 058
 
 *Full lesson content coming soon.*
 
@@ -41,7 +41,7 @@
 
 **Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), 052
 
-**Related lessons:** 046, 055
+**Related lessons:** [046](/part-04/lesson_046_reputation.md), 055
 
 *Full lesson content coming soon.*
 
@@ -125,7 +125,7 @@
 
 **Prerequisites:** 058
 
-**Related lessons:** [035](/part-03/lesson_035_credible_promises.md), 046
+**Related lessons:** [035](/part-03/lesson_035_credible_promises.md), [046](/part-04/lesson_046_reputation.md)
 
 *Full lesson content coming soon.*
 
@@ -167,7 +167,7 @@
 
 **Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [031](/part-03/lesson_031_information_sets.md), 054
 
-**Related lessons:** 048, 075
+**Related lessons:** [048](/part-04/lesson_048_punishment_and_deterrence.md), 075
 
 *Full lesson content coming soon.*
 

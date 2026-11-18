@@ -155,5 +155,53 @@ window.BOOK_PAGES = [
  {
   "file": "part-03/lesson_039_endogenous_game_structure.md",
   "label": "039 Endogenous Game Structure"
+ },
+ {
+  "file": "part-04/lesson_040_one_shot_vs_repeated_games.md",
+  "label": "040 One-Shot vs. Repeated Games"
+ },
+ {
+  "file": "part-04/lesson_041_shadow_of_the_future.md",
+  "label": "041 Shadow of the Future"
+ },
+ {
+  "file": "part-04/lesson_042_discount_factors.md",
+  "label": "042 Discount Factors"
+ },
+ {
+  "file": "part-04/lesson_043_repeated_prisoner_s_dilemma.md",
+  "label": "043 Repeated Prisoner's Dilemma"
+ },
+ {
+  "file": "part-04/lesson_044_tit_for_tat_and_reciprocity.md",
+  "label": "044 Tit-for-Tat and Reciprocity"
+ },
+ {
+  "file": "part-04/lesson_045_conditional_cooperation.md",
+  "label": "045 Conditional Cooperation"
+ },
+ {
+  "file": "part-04/lesson_046_reputation.md",
+  "label": "046 Reputation"
+ },
+ {
+  "file": "part-04/lesson_047_trust_and_vulnerability.md",
+  "label": "047 Trust and Vulnerability"
+ },
+ {
+  "file": "part-04/lesson_048_punishment_and_deterrence.md",
+  "label": "048 Punishment and Deterrence"
+ },
+ {
+  "file": "part-04/lesson_049_forgiveness_and_imperfect_monitoring.md",
+  "label": "049 Forgiveness and Imperfect Monitoring"
+ },
+ {
+  "file": "part-04/lesson_050_finite_vs_indefinite_repetition.md",
+  "label": "050 Finite vs. Indefinite Repetition"
+ },
+ {
+  "file": "part-04/lesson_051_conditions_for_sustained_cooperation.md",
+  "label": "051 Conditions for Sustained Cooperation"
  }
 ];

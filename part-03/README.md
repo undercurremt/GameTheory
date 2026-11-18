@@ -85,7 +85,7 @@
 
 **Prerequisites:** [032](/part-03/lesson_032_backward_induction.md)–[034](/part-03/lesson_034_credible_threats.md)
 
-**Related lessons:** [036](/part-03/lesson_036_strategic_commitment.md), 047
+**Related lessons:** [036](/part-03/lesson_036_strategic_commitment.md), [047](/part-04/lesson_047_trust_and_vulnerability.md)
 
 ---
 
@@ -121,7 +121,7 @@
 
 **Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md), [037](/part-03/lesson_037_first_mover_and_second_mover_advantages.md)
 
-**Related lessons:** 050, 071
+**Related lessons:** [050](/part-04/lesson_050_finite_vs_indefinite_repetition.md), 071
 
 ---
 

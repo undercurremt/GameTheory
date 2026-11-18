@@ -67,7 +67,7 @@
 
 **Guiding question:** Как последователните предложения и нетърпението влияят върху резултата?
 
-**Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md)–[033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 042, 065
+**Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md)–[033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [042](/part-04/lesson_042_discount_factors.md), 065
 
 **Related lessons:** [038](/part-03/lesson_038_strategic_timing.md), 066
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** [026](/part-02/lesson_026_mixed_strategies.md), [038](/part-03/lesson_038_strategic_timing.md), 070
 
-**Related lessons:** 050
+**Related lessons:** [050](/part-04/lesson_050_finite_vs_indefinite_repetition.md)
 
 *Full lesson content coming soon.*
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как институциите поддържат сътрудничеството?
 
-**Prerequisites:** 048, 072–075
+**Prerequisites:** [048](/part-04/lesson_048_punishment_and_deterrence.md), 072–075
 
 **Related lessons:** 089, 094
 

@@ -153,7 +153,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md), [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [012](/part-01/lesson_012_rules_and_game_structure.md)
 
-**Related lessons:** [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), 040, 052
+**Related lessons:** [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), [040](/part-04/lesson_040_one_shot_vs_repeated_games.md), 052
 
 ---
 
