@@ -1,8 +1,5 @@
 # Lesson 003 — Strategic Interaction
 
-**Game Theory — One Concept at a Time**  
-**Част I — Foundations of Game Theory**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (образцов кандидат; LaTeX standard)  
 **Основна концепция:** определение за игра / стратегическо взаимодействие  
 **Напречни връзки:** Lesson 004 — Players and Interdependence; Lesson 012 — Rules and Game Structure; Lesson 014 — Models, Assumptions and Explanation
 

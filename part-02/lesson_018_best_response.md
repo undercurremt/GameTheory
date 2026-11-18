@@ -1,8 +1,5 @@
 # Lesson 018 — Best Response
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Най-добър отговор спрямо чужд избор или убеждение.  
 **Напречни връзки:** Lessons 019 — Rationalizability; 020 — Nash Equilibrium
 

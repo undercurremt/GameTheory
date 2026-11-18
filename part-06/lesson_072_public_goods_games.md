@@ -3,10 +3,6 @@
 **Основна концепция:** Обществени блага  
 **Напречни връзки:** Lesson 073 — Free-Riding and Collective Action; Lesson 083 — Social Preferences
 
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2
-
 > **Стандарт на интерпретация:** Формалните резултати са условни спрямо допусканията. Числата в казусите са конструирани за обучение, а не емпирични оценки. Равновесие не означава неизбежно реално поведение.
 
 ---

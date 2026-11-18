@@ -1,8 +1,5 @@
 # Lesson 064 — Auctions and Winner's Curse
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Търгове и проклятието на победителя  
 **Напречни връзки:** 066 — Outside Options and Disagreement Points; 069 — Alternating-Offers Bargaining
 

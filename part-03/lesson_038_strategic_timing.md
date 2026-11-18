@@ -1,8 +1,5 @@
 # Lesson 038 — Strategic Timing
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Стратегическо време на действие и изчакване  
 **Напречни връзки:** Lessons 050 — Finite vs. Indefinite Repetition; 071 — War of Attrition
 

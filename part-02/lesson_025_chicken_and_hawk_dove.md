@@ -1,8 +1,5 @@
 # Lesson 025 — Chicken and Hawk–Dove
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Chicken and Hawk–Dove  
 **Напречни връзки:** Lessons 070 — Strategic Conflict and Escalation; 088 — Evolutionarily Stable Strategies
 

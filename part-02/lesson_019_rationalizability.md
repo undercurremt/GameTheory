@@ -1,8 +1,5 @@
 # Lesson 019 — Rationalizability
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Рационализируемост: кои стратегии могат да бъдат обосновани като най-добър отговор на допустими убеждения  
 **Непосредствени предпоставки:** Lessons 011, 017, 018  
 **Напречни връзки:** Lessons 020 и 080

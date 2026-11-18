@@ -1,8 +1,5 @@
 # Lesson 023 — Coordination Games
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Координационни игри: взаимни очаквания и съгласуване на действията  
 **Непосредствени предпоставки:** Lessons 020, 021  
 **Напречни връзки:** Lessons 024, 027 и 089

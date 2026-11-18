@@ -1,8 +1,5 @@
 # Lesson 037 — First-Mover and Second-Mover Advantages
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Предимства на първия и втория ход  
 **Напречни връзки:** Lessons 069 — Alternating-Offers Bargaining
 

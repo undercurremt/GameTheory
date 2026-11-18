@@ -1,8 +1,5 @@
 # Lesson 033 — Subgame Perfect Equilibrium
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Равновесие, устойчиво във всяка подигра  
 **Напречни връзки:** Lessons 034 — Credible Threats; 035 — Credible Promises
 

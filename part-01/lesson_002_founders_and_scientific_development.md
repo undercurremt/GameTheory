@@ -1,8 +1,5 @@
 # Lesson 002 — Founders and Scientific Development
 
-**Game Theory — One Concept at a Time**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2  
-**Част:** I — Foundations of Game Theory  
 **Основна концепция:** Основоположници и научно развитие  
 **Предпоставка:** Lesson 001 — Origins of Game Theory  
 **Напречни връзки:** 020 (Nash Equilibrium), 068 (Nash Bargaining Solution), 087 (Evolutionary Game Theory)

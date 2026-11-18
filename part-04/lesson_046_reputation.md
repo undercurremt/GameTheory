@@ -1,8 +1,5 @@
 # Lesson 046 — Reputation
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Репутация като стратегическо убеждение  
 **Напречни връзки:** Lessons 054 — Private Information and Player Types; 058 — Signaling Games
 

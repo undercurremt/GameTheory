@@ -1,8 +1,5 @@
 # Lesson 011 — Common Knowledge
 
-**Поредица:** Game Theory — One Concept at a Time  
-**Част:** I — Foundations of Game Theory  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2  
 **Език:** български обяснения; ключови English terms с български пояснения  
 **Стандарт за математиката:** само LaTeX с inline и display delimiters
 

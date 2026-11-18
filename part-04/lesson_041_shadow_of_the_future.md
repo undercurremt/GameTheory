@@ -1,8 +1,5 @@
 # Lesson 041 — Shadow of the Future
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Влияние на бъдещите взаимодействия върху настоящите стимули  
 **Напречни връзки:** Lessons 042 — Discount Factors; 051 — Conditions for Sustained Cooperation
 

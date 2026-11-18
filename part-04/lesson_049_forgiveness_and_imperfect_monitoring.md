@@ -1,8 +1,5 @@
 # Lesson 049 — Forgiveness and Imperfect Monitoring
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Грешки в наблюдението и възстановяване на сътрудничеството  
 **Напречни връзки:** Lessons 053 — Perfect vs. Imperfect Information; 055 — Bayesian Updating
 

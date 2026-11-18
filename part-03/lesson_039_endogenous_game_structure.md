@@ -1,8 +1,5 @@
 # Lesson 039 — Endogenous Game Structure
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Ендогенна промяна на структурата на играта  
 **Напречни връзки:** Lessons 075 — Mechanism Design; 076 — Institutions and Enforcement
 

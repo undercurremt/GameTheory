@@ -1,8 +1,5 @@
 # Lesson 065 — Bargaining as Strategic Interaction
 
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Стратегическо договаряне  
 **Напречни връзки:** 066 — Outside Options and Disagreement Points; 068 — Nash Bargaining Solution
 

@@ -1,8 +1,5 @@
 # Lesson 051 — Conditions for Sustained Cooperation
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** условия за устойчиво сътрудничество в повторени игри  
 **Напречни връзки:** Lessons 072–076 — Collective Action and Institutions; Lesson 098 — Conflict De-escalation and Repair
 

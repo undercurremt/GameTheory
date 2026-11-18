@@ -1,8 +1,5 @@
 # Lesson 004 — Players and Interdependence
 
-**Game Theory — One Concept at a Time**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Редакция:** 2.0 (разширена концептуална версия)  
-**Част:** I — Foundations of Game Theory  
 **Основна концепция:** Участници и взаимозависимост  
 **Предпоставка:** Lesson 003 — Strategic Interaction  
 **Напречни връзки:** 008 (Payoffs and Incentives), 091 (Mapping Players, Incentives and Information)

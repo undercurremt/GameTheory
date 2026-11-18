@@ -1,8 +1,5 @@
 # Lesson 036 — Strategic Commitment
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Стратегически ангажимент и умишлено ограничаване на избора  
 **Напречни връзки:** Lessons 037 — First-Mover and Second-Mover Advantages; 075 — Mechanism Design
 

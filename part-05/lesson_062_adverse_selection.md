@@ -1,8 +1,5 @@
 # Lesson 062 — Adverse Selection
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Неблагоприятен подбор  
 **Напречни връзки:** 063 — Moral Hazard; 064 — Auctions and Winner’s Curse
 

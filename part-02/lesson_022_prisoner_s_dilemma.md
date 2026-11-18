@@ -1,8 +1,5 @@
 # Lesson 022 — Prisoner's Dilemma
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Дилема на затворника: конфликт между доминиращ индивидуален избор и съвместна полза  
 **Непосредствени предпоставки:** Lessons 016, 020  
 **Напречни връзки:** Lessons 040, 043 и 072

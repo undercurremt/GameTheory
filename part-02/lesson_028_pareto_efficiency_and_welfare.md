@@ -1,8 +1,5 @@
 # Lesson 028 — Pareto Efficiency and Welfare
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Pareto Efficiency and Welfare  
 **Напречни връзки:** Lessons 068 — Nash Bargaining Solution; 084 — Fairness and Inequity Aversion
 

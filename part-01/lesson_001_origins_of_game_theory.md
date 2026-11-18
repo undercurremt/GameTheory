@@ -1,8 +1,5 @@
 # Lesson 001 — The Origins of Game Theory
 
-**Курс:** Game Theory — One Concept at a Time  
-**Тематична част:** I. Foundations of Game Theory  
-**Стандарт:** Master Curriculum v1.0 · Lesson Blueprint v1.2  
 **Основна концепция:** Исторически произход  
 **Статус:** Разработен урок · v1.0
 

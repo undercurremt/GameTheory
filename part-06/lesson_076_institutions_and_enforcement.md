@@ -1,9 +1,6 @@
 # Lesson 076 — Institutions and Enforcement
 
 **Основна концепция:** Институции и прилагане на правила  
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2  
 **Напречни връзки:** Lesson 089 — Social Norms and Cultural Evolution; Lesson 094 — Leadership and Team Incentives
 
 > **Стандарт на интерпретация:** Формалните резултати са условни спрямо изрично зададените полезности, информация и възможности за санкциониране. Числовите случаи са учебни конструкции. Историческите и експерименталните изследвания, цитирани тук, не доказват, че всички институции действат еднакво.

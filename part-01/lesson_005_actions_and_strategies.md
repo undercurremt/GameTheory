@@ -1,8 +1,5 @@
 # Lesson 005 — Actions and Strategies
 
-**Game Theory — One Concept at a Time**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Редакция:** 2.0 (разширена концептуална версия)  
-**Част:** I — Foundations of Game Theory  
 **Основна концепция:** Действия и стратегии  
 **Предпоставки:** Lesson 003 — Strategic Interaction; Lesson 004 — Players and Interdependence  
 **Напречни връзки:** 030 (Extensive-Form Games), 031 (Information Sets)

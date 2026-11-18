@@ -1,8 +1,5 @@
 # Lesson 048 — Punishment and Deterrence
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Наказание и възпиране като стимул  
 **Напречни връзки:** Lessons 049 — Forgiveness and Imperfect Monitoring; 076 — Institutions and Enforcement
 

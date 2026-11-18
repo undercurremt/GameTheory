@@ -1,8 +1,5 @@
 # Lesson 007 — Utility and Expected Utility
 
-**Game Theory — One Concept at a Time**  
-**Част I — Foundations of Game Theory**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия:** 1.0 (разширена)  
 **Основна концепция:** Utility и избор при риск  
 **Задължителна предпоставка:** Lesson 006 — Outcomes and Preferences  
 **Напречни връзки:** Lesson 055 — Bayesian Updating; Lesson 084 — Fairness and Inequity Aversion

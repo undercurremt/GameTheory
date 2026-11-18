@@ -1,8 +1,5 @@
 # Lesson 050 — Finite vs. Indefinite Repetition
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** хоризонтът на повторението и стимулите за сътрудничество  
 **Напречни връзки:** Lesson 032 — Backward Induction; Lesson 038 — Strategic Timing; Lesson 041 — Shadow of the Future; Lesson 051 — Conditions for Sustained Cooperation
 

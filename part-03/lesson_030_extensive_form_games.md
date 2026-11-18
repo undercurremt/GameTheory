@@ -1,8 +1,5 @@
 # Lesson 030 — Extensive-Form Games
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Дървета на игри и пълни условни стратегии  
 **Напречни връзки:** Lessons 031 — Information Sets; 032 — Backward Induction
 

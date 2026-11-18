@@ -1,8 +1,5 @@
 # Lesson 061 — Screening and Self-Selection
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Скрининг и самоподбор  
 **Напречни връзки:** 060 — Costly Signaling; 062 — Adverse Selection
 

@@ -1,8 +1,5 @@
 # Lesson 016 — Strict and Weak Dominance
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Строго и слабо доминиране.  
 **Напречни връзки:** Lessons 017 — Iterated Elimination; 019 — Rationalizability
 

@@ -1,8 +1,5 @@
 # Lesson 056 — Bayesian Games and Bayesian Nash Equilibrium
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Байесови игри и Bayesian Nash Equilibrium  
 **Напречни връзки:** 057 — Perfect Bayesian Equilibrium; 064 — Auctions and Winner’s Curse
 

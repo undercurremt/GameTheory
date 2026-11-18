@@ -1,8 +1,5 @@
 # Lesson 015 — Normal-Form Games
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Стратегическа (нормална) форма и payoff matrix.  
 **Напречни връзки:** Lesson 030 — Extensive-Form Games
 

@@ -1,8 +1,5 @@
 # Lesson 035 — Credible Promises
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Достоверност на условните обещания  
 **Напречни връзки:** Lessons 036 — Strategic Commitment; 047 — Trust and Vulnerability
 

@@ -1,8 +1,5 @@
 # Lesson 020 — Nash Equilibrium
 
-**Game Theory — One Concept at a Time**  
-**Част II — Strategic Reasoning & Equilibrium**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Равновесие на Неш: взаимна оптималност при едностранно отклонение  
 **Непосредствени предпоставки:** Lessons 015, 018  
 **Напречни връзки:** Lessons 021, 033 и 056

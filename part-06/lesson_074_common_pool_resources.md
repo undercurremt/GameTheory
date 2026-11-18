@@ -3,10 +3,6 @@
 **Основна концепция:** Ресурси за общо ползване  
 **Напречни връзки:** Lesson 075 — Mechanism Design; Lesson 089 — Social Norms and Cultural Evolution
 
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2
-
 > **Стандарт на интерпретация:** Формалните резултати са условни спрямо допусканията. Числата в казусите са конструирани за обучение, а не емпирични оценки. Равновесие не означава неизбежно реално поведение.
 
 ---

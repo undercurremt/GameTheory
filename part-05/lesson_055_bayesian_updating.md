@@ -1,8 +1,5 @@
 # Lesson 055 — Bayesian Updating
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Байесово обновяване на убеждения  
 **Напречни връзки:** 056 — Bayesian Games and Bayesian Nash Equilibrium; 059 — Cheap Talk
 

@@ -3,10 +3,6 @@
 **Основна концепция:** Ескалация на конфликт  
 **Напречни връзки:** Lesson 071 — War of Attrition; Lesson 098 — Conflict De-escalation and Repair
 
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2
-
 > **Стандарт на интерпретация:** Формалните резултати са условни спрямо допусканията. Числата в казусите са конструирани за обучение, а не емпирични оценки. Равновесие не означава неизбежно реално поведение.
 
 ---

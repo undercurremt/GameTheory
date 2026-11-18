@@ -1,8 +1,5 @@
 # Lesson 006 — Outcomes and Preferences
 
-**Game Theory — One Concept at a Time**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Редакция:** 2.0 (разширена концептуална версия)  
-**Част:** I — Foundations of Game Theory  
 **Основна концепция:** Резултати и предпочитания  
 **Предпоставки:** Lesson 003 — Strategic Interaction; Lesson 004 — Players and Interdependence; Lesson 005 — Actions and Strategies  
 **Напречни връзки:** 007 (Utility and Expected Utility), 083 (Social Preferences)

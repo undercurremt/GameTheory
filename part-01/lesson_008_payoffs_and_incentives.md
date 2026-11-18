@@ -1,8 +1,5 @@
 # Lesson 008 — Payoffs and Incentives
 
-**Game Theory — One Concept at a Time**  
-**Част I — Foundations of Game Theory**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия:** 1.0 (разширена)  
 **Основна концепция:** Payoffs and Incentives  
 **Предпоставки:** Lessons 005–007 — Actions and Strategies; Outcomes and Preferences; Utility and Expected Utility  
 **Напречни връзки:** Lesson 022 — Prisoner's Dilemma; Lesson 075 — Mechanism Design

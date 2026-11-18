@@ -1,8 +1,5 @@
 # Lesson 032 — Backward Induction
 
-**Game Theory — One Concept at a Time**  
-**Част III — Sequential Games & Commitment**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Обратна индукция при крайни игри с перфектна информация  
 **Напречни връзки:** Lessons 033 — Subgame Perfect Equilibrium; 069 — Alternating-Offers Bargaining
 

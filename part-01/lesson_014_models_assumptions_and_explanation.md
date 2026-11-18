@@ -1,8 +1,5 @@
 # Lesson 014 — Models, Assumptions and Explanation
 
-**Game Theory — One Concept at a Time**  
-**Част I — Foundations of Game Theory**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Допускания, идеализация, обяснение и граници на модела.  
 **Напречни връзки:** Lessons 077 — Classical Predictions vs. Observed Behavior; 100 — Ethics and Limits of Strategic Thinking
 

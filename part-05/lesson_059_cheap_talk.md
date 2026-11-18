@@ -1,8 +1,5 @@
 # Lesson 059 — Cheap Talk
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Необвързваща комуникация  
 **Напречни връзки:** 027 — Correlated Equilibrium; 096 — Communication and Misunderstanding
 

@@ -1,8 +1,5 @@
 # Lesson 053 — Perfect vs. Imperfect Information
 
-**Game Theory — One Concept at a Time**  
-**Част V — Information, Signaling & Beliefs**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Перфектна и неперфектна информация  
 **Напречни връзки:** 049 — Forgiveness and Imperfect Monitoring; 058 — Signaling Games
 

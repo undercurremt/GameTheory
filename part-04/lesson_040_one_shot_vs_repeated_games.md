@@ -1,8 +1,5 @@
 # Lesson 040 — One-Shot vs. Repeated Games
 
-**Game Theory — One Concept at a Time**  
-**Част IV — Repeated Games & Cooperation**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Еднократни и повторени стратегически взаимодействия  
 **Напречни връзки:** Lessons 041 — Shadow of the Future; 043 — Repeated Prisoner's Dilemma
 

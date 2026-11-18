@@ -1,8 +1,5 @@
 # Lesson 066 — Outside Options and Disagreement Points
 
-**Game Theory — One Concept at a Time**  
-**Част VI — Bargaining, Conflict & Collective Action**  
-**Master Curriculum:** v1.0 · **Lesson Blueprint:** v1.2 · **Версия на урока:** 2.1 (учебна редакция; LaTeX standard)  
 **Основна концепция:** Външни опции и точка на несъгласие  
 **Напречни връзки:** 067 — Bargaining Power; 069 — Alternating-Offers Bargaining
 
