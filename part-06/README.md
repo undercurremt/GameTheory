@@ -11,7 +11,7 @@
 
 **Guiding question:** Как различни интереси могат да доведат до споразумение?
 
-**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 029, 039
+**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), [039](/part-03/lesson_039_endogenous_game_structure.md)
 
 **Related lessons:** 066, 068
 
@@ -67,9 +67,9 @@
 
 **Guiding question:** Как последователните предложения и нетърпението влияят върху резултата?
 
-**Prerequisites:** 030–033, 042, 065
+**Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md)–[033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 042, 065
 
-**Related lessons:** 038, 066
+**Related lessons:** [038](/part-03/lesson_038_strategic_timing.md), 066
 
 *Full lesson content coming soon.*
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Защо конфликтите могат да продължават въпреки взаимната вреда?
 
-**Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), 034, 065
+**Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), [034](/part-03/lesson_034_credible_threats.md), 065
 
 **Related lessons:** 071, 098
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо участниците продължават да изчакват въпреки растящите разходи?
 
-**Prerequisites:** [026](/part-02/lesson_026_mixed_strategies.md), 038, 070
+**Prerequisites:** [026](/part-02/lesson_026_mixed_strategies.md), [038](/part-03/lesson_038_strategic_timing.md), 070
 
 **Related lessons:** 050
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), [020](/part-02/lesson_020_nash_equilibrium.md), 039
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), [020](/part-02/lesson_020_nash_equilibrium.md), [039](/part-03/lesson_039_endogenous_game_structure.md)
 
 **Related lessons:** 061, 063
 

@@ -13,7 +13,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), [013](/part-01/lesson_013_classification_of_games.md)
 
-**Related lessons:** 030
+**Related lessons:** [030](/part-03/lesson_030_extensive_form_games.md)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Prerequisites:** [015](/part-02/lesson_015_normal_form_games.md), [018](/part-02/lesson_018_best_response.md)
 
-**Related lessons:** [021](/part-02/lesson_021_multiple_equilibria.md), 033, 056
+**Related lessons:** [021](/part-02/lesson_021_multiple_equilibria.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 056
 
 ---
 

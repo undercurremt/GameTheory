@@ -57,7 +57,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md), [004](/part-01/lesson_004_players_and_interdependence.md)
 
-**Related lessons:** 030, 031
+**Related lessons:** [030](/part-03/lesson_030_extensive_form_games.md), [031](/part-03/lesson_031_information_sets.md)
 
 ---
 
@@ -141,7 +141,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md), [008](/part-01/lesson_008_payoffs_and_incentives.md)
 
-**Related lessons:** 039, 075
+**Related lessons:** [039](/part-03/lesson_039_endogenous_game_structure.md), 075
 
 ---
 
@@ -153,7 +153,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md), [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [012](/part-01/lesson_012_rules_and_game_structure.md)
 
-**Related lessons:** 029, 040, 052
+**Related lessons:** [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), 040, 052
 
 ---
 

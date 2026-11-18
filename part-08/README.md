@@ -39,7 +39,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–[024](/part-02/lesson_024_stag_hunt.md), 033, 043, 056, 091
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–[024](/part-02/lesson_024_stag_hunt.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 043, 056, 091
 
 **Related lessons:** 100
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Как управленските решения променят екипното поведение?
 
-**Prerequisites:** 039, 075, 076, 093
+**Prerequisites:** [039](/part-03/lesson_039_endogenous_game_structure.md), 075, 076, 093
 
 **Related lessons:** 099
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Как прекъсваме повтарящи се конфликтни взаимодействия?
 
-**Prerequisites:** 034–036, 049, 070, 091
+**Prerequisites:** [034](/part-03/lesson_034_credible_threats.md)–[036](/part-03/lesson_036_strategic_commitment.md), 049, 070, 091
 
 **Related lessons:** 086, 095
 

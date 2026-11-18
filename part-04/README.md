@@ -11,7 +11,7 @@
 
 **Guiding question:** Как повторяемостта променя решенията?
 
-**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md), 029
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md), [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md)
 
 **Related lessons:** 041, 043
 
@@ -153,7 +153,7 @@
 
 **Prerequisites:** 040, 042, 043
 
-**Related lessons:** 032, 038
+**Related lessons:** [032](/part-03/lesson_032_backward_induction.md), [038](/part-03/lesson_038_strategic_timing.md)
 
 *Full lesson content coming soon.*
 

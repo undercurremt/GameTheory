@@ -25,7 +25,7 @@
 
 **Guiding question:** Как липсата на информация за предходни действия влияе на решенията?
 
-**Prerequisites:** 031, 052
+**Prerequisites:** [031](/part-03/lesson_031_information_sets.md), 052
 
 **Related lessons:** 049, 058
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Как съчетаваме стратегии и убеждения в динамични игри с непълна информация?
 
-**Prerequisites:** 031, 033, 055, 056
+**Prerequisites:** [031](/part-03/lesson_031_information_sets.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 055, 056
 
 **Related lessons:** 058, 059
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Как действията разкриват информация?
 
-**Prerequisites:** 030, 031, 054, 056, 057
+**Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md), [031](/part-03/lesson_031_information_sets.md), 054, 056, 057
 
 **Related lessons:** 059, 060
 
@@ -125,7 +125,7 @@
 
 **Prerequisites:** 058
 
-**Related lessons:** 035, 046
+**Related lessons:** [035](/part-03/lesson_035_credible_promises.md), 046
 
 *Full lesson content coming soon.*
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как ненаблюдаваните действия влияят върху стимулите?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 031, 054
+**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [031](/part-03/lesson_031_information_sets.md), 054
 
 **Related lessons:** 048, 075
 

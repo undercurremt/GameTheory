@@ -111,5 +111,49 @@ window.BOOK_PAGES = [
  {
   "file": "part-02/lesson_028_pareto_efficiency_and_welfare.md",
   "label": "028 Pareto Efficiency and Welfare"
+ },
+ {
+  "file": "part-03/lesson_029_simultaneous_vs_sequential_games.md",
+  "label": "029 Simultaneous vs. Sequential Games"
+ },
+ {
+  "file": "part-03/lesson_030_extensive_form_games.md",
+  "label": "030 Extensive-Form Games"
+ },
+ {
+  "file": "part-03/lesson_031_information_sets.md",
+  "label": "031 Information Sets"
+ },
+ {
+  "file": "part-03/lesson_032_backward_induction.md",
+  "label": "032 Backward Induction"
+ },
+ {
+  "file": "part-03/lesson_033_subgame_perfect_equilibrium.md",
+  "label": "033 Subgame Perfect Equilibrium"
+ },
+ {
+  "file": "part-03/lesson_034_credible_threats.md",
+  "label": "034 Credible Threats"
+ },
+ {
+  "file": "part-03/lesson_035_credible_promises.md",
+  "label": "035 Credible Promises"
+ },
+ {
+  "file": "part-03/lesson_036_strategic_commitment.md",
+  "label": "036 Strategic Commitment"
+ },
+ {
+  "file": "part-03/lesson_037_first_mover_and_second_mover_advantages.md",
+  "label": "037 First-Mover and Second-Mover Advantages"
+ },
+ {
+  "file": "part-03/lesson_038_strategic_timing.md",
+  "label": "038 Strategic Timing"
+ },
+ {
+  "file": "part-03/lesson_039_endogenous_game_structure.md",
+  "label": "039 Endogenous Game Structure"
  }
 ];
