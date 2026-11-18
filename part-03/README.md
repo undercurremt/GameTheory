@@ -97,7 +97,7 @@
 
 **Prerequisites:** [034](/part-03/lesson_034_credible_threats.md), [035](/part-03/lesson_035_credible_promises.md)
 
-**Related lessons:** [037](/part-03/lesson_037_first_mover_and_second_mover_advantages.md), 075
+**Related lessons:** [037](/part-03/lesson_037_first_mover_and_second_mover_advantages.md), [075](/part-06/lesson_075_mechanism_design.md)
 
 ---
 
@@ -133,6 +133,6 @@
 
 **Prerequisites:** [012](/part-01/lesson_012_rules_and_game_structure.md), [030](/part-03/lesson_030_extensive_form_games.md), [036](/part-03/lesson_036_strategic_commitment.md)
 
-**Related lessons:** 075, 076
+**Related lessons:** [075](/part-06/lesson_075_mechanism_design.md), [076](/part-06/lesson_076_institutions_and_enforcement.md)
 
 ---

@@ -145,7 +145,7 @@
 
 **Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [031](/part-03/lesson_031_information_sets.md), [054](/part-05/lesson_054_private_information_and_player_types.md)
 
-**Related lessons:** [048](/part-04/lesson_048_punishment_and_deterrence.md), 075
+**Related lessons:** [048](/part-04/lesson_048_punishment_and_deterrence.md), [075](/part-06/lesson_075_mechanism_design.md)
 
 ---
 

@@ -295,5 +295,13 @@ window.BOOK_PAGES = [
  {
   "file": "part-06/lesson_074_common_pool_resources.md",
   "label": "074 Common-Pool Resources"
+ },
+ {
+  "file": "part-06/lesson_075_mechanism_design.md",
+  "label": "075 Mechanism Design"
+ },
+ {
+  "file": "part-06/lesson_076_institutions_and_enforcement.md",
+  "label": "076 Institutions and Enforcement"
  }
 ];

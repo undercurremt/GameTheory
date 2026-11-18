@@ -67,7 +67,7 @@
 
 **Guiding question:** Как управленските решения променят екипното поведение?
 
-**Prerequisites:** [039](/part-03/lesson_039_endogenous_game_structure.md), 075, 076, 093
+**Prerequisites:** [039](/part-03/lesson_039_endogenous_game_structure.md), [075](/part-06/lesson_075_mechanism_design.md), [076](/part-06/lesson_076_institutions_and_enforcement.md), 093
 
 **Related lessons:** 099
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), [072](/part-06/lesson_072_public_goods_games.md)–076, 089
+**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), [072](/part-06/lesson_072_public_goods_games.md)–[076](/part-06/lesson_076_institutions_and_enforcement.md), 089
 
 **Related lessons:** 094, 100
 

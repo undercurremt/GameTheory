@@ -93,7 +93,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[007](/part-01/lesson_007_utility_and_expected_utility.md)
 
-**Related lessons:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), 075
+**Related lessons:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [075](/part-06/lesson_075_mechanism_design.md)
 
 ---
 
@@ -141,7 +141,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md), [008](/part-01/lesson_008_payoffs_and_incentives.md)
 
-**Related lessons:** [039](/part-03/lesson_039_endogenous_game_structure.md), 075
+**Related lessons:** [039](/part-03/lesson_039_endogenous_game_structure.md), [075](/part-06/lesson_075_mechanism_design.md)
 
 ---
 

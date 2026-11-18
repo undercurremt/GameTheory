@@ -79,5 +79,7 @@
   * [072 Public Goods Games](/part-06/lesson_072_public_goods_games.md)
   * [073 Free-Riding and Collective Action](/part-06/lesson_073_free_riding_and_collective_action.md)
   * [074 Common-Pool Resources](/part-06/lesson_074_common_pool_resources.md)
+  * [075 Mechanism Design](/part-06/lesson_075_mechanism_design.md)
+  * [076 Institutions and Enforcement](/part-06/lesson_076_institutions_and_enforcement.md)
 * [**Part VII — Behavioral & Evolutionary Game Theory**](/part-07/)
 * [**Part VIII — Game Theory in Everyday Life**](/part-08/)

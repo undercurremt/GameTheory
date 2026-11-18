@@ -179,7 +179,7 @@
 
 **Guiding question:** Как възникват и се поддържат социалните норми?
 
-**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), 076, 082, 087
+**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), [076](/part-06/lesson_076_institutions_and_enforcement.md), 082, 087
 
 **Related lessons:** [051](/part-04/lesson_051_conditions_for_sustained_cooperation.md), 099
 
