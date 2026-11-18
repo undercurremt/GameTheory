@@ -169,6 +169,6 @@
 
 **Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), [020](/part-02/lesson_020_nash_equilibrium.md)
 
-**Related lessons:** 068, 084
+**Related lessons:** [068](/part-06/lesson_068_nash_bargaining_solution.md), 084
 
 ---

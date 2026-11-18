@@ -123,7 +123,7 @@
 
 **Guiding question:** Как експериментите изследват справедливостта, доверието и взаимността?
 
-**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [047](/part-04/lesson_047_trust_and_vulnerability.md), 065, 078, 083
+**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [047](/part-04/lesson_047_trust_and_vulnerability.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md), 078, 083
 
 **Related lessons:** 072, 086
 

@@ -157,6 +157,6 @@
 
 **Prerequisites:** [055](/part-05/lesson_055_bayesian_updating.md), [056](/part-05/lesson_056_bayesian_games_and_bayesian_nash_equilibrium.md)
 
-**Related lessons:** 066, 069
+**Related lessons:** [066](/part-06/lesson_066_outside_options_and_disagreement_points.md), [069](/part-06/lesson_069_alternating_offers_bargaining.md)
 
 ---

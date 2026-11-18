@@ -49,7 +49,7 @@
 
 **Prerequisites:** [009](/part-01/lesson_009_rationality.md), [030](/part-03/lesson_030_extensive_form_games.md), [031](/part-03/lesson_031_information_sets.md)
 
-**Related lessons:** [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 069
+**Related lessons:** [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [069](/part-06/lesson_069_alternating_offers_bargaining.md)
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md), [032](/part-03/lesson_032_backward_induction.md), [036](/part-03/lesson_036_strategic_commitment.md)
 
-**Related lessons:** 069
+**Related lessons:** [069](/part-06/lesson_069_alternating_offers_bargaining.md)
 
 ---
 

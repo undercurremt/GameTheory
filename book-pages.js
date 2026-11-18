@@ -255,5 +255,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-05/lesson_064_auctions_and_winner_s_curse.md",
   "label": "064 Auctions and Winner's Curse"
+ },
+ {
+  "file": "part-06/lesson_065_bargaining_as_strategic_interaction.md",
+  "label": "065 Bargaining as Strategic Interaction"
+ },
+ {
+  "file": "part-06/lesson_066_outside_options_and_disagreement_points.md",
+  "label": "066 Outside Options and Disagreement Points"
+ },
+ {
+  "file": "part-06/lesson_067_bargaining_power.md",
+  "label": "067 Bargaining Power"
+ },
+ {
+  "file": "part-06/lesson_068_nash_bargaining_solution.md",
+  "label": "068 Nash Bargaining Solution"
+ },
+ {
+  "file": "part-06/lesson_069_alternating_offers_bargaining.md",
+  "label": "069 Alternating-Offers Bargaining"
  }
 ];

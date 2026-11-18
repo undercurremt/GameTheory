@@ -109,7 +109,7 @@
 
 **Guiding question:** Как търсим взаимноприемливи решения?
 
-**Prerequisites:** 065–069, 091
+**Prerequisites:** [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)–[069](/part-06/lesson_069_alternating_offers_bargaining.md), 091
 
 **Related lessons:** 070, 098
 
