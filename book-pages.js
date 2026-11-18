@@ -303,5 +303,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-06/lesson_076_institutions_and_enforcement.md",
   "label": "076 Institutions and Enforcement"
+ },
+ {
+  "file": "part-07/lesson_077_classical_predictions_vs_observed_behavior.md",
+  "label": "077 Classical Predictions vs. Observed Behavior"
+ },
+ {
+  "file": "part-07/lesson_078_experimental_design_and_interpretation.md",
+  "label": "078 Experimental Design and Interpretation"
+ },
+ {
+  "file": "part-07/lesson_079_bounded_rationality.md",
+  "label": "079 Bounded Rationality"
+ },
+ {
+  "file": "part-07/lesson_080_level_k_and_cognitive_hierarchy.md",
+  "label": "080 Level-k and Cognitive Hierarchy"
+ },
+ {
+  "file": "part-07/lesson_081_quantal_response_equilibrium.md",
+  "label": "081 Quantal Response Equilibrium"
  }
 ];

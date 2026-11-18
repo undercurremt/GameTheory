@@ -61,7 +61,7 @@
 
 **Prerequisites:** [011](/part-01/lesson_011_common_knowledge.md), [017](/part-02/lesson_017_iterated_elimination.md), [018](/part-02/lesson_018_best_response.md)
 
-**Related lessons:** [020](/part-02/lesson_020_nash_equilibrium.md), 080
+**Related lessons:** [020](/part-02/lesson_020_nash_equilibrium.md), [080](/part-07/lesson_080_level_k_and_cognitive_hierarchy.md)
 
 ---
 
@@ -145,7 +145,7 @@
 
 **Prerequisites:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [018](/part-02/lesson_018_best_response.md), [020](/part-02/lesson_020_nash_equilibrium.md)
 
-**Related lessons:** [027](/part-02/lesson_027_correlated_equilibrium.md), 081
+**Related lessons:** [027](/part-02/lesson_027_correlated_equilibrium.md), [081](/part-07/lesson_081_quantal_response_equilibrium.md)
 
 ---
 

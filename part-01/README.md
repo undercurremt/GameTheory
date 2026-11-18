@@ -105,7 +105,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_actions_and_strategies.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md)
 
-**Related lessons:** [019](/part-02/lesson_019_rationalizability.md), 079
+**Related lessons:** [019](/part-02/lesson_019_rationalizability.md), [079](/part-07/lesson_079_bounded_rationality.md)
 
 ---
 
@@ -165,6 +165,6 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md), [006](/part-01/lesson_006_outcomes_and_preferences.md), [009](/part-01/lesson_009_rationality.md), [013](/part-01/lesson_013_classification_of_games.md)
 
-**Related lessons:** 077, 100
+**Related lessons:** [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), 100
 
 ---

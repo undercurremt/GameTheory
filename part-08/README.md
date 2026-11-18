@@ -151,7 +151,7 @@
 
 **Guiding question:** Кога стратегическото мислене помага и кога става подвеждащо?
 
-**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), 077, 083, 090
+**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), 083, 090
 
 **Related lessons:** 095, 101
 
