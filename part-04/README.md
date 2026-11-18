@@ -145,6 +145,6 @@
 
 **Prerequisites:** [041](/part-04/lesson_041_shadow_of_the_future.md)–[050](/part-04/lesson_050_finite_vs_indefinite_repetition.md)
 
-**Related lessons:** 072, 076, 098
+**Related lessons:** [072](/part-06/lesson_072_public_goods_games.md), 076, 098
 
 ---

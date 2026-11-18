@@ -275,5 +275,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-06/lesson_069_alternating_offers_bargaining.md",
   "label": "069 Alternating-Offers Bargaining"
+ },
+ {
+  "file": "part-06/lesson_070_strategic_conflict_and_escalation.md",
+  "label": "070 Strategic Conflict and Escalation"
+ },
+ {
+  "file": "part-06/lesson_071_war_of_attrition.md",
+  "label": "071 War of Attrition"
+ },
+ {
+  "file": "part-06/lesson_072_public_goods_games.md",
+  "label": "072 Public Goods Games"
+ },
+ {
+  "file": "part-06/lesson_073_free_riding_and_collective_action.md",
+  "label": "073 Free-Riding and Collective Action"
+ },
+ {
+  "file": "part-06/lesson_074_common_pool_resources.md",
+  "label": "074 Common-Pool Resources"
  }
 ];

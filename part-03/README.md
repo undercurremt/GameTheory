@@ -73,7 +73,7 @@
 
 **Prerequisites:** [032](/part-03/lesson_032_backward_induction.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md)
 
-**Related lessons:** [036](/part-03/lesson_036_strategic_commitment.md), 070
+**Related lessons:** [036](/part-03/lesson_036_strategic_commitment.md), [070](/part-06/lesson_070_strategic_conflict_and_escalation.md)
 
 ---
 
@@ -121,7 +121,7 @@
 
 **Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md), [037](/part-03/lesson_037_first_mover_and_second_mover_advantages.md)
 
-**Related lessons:** [050](/part-04/lesson_050_finite_vs_indefinite_repetition.md), 071
+**Related lessons:** [050](/part-04/lesson_050_finite_vs_indefinite_repetition.md), [071](/part-06/lesson_071_war_of_attrition.md)
 
 ---
 

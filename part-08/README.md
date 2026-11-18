@@ -53,7 +53,7 @@
 
 **Guiding question:** Как стимулите влияят върху работните отношения?
 
-**Prerequisites:** [043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md), [046](/part-04/lesson_046_reputation.md), 072, 073, 091
+**Prerequisites:** [043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md), [046](/part-04/lesson_046_reputation.md), [072](/part-06/lesson_072_public_goods_games.md), [073](/part-06/lesson_073_free_riding_and_collective_action.md), 091
 
 **Related lessons:** 094
 
@@ -111,7 +111,7 @@
 
 **Prerequisites:** [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)–[069](/part-06/lesson_069_alternating_offers_bargaining.md), 091
 
-**Related lessons:** 070, 098
+**Related lessons:** [070](/part-06/lesson_070_strategic_conflict_and_escalation.md), 098
 
 *Full lesson content coming soon.*
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Как прекъсваме повтарящи се конфликтни взаимодействия?
 
-**Prerequisites:** [034](/part-03/lesson_034_credible_threats.md)–[036](/part-03/lesson_036_strategic_commitment.md), [049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), 070, 091
+**Prerequisites:** [034](/part-03/lesson_034_credible_threats.md)–[036](/part-03/lesson_036_strategic_commitment.md), [049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), [070](/part-06/lesson_070_strategic_conflict_and_escalation.md), 091
 
 **Related lessons:** 086, 095
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), 072–076, 089
+**Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), [072](/part-06/lesson_072_public_goods_games.md)–076, 089
 
 **Related lessons:** 094, 100
 

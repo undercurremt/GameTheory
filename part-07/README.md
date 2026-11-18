@@ -125,7 +125,7 @@
 
 **Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [047](/part-04/lesson_047_trust_and_vulnerability.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md), 078, 083
 
-**Related lessons:** 072, 086
+**Related lessons:** [072](/part-06/lesson_072_public_goods_games.md), 086
 
 *Full lesson content coming soon.*
 
@@ -139,7 +139,7 @@
 
 **Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [055](/part-05/lesson_055_bayesian_updating.md), 083, 084
 
-**Related lessons:** 074, 100
+**Related lessons:** [074](/part-06/lesson_074_common_pool_resources.md), 100
 
 *Full lesson content coming soon.*
 
