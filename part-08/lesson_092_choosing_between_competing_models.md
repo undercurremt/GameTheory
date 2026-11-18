@@ -243,7 +243,7 @@ V_D=5+\frac{\frac{3}{5}}{1-\frac{3}{5}}=5+\frac{3}{2}=6.5.
 
 **[2]** Ross, Don. “Game Theory.” *Stanford Encyclopedia of Philosophy*, §§2–3, 8. https://plato.stanford.edu/entries/game-theory/ . Концептуален обзор и ограничения на предсказанията.
 
-**[3]** Skyrms, Brian (2004). *The Stag Hunt and the Evolution of Social Structure*. Cambridge University Press. https://doi.org/10.1017/CBO9781139165220 . Координация и риск в Stag Hunt.
+**[3]** Skyrms, Brian (2004). *The Stag Hunt and the Evolution of Social Structure*. Cambridge University Press. https://doi.org/10.1017/CBO9781139165228 . Координация и риск в Stag Hunt.
 
 **[4]** Schelling, Thomas C. (1960). *The Strategy of Conflict*. Harvard University Press. https://books.google.com/books/about/The_strategy_of_conflict.html?id=Ctl-AAAAMAAJ . Конфликт и стратегически ангажименти.
 

@@ -271,6 +271,6 @@ h_A=\frac{c_B}{V_B}=\frac{4}{10}.
 
 **[3]** Osborne, M. J., & Rubinstein, A. (1994). *A Course in Game Theory*. MIT Press. https://www.economics.utoronto.ca/osborne/cgt/ . Смесени стратегии и динамични игри.
 
-**[4]** Hendricks, K., Weiss, A., & Wilson, C. (1988). “The War of Attrition in Continuous Time with Complete Information.” *International Economic Review*, 29(4), 663–680. https://doi.org/10.2307/2526823 . Анализ на непрекъснато време и равновесия.
+**[4]** Hendricks, K., Weiss, A., & Wilson, C. (1988). “The War of Attrition in Continuous Time with Complete Information.” *International Economic Review*, 29(4), 663–680. https://doi.org/10.2307/2526827 . Анализ на непрекъснато време и равновесия.
 
 Казусите A–C са собствени илюстрации; числата не са емпирични измервания.

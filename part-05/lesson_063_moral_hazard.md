@@ -17,7 +17,7 @@
 
 ## 2. Prerequisites — Какво трябва да знаем
 
-**Предпоставки според Concept Dependency Matrix v0.3:** 008 — Expected Utility; 031 — Information Sets; 054 — Private Information and Player Types. Използваме само вече въведени идеи за вероятностни убеждения, полезности, допустими стратегии и най-добри отговори; новите понятия са дефинирани по-долу.
+**Предпоставки според Concept Dependency Matrix v0.3:** 008 — Payoffs and Incentives; 031 — Information Sets; 054 — Private Information and Player Types. Използваме само вече въведени идеи за вероятностни убеждения, полезности, допустими стратегии и най-добри отговори; новите понятия са дефинирани по-долу.
 
 ---
 

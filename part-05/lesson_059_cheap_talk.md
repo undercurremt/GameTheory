@@ -1,7 +1,7 @@
 # Lesson 059 — Cheap Talk
 
 **Основна концепция:** Необвързваща комуникация  
-**Напречни връзки:** 027 — Correlated Equilibrium; 096 — Communication and Misunderstanding
+**Напречни връзки:** 027 — Correlated Equilibrium; 096 — Friendship, Reciprocity and Boundaries
 
 > **Стандарт на четене:** „Формален резултат“ означава следствие от конкретно дефинирана игра, информационна структура и равновесна концепция; „Педагогически пример“ е конструиран, а не емпиричен резултат; „Емпирично твърдение“ изисква конкретен проверим академичен източник. Полезностите, вероятностите и типовете са елементи на модела, а не диагноза за реални хора.
 
@@ -138,7 +138,7 @@ Receiver чува \(h\) или \(l\), но избира \(H\) след всяк�
 
 **[1]** Crawford, V. P., & Sobel, J. (1982). “Strategic Information Transmission.” *Econometrica*, 50(6), 1431–1451. https://doi.org/10.2307/1913390 — основополагащо изследване за Cheap Talk и частично разкриване.
 
-**[2]** Crawford, V. P., & Sobel, J. (2021). “Corrigendum to Crawford and Sobel (1982).” *Econometrica*. https://doi.org/10.3982/ECTA17617 — уточнение към формалния оригинал, важно при позоваване на общите теореми.
+**[2]** Kono, H., & Kandori, M. (2021). “Corrigendum to Crawford and Sobel (1982) ‘Strategic Information Transmission’.” *Econometrica*. https://doi.org/10.3982/ECTA17617 — уточнение към формалния оригинал, важно при позоваване на общите теореми.
 
 **[3]** Gibbons, R. (1992). *Game Theory for Applied Economists*, гл. 4 — приложение на PBE и информационни игри.
 
