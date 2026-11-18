@@ -243,5 +243,17 @@ window.BOOK_PAGES = [
  {
   "file": "part-05/lesson_061_screening_and_self_selection.md",
   "label": "061 Screening and Self-Selection"
+ },
+ {
+  "file": "part-05/lesson_062_adverse_selection.md",
+  "label": "062 Adverse Selection"
+ },
+ {
+  "file": "part-05/lesson_063_moral_hazard.md",
+  "label": "063 Moral Hazard"
+ },
+ {
+  "file": "part-05/lesson_064_auctions_and_winner_s_curse.md",
+  "label": "064 Auctions and Winner's Curse"
  }
 ];

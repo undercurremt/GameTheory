@@ -153,7 +153,7 @@
 
 **Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), [020](/part-02/lesson_020_nash_equilibrium.md), [039](/part-03/lesson_039_endogenous_game_structure.md)
 
-**Related lessons:** [061](/part-05/lesson_061_screening_and_self_selection.md), 063
+**Related lessons:** [061](/part-05/lesson_061_screening_and_self_selection.md), [063](/part-05/lesson_063_moral_hazard.md)
 
 *Full lesson content coming soon.*
 
