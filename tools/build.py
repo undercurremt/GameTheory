@@ -61,6 +61,34 @@ def normalise(text):
     return text
 
 
+# Course / part / curriculum metadata lines the author's lessons carry in their header.
+# The site shows the part in the sidebar, so these lines are dropped when a lesson is added.
+HEADER_META_RE = [re.compile(p) for p in (
+    r"^\*\*Game Theory — One Concept at a Time\*\*\s*$",
+    r"^\*\*(Курс|Поредица):\*\*\s*Game Theory — One Concept at a Time\s*$",
+    r"^\*\*Част [IVX]+ — .*\*\*\s*$",
+    r"^\*\*Част:\*\*\s.*$",
+    r"^\*\*Тематична част:\*\*\s.*$",
+    r"^\*\*Master Curriculum:\*\*.*$",
+    r"^\*\*Стандарт:\*\*\s*Master Curriculum.*$",
+)]
+
+
+def strip_header_meta(text):
+    """Drop HEADER_META_RE lines from the header block (before the first '## ' or '---')."""
+    lines = text.split("\n")
+    end = next((i for i, ln in enumerate(lines[1:], 1)
+                if ln.startswith("## ") or ln.strip() == "---"), len(lines))
+    head = []
+    for ln in lines[:end]:
+        if any(r.match(ln) for r in HEADER_META_RE):
+            continue
+        if ln.strip() == "" and head and head[-1].strip() == "":
+            continue  # don't leave double blank lines behind
+        head.append(ln)
+    return "\n".join(head + lines[end:])
+
+
 def lesson_id(text, filename):
     m = re.search(r"(?m)^#{1,6}\s*(?:Lesson\s*|Урок\s*)?(?:№\s*)?(\d{1,3})\b", text)
     m = m or re.search(r"(?:lesson|урок)?[_\s-]*(\d{1,3})\b", filename, re.I)
@@ -70,7 +98,7 @@ def lesson_id(text, filename):
 def add(paths, lessons):
     by_id = {l["id"]: l for l in lessons}
     for p in map(Path, paths):
-        text = normalise(p.read_text(encoding="utf-8"))
+        text = strip_header_meta(normalise(p.read_text(encoding="utf-8")))
         lid = lesson_id(text, p.name)
         if lid not in by_id:
             sys.exit(f"✗ {p.name}: can't tell which lesson this is (found {lid!r}). "

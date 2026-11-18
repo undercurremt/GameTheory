@@ -8,6 +8,8 @@ terms and titles); Claude only files and publishes them. Never edit lesson text 
    It detects the lesson number from the first heading (e.g. `# 001 Origins of Game Theory`), saves it as
    `part-PP/lesson_NNN_<title_slug>.md` and regenerates navigation.
    If the number can't be detected, ask the author which lesson it is.
+   `add` also drops the course / part / "Master Curriculum … Lesson Blueprint" metadata lines from the lesson's
+   header block (the author asked for them removed; the part is shown in the sidebar). Nothing else is changed.
 2. `git add -A && git commit -m "Publish lesson NNN"` and push to `main`. Report the live URL:
    https://undercurremt.github.io/GameTheory/#/part-PP/lesson_NNN_<title_slug>
 
