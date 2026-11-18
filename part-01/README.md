@@ -69,7 +69,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md)
 
-**Related lessons:** [007](/part-01/lesson_007_utility_and_expected_utility.md), 083
+**Related lessons:** [007](/part-01/lesson_007_utility_and_expected_utility.md), [083](/part-07/lesson_083_social_preferences.md)
 
 ---
 
@@ -81,7 +81,7 @@
 
 **Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)
 
-**Related lessons:** [055](/part-05/lesson_055_bayesian_updating.md), 084
+**Related lessons:** [055](/part-05/lesson_055_bayesian_updating.md), [084](/part-07/lesson_084_fairness_and_inequity_aversion.md)
 
 ---
 

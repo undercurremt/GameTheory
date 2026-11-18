@@ -73,7 +73,7 @@
 
 **Prerequisites:** [043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md), [044](/part-04/lesson_044_tit_for_tat_and_reciprocity.md)
 
-**Related lessons:** 083, 085
+**Related lessons:** [083](/part-07/lesson_083_social_preferences.md), [085](/part-07/lesson_085_ultimatum_dictator_and_trust_games.md)
 
 ---
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** [024](/part-02/lesson_024_stag_hunt.md), [040](/part-04/lesson_040_one_shot_vs_repeated_games.md), [046](/part-04/lesson_046_reputation.md)
 
-**Related lessons:** 085, 095
+**Related lessons:** [085](/part-07/lesson_085_ultimatum_dictator_and_trust_games.md), 095
 
 ---
 

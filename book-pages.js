@@ -323,5 +323,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-07/lesson_081_quantal_response_equilibrium.md",
   "label": "081 Quantal Response Equilibrium"
+ },
+ {
+  "file": "part-07/lesson_082_learning_in_games.md",
+  "label": "082 Learning in Games"
+ },
+ {
+  "file": "part-07/lesson_083_social_preferences.md",
+  "label": "083 Social Preferences"
+ },
+ {
+  "file": "part-07/lesson_084_fairness_and_inequity_aversion.md",
+  "label": "084 Fairness and Inequity Aversion"
+ },
+ {
+  "file": "part-07/lesson_085_ultimatum_dictator_and_trust_games.md",
+  "label": "085 Ultimatum, Dictator and Trust Games"
+ },
+ {
+  "file": "part-07/lesson_086_emotions_and_psychological_games.md",
+  "label": "086 Emotions and Psychological Games"
  }
 ];

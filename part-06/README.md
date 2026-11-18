@@ -49,7 +49,7 @@
 
 **Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)–[067](/part-06/lesson_067_bargaining_power.md)
 
-**Related lessons:** 084
+**Related lessons:** [084](/part-07/lesson_084_fairness_and_inequity_aversion.md)
 
 ---
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md)
 
-**Related lessons:** [073](/part-06/lesson_073_free_riding_and_collective_action.md), 083
+**Related lessons:** [073](/part-06/lesson_073_free_riding_and_collective_action.md), [083](/part-07/lesson_083_social_preferences.md)
 
 ---
 

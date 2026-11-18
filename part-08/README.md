@@ -81,7 +81,7 @@
 
 **Guiding question:** Как повторяемите взаимодействия влияят върху близките отношения?
 
-**Prerequisites:** [040](/part-04/lesson_040_one_shot_vs_repeated_games.md)–[051](/part-04/lesson_051_conditions_for_sustained_cooperation.md), 083, 084
+**Prerequisites:** [040](/part-04/lesson_040_one_shot_vs_repeated_games.md)–[051](/part-04/lesson_051_conditions_for_sustained_cooperation.md), [083](/part-07/lesson_083_social_preferences.md), [084](/part-07/lesson_084_fairness_and_inequity_aversion.md)
 
 **Related lessons:** 096, 098
 
@@ -125,7 +125,7 @@
 
 **Prerequisites:** [034](/part-03/lesson_034_credible_threats.md)–[036](/part-03/lesson_036_strategic_commitment.md), [049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), [070](/part-06/lesson_070_strategic_conflict_and_escalation.md), 091
 
-**Related lessons:** 086, 095
+**Related lessons:** [086](/part-07/lesson_086_emotions_and_psychological_games.md), 095
 
 *Full lesson content coming soon.*
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Кога стратегическото мислене помага и кога става подвеждащо?
 
-**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), 083, 090
+**Prerequisites:** [014](/part-01/lesson_014_models_assumptions_and_explanation.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), [083](/part-07/lesson_083_social_preferences.md), 090
 
 **Related lessons:** 095, 101
 
