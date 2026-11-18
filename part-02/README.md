@@ -157,7 +157,7 @@
 
 **Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [026](/part-02/lesson_026_mixed_strategies.md)
 
-**Related lessons:** [023](/part-02/lesson_023_coordination_games.md), 059
+**Related lessons:** [023](/part-02/lesson_023_coordination_games.md), [059](/part-05/lesson_059_cheap_talk.md)
 
 ---
 

@@ -95,7 +95,7 @@
 
 **Guiding question:** Как анализираме взаимността и личните граници?
 
-**Prerequisites:** [044](/part-04/lesson_044_tit_for_tat_and_reciprocity.md)–[049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), 059, 091
+**Prerequisites:** [044](/part-04/lesson_044_tit_for_tat_and_reciprocity.md)–[049](/part-04/lesson_049_forgiveness_and_imperfect_monitoring.md), [059](/part-05/lesson_059_cheap_talk.md), 091
 
 **Related lessons:** 095, 100
 

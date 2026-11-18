@@ -37,7 +37,7 @@
 
 **Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [030](/part-03/lesson_030_extensive_form_games.md)
 
-**Related lessons:** [053](/part-05/lesson_053_perfect_vs_imperfect_information.md), 057
+**Related lessons:** [053](/part-05/lesson_053_perfect_vs_imperfect_information.md), [057](/part-05/lesson_057_perfect_bayesian_equilibrium.md)
 
 ---
 

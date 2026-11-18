@@ -223,5 +223,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-05/lesson_056_bayesian_games_and_bayesian_nash_equilibrium.md",
   "label": "056 Bayesian Games and Bayesian Nash Equilibrium"
+ },
+ {
+  "file": "part-05/lesson_057_perfect_bayesian_equilibrium.md",
+  "label": "057 Perfect Bayesian Equilibrium"
+ },
+ {
+  "file": "part-05/lesson_058_signaling_games.md",
+  "label": "058 Signaling Games"
+ },
+ {
+  "file": "part-05/lesson_059_cheap_talk.md",
+  "label": "059 Cheap Talk"
+ },
+ {
+  "file": "part-05/lesson_060_costly_signaling.md",
+  "label": "060 Costly Signaling"
+ },
+ {
+  "file": "part-05/lesson_061_screening_and_self_selection.md",
+  "label": "061 Screening and Self-Selection"
  }
 ];

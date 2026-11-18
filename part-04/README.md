@@ -85,7 +85,7 @@
 
 **Prerequisites:** [040](/part-04/lesson_040_one_shot_vs_repeated_games.md)–[043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md)
 
-**Related lessons:** [054](/part-05/lesson_054_private_information_and_player_types.md), 058
+**Related lessons:** [054](/part-05/lesson_054_private_information_and_player_types.md), [058](/part-05/lesson_058_signaling_games.md)
 
 ---
 
