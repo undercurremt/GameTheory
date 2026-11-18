@@ -39,7 +39,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–[024](/part-02/lesson_024_stag_hunt.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md), 056, 091
+**Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [022](/part-02/lesson_022_prisoner_s_dilemma.md)–[024](/part-02/lesson_024_stag_hunt.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [043](/part-04/lesson_043_repeated_prisoner_s_dilemma.md), [056](/part-05/lesson_056_bayesian_games_and_bayesian_nash_equilibrium.md), 091
 
 **Related lessons:** 100
 

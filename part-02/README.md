@@ -73,7 +73,7 @@
 
 **Prerequisites:** [015](/part-02/lesson_015_normal_form_games.md), [018](/part-02/lesson_018_best_response.md)
 
-**Related lessons:** [021](/part-02/lesson_021_multiple_equilibria.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), 056
+**Related lessons:** [021](/part-02/lesson_021_multiple_equilibria.md), [033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [056](/part-05/lesson_056_bayesian_games_and_bayesian_nash_equilibrium.md)
 
 ---
 

@@ -203,5 +203,25 @@ window.BOOK_PAGES = [
  {
   "file": "part-04/lesson_051_conditions_for_sustained_cooperation.md",
   "label": "051 Conditions for Sustained Cooperation"
+ },
+ {
+  "file": "part-05/lesson_052_complete_vs_incomplete_information.md",
+  "label": "052 Complete vs. Incomplete Information"
+ },
+ {
+  "file": "part-05/lesson_053_perfect_vs_imperfect_information.md",
+  "label": "053 Perfect vs. Imperfect Information"
+ },
+ {
+  "file": "part-05/lesson_054_private_information_and_player_types.md",
+  "label": "054 Private Information and Player Types"
+ },
+ {
+  "file": "part-05/lesson_055_bayesian_updating.md",
+  "label": "055 Bayesian Updating"
+ },
+ {
+  "file": "part-05/lesson_056_bayesian_games_and_bayesian_nash_equilibrium.md",
+  "label": "056 Bayesian Games and Bayesian Nash Equilibrium"
  }
 ];

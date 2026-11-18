@@ -81,7 +81,7 @@
 
 **Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)
 
-**Related lessons:** 055, 084
+**Related lessons:** [055](/part-05/lesson_055_bayesian_updating.md), 084
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md)
 
-**Related lessons:** [011](/part-01/lesson_011_common_knowledge.md), 054
+**Related lessons:** [011](/part-01/lesson_011_common_knowledge.md), [054](/part-05/lesson_054_private_information_and_player_types.md)
 
 ---
 
@@ -153,7 +153,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)–[005](/part-01/lesson_005_actions_and_strategies.md), [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [012](/part-01/lesson_012_rules_and_game_structure.md)
 
-**Related lessons:** [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), [040](/part-04/lesson_040_one_shot_vs_repeated_games.md), 052
+**Related lessons:** [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), [040](/part-04/lesson_040_one_shot_vs_repeated_games.md), [052](/part-05/lesson_052_complete_vs_incomplete_information.md)
 
 ---
 
