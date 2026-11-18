@@ -1,8 +1,8 @@
 # Lesson 081 — Quantal Response Equilibrium
 
 **Основна концепция:** Вероятностен отговор  
-**Предпоставки (P):** 007 — Utility and Expected Utility; 020 — Nash Equilibrium; 026 — Mixed Strategies; 079 — Bounded Rationality  
-**Напречни връзки (X):** 080 — Level-k and Cognitive Hierarchy; 082 — Learning in Games
+**Предпоставки:** 007 — Utility and Expected Utility; 020 — Nash Equilibrium; 026 — Mixed Strategies; 079 — Bounded Rationality  
+**Напречни връзки:** 080 — Level-k and Cognitive Hierarchy; 082 — Learning in Games
 
 > **Стандарт на четене:** Формален резултат означава следствие от изрично зададените допускания; експерименталните наблюдения са резултати от конкретни изследователски дизайни; педагогическите числови примери са конструирани, а не измерени данни. Равновесието само по себе си не е диагноза или индивидуална прогноза.
 

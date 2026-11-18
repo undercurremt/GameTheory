@@ -1,8 +1,8 @@
 # Lesson 079 — Bounded Rationality
 
 **Основна концепция:** Ограничена рационалност  
-**Предпоставки (P):** 009 — Rationality; 014 — Models, Assumptions and Explanation; 077 — Classical Predictions vs. Observed Behavior; 078 — Experimental Design and Interpretation  
-**Напречни връзки (X):** 080–082 — Level-k, Quantal Response Equilibrium, Learning in Games
+**Предпоставки:** 009 — Rationality; 014 — Models, Assumptions and Explanation; 077 — Classical Predictions vs. Observed Behavior; 078 — Experimental Design and Interpretation  
+**Напречни връзки:** 080–082 — Level-k, Quantal Response Equilibrium, Learning in Games
 
 > **Стандарт на четене:** Формален резултат означава следствие от изрично зададените допускания; експерименталните наблюдения са резултати от конкретни изследователски дизайни; педагогическите числови примери са конструирани, а не измерени данни. Равновесието само по себе си не е диагноза или индивидуална прогноза.
 

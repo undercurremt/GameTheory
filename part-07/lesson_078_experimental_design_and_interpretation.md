@@ -1,8 +1,8 @@
 # Lesson 078 — Experimental Design and Interpretation
 
 **Основна концепция:** Експериментална методология  
-**Предпоставки (P):** 014 — Models, Assumptions and Explanation; 077 — Classical Predictions vs. Observed Behavior  
-**Напречни връзки (X):** 080 — Level-k and Cognitive Hierarchy; 085 — Ultimatum, Dictator and Trust Games
+**Предпоставки:** 014 — Models, Assumptions and Explanation; 077 — Classical Predictions vs. Observed Behavior  
+**Напречни връзки:** 080 — Level-k and Cognitive Hierarchy; 085 — Ultimatum, Dictator and Trust Games
 
 > **Стандарт на четене:** Формален резултат означава следствие от изрично зададените допускания; експерименталните наблюдения са резултати от конкретни изследователски дизайни; педагогическите числови примери са конструирани, а не измерени данни. Равновесието само по себе си не е диагноза или индивидуална прогноза.
 
