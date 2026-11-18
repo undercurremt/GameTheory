@@ -355,5 +355,53 @@ window.BOOK_PAGES = [
  {
   "file": "part-07/lesson_089_social_norms_and_cultural_evolution.md",
   "label": "089 Social Norms and Cultural Evolution"
+ },
+ {
+  "file": "part-08/lesson_090_recognizing_strategic_situations.md",
+  "label": "090 Recognizing Strategic Situations"
+ },
+ {
+  "file": "part-08/lesson_091_mapping_players_incentives_and_information.md",
+  "label": "091 Mapping Players, Incentives and Information"
+ },
+ {
+  "file": "part-08/lesson_092_choosing_between_competing_models.md",
+  "label": "092 Choosing Between Competing Models"
+ },
+ {
+  "file": "part-08/lesson_093_workplace_cooperation_and_conflict.md",
+  "label": "093 Workplace Cooperation and Conflict"
+ },
+ {
+  "file": "part-08/lesson_094_leadership_and_team_incentives.md",
+  "label": "094 Leadership and Team Incentives"
+ },
+ {
+  "file": "part-08/lesson_095_family_and_close_relationships.md",
+  "label": "095 Family and Close Relationships"
+ },
+ {
+  "file": "part-08/lesson_096_friendship_reciprocity_and_boundaries.md",
+  "label": "096 Friendship, Reciprocity and Boundaries"
+ },
+ {
+  "file": "part-08/lesson_097_everyday_bargaining_and_negotiation.md",
+  "label": "097 Everyday Bargaining and Negotiation"
+ },
+ {
+  "file": "part-08/lesson_098_conflict_de_escalation_and_repair.md",
+  "label": "098 Conflict De-escalation and Repair"
+ },
+ {
+  "file": "part-08/lesson_099_networks_and_social_interdependence.md",
+  "label": "099 Networks and Social Interdependence"
+ },
+ {
+  "file": "part-08/lesson_100_ethics_and_limits_of_strategic_thinking.md",
+  "label": "100 Ethics and Limits of Strategic Thinking"
+ },
+ {
+  "file": "part-08/lesson_101_integrated_strategic_analysis.md",
+  "label": "101 Integrated Strategic Analysis"
  }
 ];

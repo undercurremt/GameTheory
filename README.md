@@ -3,7 +3,7 @@
 **8 parts · 101 lessons**
 
 <!-- progress -->
-**Published: 89 / 101 lessons**
+**Published: 101 / 101 lessons**
 <!-- /progress -->
 
 ---

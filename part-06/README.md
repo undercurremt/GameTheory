@@ -73,7 +73,7 @@
 
 **Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), [034](/part-03/lesson_034_credible_threats.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)
 
-**Related lessons:** [071](/part-06/lesson_071_war_of_attrition.md), 098
+**Related lessons:** [071](/part-06/lesson_071_war_of_attrition.md), [098](/part-08/lesson_098_conflict_de_escalation_and_repair.md)
 
 ---
 
@@ -145,6 +145,6 @@
 
 **Prerequisites:** [048](/part-04/lesson_048_punishment_and_deterrence.md), [072](/part-06/lesson_072_public_goods_games.md)–[075](/part-06/lesson_075_mechanism_design.md)
 
-**Related lessons:** [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md), 094
+**Related lessons:** [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md), [094](/part-08/lesson_094_leadership_and_team_incentives.md)
 
 ---

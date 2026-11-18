@@ -97,7 +97,7 @@
 
 **Prerequisites:** [055](/part-05/lesson_055_bayesian_updating.md)–[058](/part-05/lesson_058_signaling_games.md)
 
-**Related lessons:** [027](/part-02/lesson_027_correlated_equilibrium.md), 096
+**Related lessons:** [027](/part-02/lesson_027_correlated_equilibrium.md), [096](/part-08/lesson_096_friendship_reciprocity_and_boundaries.md)
 
 ---
 

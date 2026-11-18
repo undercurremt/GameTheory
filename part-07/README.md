@@ -97,7 +97,7 @@
 
 **Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [083](/part-07/lesson_083_social_preferences.md)
 
-**Related lessons:** [085](/part-07/lesson_085_ultimatum_dictator_and_trust_games.md), 095
+**Related lessons:** [085](/part-07/lesson_085_ultimatum_dictator_and_trust_games.md), [095](/part-08/lesson_095_family_and_close_relationships.md)
 
 ---
 
@@ -121,7 +121,7 @@
 
 **Prerequisites:** [010](/part-01/lesson_010_knowledge_beliefs_and_expectations.md), [055](/part-05/lesson_055_bayesian_updating.md), [083](/part-07/lesson_083_social_preferences.md), [084](/part-07/lesson_084_fairness_and_inequity_aversion.md)
 
-**Related lessons:** [074](/part-06/lesson_074_common_pool_resources.md), 100
+**Related lessons:** [074](/part-06/lesson_074_common_pool_resources.md), [100](/part-08/lesson_100_ethics_and_limits_of_strategic_thinking.md)
 
 ---
 
@@ -157,6 +157,6 @@
 
 **Prerequisites:** [023](/part-02/lesson_023_coordination_games.md), [076](/part-06/lesson_076_institutions_and_enforcement.md), [082](/part-07/lesson_082_learning_in_games.md), [087](/part-07/lesson_087_evolutionary_game_theory.md)
 
-**Related lessons:** [051](/part-04/lesson_051_conditions_for_sustained_cooperation.md), 099
+**Related lessons:** [051](/part-04/lesson_051_conditions_for_sustained_cooperation.md), [099](/part-08/lesson_099_networks_and_social_interdependence.md)
 
 ---

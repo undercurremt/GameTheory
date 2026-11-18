@@ -45,7 +45,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md)
 
-**Related lessons:** [008](/part-01/lesson_008_payoffs_and_incentives.md), 091
+**Related lessons:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [091](/part-08/lesson_091_mapping_players_incentives_and_information.md)
 
 ---
 
@@ -165,6 +165,6 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_strategic_interaction.md), [006](/part-01/lesson_006_outcomes_and_preferences.md), [009](/part-01/lesson_009_rationality.md), [013](/part-01/lesson_013_classification_of_games.md)
 
-**Related lessons:** [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), 100
+**Related lessons:** [077](/part-07/lesson_077_classical_predictions_vs_observed_behavior.md), [100](/part-08/lesson_100_ethics_and_limits_of_strategic_thinking.md)
 
 ---
