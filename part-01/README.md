@@ -23,7 +23,7 @@
 
 **Prerequisites:** [001](/part-01/lesson_001_origins_of_game_theory.md)
 
-**Related lessons:** [020](/part-02/lesson_020_nash_equilibrium.md), [068](/part-06/lesson_068_nash_bargaining_solution.md), 087
+**Related lessons:** [020](/part-02/lesson_020_nash_equilibrium.md), [068](/part-06/lesson_068_nash_bargaining_solution.md), [087](/part-07/lesson_087_evolutionary_game_theory.md)
 
 ---
 

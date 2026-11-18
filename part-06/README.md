@@ -121,7 +121,7 @@
 
 **Prerequisites:** [072](/part-06/lesson_072_public_goods_games.md), [073](/part-06/lesson_073_free_riding_and_collective_action.md)
 
-**Related lessons:** [075](/part-06/lesson_075_mechanism_design.md), 089
+**Related lessons:** [075](/part-06/lesson_075_mechanism_design.md), [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md)
 
 ---
 
@@ -145,6 +145,6 @@
 
 **Prerequisites:** [048](/part-04/lesson_048_punishment_and_deterrence.md), [072](/part-06/lesson_072_public_goods_games.md)–[075](/part-06/lesson_075_mechanism_design.md)
 
-**Related lessons:** 089, 094
+**Related lessons:** [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md), 094
 
 ---

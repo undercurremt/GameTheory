@@ -92,4 +92,7 @@
   * [084 Fairness and Inequity Aversion](/part-07/lesson_084_fairness_and_inequity_aversion.md)
   * [085 Ultimatum, Dictator and Trust Games](/part-07/lesson_085_ultimatum_dictator_and_trust_games.md)
   * [086 Emotions and Psychological Games](/part-07/lesson_086_emotions_and_psychological_games.md)
+  * [087 Evolutionary Game Theory](/part-07/lesson_087_evolutionary_game_theory.md)
+  * [088 Evolutionarily Stable Strategies](/part-07/lesson_088_evolutionarily_stable_strategies.md)
+  * [089 Social Norms and Cultural Evolution](/part-07/lesson_089_social_norms_and_cultural_evolution.md)
 * [**Part VIII — Game Theory in Everyday Life**](/part-08/)

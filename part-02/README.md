@@ -109,7 +109,7 @@
 
 **Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [021](/part-02/lesson_021_multiple_equilibria.md)
 
-**Related lessons:** [024](/part-02/lesson_024_stag_hunt.md), [027](/part-02/lesson_027_correlated_equilibrium.md), 089
+**Related lessons:** [024](/part-02/lesson_024_stag_hunt.md), [027](/part-02/lesson_027_correlated_equilibrium.md), [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md)
 
 ---
 
@@ -133,7 +133,7 @@
 
 **Prerequisites:** [020](/part-02/lesson_020_nash_equilibrium.md), [021](/part-02/lesson_021_multiple_equilibria.md)
 
-**Related lessons:** [070](/part-06/lesson_070_strategic_conflict_and_escalation.md), 088
+**Related lessons:** [070](/part-06/lesson_070_strategic_conflict_and_escalation.md), [088](/part-07/lesson_088_evolutionarily_stable_strategies.md)
 
 ---
 

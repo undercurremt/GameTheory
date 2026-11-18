@@ -343,5 +343,17 @@ window.BOOK_PAGES = [
  {
   "file": "part-07/lesson_086_emotions_and_psychological_games.md",
   "label": "086 Emotions and Psychological Games"
+ },
+ {
+  "file": "part-07/lesson_087_evolutionary_game_theory.md",
+  "label": "087 Evolutionary Game Theory"
+ },
+ {
+  "file": "part-07/lesson_088_evolutionarily_stable_strategies.md",
+  "label": "088 Evolutionarily Stable Strategies"
+ },
+ {
+  "file": "part-07/lesson_089_social_norms_and_cultural_evolution.md",
+  "label": "089 Social Norms and Cultural Evolution"
  }
 ];
