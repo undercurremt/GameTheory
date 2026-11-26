@@ -11,7 +11,7 @@
 
 **Guiding question:** Как различни интереси могат да доведат до споразумение?
 
-**Prerequisites:** 026, 028, 037
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 028, 037
 
 **Related lessons:** 060, 061
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как формалните принципи определят решение за разпределение?
 
-**Prerequisites:** 026, 059, 060
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 059, 060
 
 **Related lessons:** 077
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Кои разпределения на общата печалба никоя група не би отхвърлила?
 
-**Prerequisites:** 026, 061
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 061
 
 **Related lessons:** 064, 067
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо конфликтите могат да продължават въпреки взаимната вреда?
 
-**Prerequisites:** 022, 033, 059
+**Prerequisites:** [022](/part-02/lesson_022_chicken_and_hawk_dove.md), 033, 059
 
 **Related lessons:** 066, 088
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Защо участниците продължават да изчакват въпреки растящите разходи?
 
-**Prerequisites:** 023, 035, 065
+**Prerequisites:** [023](/part-02/lesson_023_mixed_strategies.md), 035, 065
 
 **Related lessons:** 046
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Защо общата полза не гарантира индивидуален принос?
 
-**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), 019, 026
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md)
 
 **Related lessons:** 068, 070, 077
 

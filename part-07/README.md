@@ -11,7 +11,7 @@
 
 **Guiding question:** Защо хората не винаги действат според класическите модели?
 
-**Prerequisites:** [006](/part-01/lesson_006_rationality.md), [017](/part-02/lesson_017_nash_equilibrium.md), 019
+**Prerequisites:** [006](/part-01/lesson_006_rationality.md), [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)
 
 **Related lessons:** 072
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Защо хората използват различни нива на стратегическо разсъждение?
 
-**Prerequisites:** [008](/part-01/lesson_008_common_knowledge.md), 016, 073
+**Prerequisites:** [008](/part-01/lesson_008_common_knowledge.md), [016](/part-02/lesson_016_rationalizability.md), 073
 
 **Related lessons:** 075
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Как моделираме вероятностните отклонения от оптималния избор?
 
-**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [017](/part-02/lesson_017_nash_equilibrium.md), 023, 073
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [017](/part-02/lesson_017_nash_equilibrium.md), [023](/part-02/lesson_023_mixed_strategies.md), 073
 
 **Related lessons:** 074, 076
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Как участниците адаптират стратегиите си чрез опит?
 
-**Prerequisites:** 015, 038, 073
+**Prerequisites:** [015](/part-02/lesson_015_best_response.md), 038, 073
 
 **Related lessons:** 042, 080
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо чуждите резултати и несправедливостта влияят върху собствения ни избор?
 
-**Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), 026, 071, 072
+**Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 071, 072
 
 **Related lessons:** 078, 079, 086
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Как експериментите изследват справедливостта, доверието и взаимността?
 
-**Prerequisites:** 019, 043, 059, 072, 077
+**Prerequisites:** [019](/part-02/lesson_019_prisoner_s_dilemma.md), 043, 059, 072, 077
 
 **Related lessons:** 067, 079
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как стратегиите се разпространяват чрез еволюционни процеси?
 
-**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), 022, 023
+**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [022](/part-02/lesson_022_chicken_and_hawk_dove.md), [023](/part-02/lesson_023_mixed_strategies.md)
 
 **Related lessons:** 076, 081
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Кога една стратегия е устойчива на навлизането на алтернативи?
 
-**Prerequisites:** 022, 080
+**Prerequisites:** [022](/part-02/lesson_022_chicken_and_hawk_dove.md), 080
 
 **Related lessons:** 082
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как възникват и се поддържат социалните норми?
 
-**Prerequisites:** 020, 070, 076, 080
+**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), 070, 076, 080
 
 **Related lessons:** 047, 089
 

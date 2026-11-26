@@ -45,7 +45,67 @@ window.BOOK_PAGES = [
   "label": "011 Models, Assumptions and Explanation"
  },
  {
+  "file": "part-02/lesson_012_normal_form_games.md",
+  "label": "012 Normal-Form Games"
+ },
+ {
+  "file": "part-02/lesson_013_strict_and_weak_dominance.md",
+  "label": "013 Strict and Weak Dominance"
+ },
+ {
+  "file": "part-02/lesson_014_iterated_elimination.md",
+  "label": "014 Iterated Elimination"
+ },
+ {
+  "file": "part-02/lesson_015_best_response.md",
+  "label": "015 Best Response"
+ },
+ {
+  "file": "part-02/lesson_016_rationalizability.md",
+  "label": "016 Rationalizability"
+ },
+ {
   "file": "part-02/lesson_017_nash_equilibrium.md",
   "label": "017 Nash Equilibrium"
+ },
+ {
+  "file": "part-02/lesson_018_multiple_equilibria.md",
+  "label": "018 Multiple Equilibria"
+ },
+ {
+  "file": "part-02/lesson_019_prisoner_s_dilemma.md",
+  "label": "019 Prisoner's Dilemma"
+ },
+ {
+  "file": "part-02/lesson_020_coordination_games.md",
+  "label": "020 Coordination Games"
+ },
+ {
+  "file": "part-02/lesson_021_stag_hunt.md",
+  "label": "021 Stag Hunt"
+ },
+ {
+  "file": "part-02/lesson_022_chicken_and_hawk_dove.md",
+  "label": "022 Chicken and Hawk–Dove"
+ },
+ {
+  "file": "part-02/lesson_023_mixed_strategies.md",
+  "label": "023 Mixed Strategies"
+ },
+ {
+  "file": "part-02/lesson_024_zero_sum_games_and_minimax.md",
+  "label": "024 Zero-Sum Games and Minimax"
+ },
+ {
+  "file": "part-02/lesson_025_correlated_equilibrium.md",
+  "label": "025 Correlated Equilibrium"
+ },
+ {
+  "file": "part-02/lesson_026_pareto_efficiency_and_welfare.md",
+  "label": "026 Pareto Efficiency and Welfare"
+ },
+ {
+  "file": "part-02/lesson_027_cournot_and_bertrand_competition.md",
+  "label": "027 Cournot and Bertrand Competition"
  }
 ];

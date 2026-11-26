@@ -25,7 +25,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), 019–021, 032, 040, 051, 083
+**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)–[021](/part-02/lesson_021_stag_hunt.md), 032, 040, 051, 083
 
 **Related lessons:** 090
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** 020, 067–070, 082
+**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), 067–070, 082
 
 **Related lessons:** 085, 090
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Кога стратегическото мислене помага и кога става подвеждащо?
 
-**Prerequisites:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), 026, 071, 077, 083
+**Prerequisites:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 071, 077, 083
 
 **Related lessons:** 086, 091
 

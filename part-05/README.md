@@ -53,7 +53,7 @@
 
 **Guiding question:** Как намираме равновесие при непълна информация?
 
-**Prerequisites:** 015, [017](/part-02/lesson_017_nash_equilibrium.md), 049, 050
+**Prerequisites:** [015](/part-02/lesson_015_best_response.md), [017](/part-02/lesson_017_nash_equilibrium.md), 049, 050
 
 **Related lessons:** 052, 058
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** 050–053
 
-**Related lessons:** 025, 086
+**Related lessons:** [025](/part-02/lesson_025_correlated_equilibrium.md), 086
 
 *Full lesson content coming soon.*
 

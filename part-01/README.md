@@ -11,7 +11,7 @@
 
 **Guiding question:** Защо възниква теорията на игрите и кой я оформя като дисциплина?
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [017](/part-02/lesson_017_nash_equilibrium.md), 024, 061, 080
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [017](/part-02/lesson_017_nash_equilibrium.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), 061, 080
 
 ---
 
@@ -33,7 +33,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md)
 
-**Related lessons:** 012, 023, 029, 030
+**Related lessons:** [012](/part-02/lesson_012_normal_form_games.md), [023](/part-02/lesson_023_mixed_strategies.md), 029, 030
 
 ---
 
@@ -57,7 +57,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_actions_and_strategies.md), [004](/part-01/lesson_004_outcomes_and_preferences.md)
 
-**Related lessons:** [006](/part-01/lesson_006_rationality.md), 012, 019, 023, 050, 069, 077
+**Related lessons:** [006](/part-01/lesson_006_rationality.md), [012](/part-02/lesson_012_normal_form_games.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [023](/part-02/lesson_023_mixed_strategies.md), 050, 069, 077
 
 ---
 
@@ -69,7 +69,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_actions_and_strategies.md)–[005](/part-01/lesson_005_utility_payoffs_and_incentives.md)
 
-**Related lessons:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [008](/part-01/lesson_008_common_knowledge.md), 016, 073
+**Related lessons:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [008](/part-01/lesson_008_common_knowledge.md), [016](/part-02/lesson_016_rationalizability.md), 073
 
 ---
 
@@ -81,7 +81,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [006](/part-01/lesson_006_rationality.md)
 
-**Related lessons:** [008](/part-01/lesson_008_common_knowledge.md), 016, 030, 048–050
+**Related lessons:** [008](/part-01/lesson_008_common_knowledge.md), [016](/part-02/lesson_016_rationalizability.md), 030, 048–050
 
 ---
 
@@ -93,7 +93,7 @@
 
 **Prerequisites:** [006](/part-01/lesson_006_rationality.md), [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md)
 
-**Related lessons:** 016–018, 020, 082
+**Related lessons:** [016](/part-02/lesson_016_rationalizability.md)–[018](/part-02/lesson_018_multiple_equilibria.md), [020](/part-02/lesson_020_coordination_games.md), 082
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [009](/part-01/lesson_009_rules_and_game_structure.md)
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), 024, 028, 038, 048, 063
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), 028, 038, 048, 063
 
 ---
 

@@ -11,7 +11,7 @@
 
 **Guiding question:** Как редът на действията променя стратегиите?
 
-**Prerequisites:** [010](/part-01/lesson_010_classification_of_games.md), 012
+**Prerequisites:** [010](/part-01/lesson_010_classification_of_games.md), [012](/part-02/lesson_012_normal_form_games.md)
 
 **Related lessons:** 029
 
@@ -123,7 +123,7 @@
 
 **Guiding question:** Кога ходът пръв дава реално предимство?
 
-**Prerequisites:** 027, 031
+**Prerequisites:** [027](/part-02/lesson_027_cournot_and_bertrand_competition.md), 031
 
 **Related lessons:** 034, 035
 
