@@ -1,8 +1,8 @@
 # Lesson 069 — Mechanism Design
 
 **Основна концепция:** Проектиране на механизми  
-**Предпоставки:** Lessons 005 — Utility, Payoffs and Incentives, 009 — Rules and Game Structure, 017 — Nash Equilibrium, 037 — Endogenous Game Structure  
-**Напречни връзки:** Lessons 055, 057
+**Предпоставки:** Lessons 005 — Utility, Payoffs and Incentives, 009 — Rules and Game Structure, 017 — Nash Equilibrium, 037 — Endogenous Game Structure, 051 — Bayesian Games and Bayesian Nash Equilibrium, 055 — Screening and Self-Selection, 058 — Auctions and Winner's Curse  
+**Напречни връзки:** Lesson 057
 
 ---
 

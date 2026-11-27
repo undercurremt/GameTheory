@@ -131,9 +131,9 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [017](/part-02/lesson_017_nash_equilibrium.md), [037](/part-03/lesson_037_endogenous_game_structure.md)
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [017](/part-02/lesson_017_nash_equilibrium.md), [037](/part-03/lesson_037_endogenous_game_structure.md), [051](/part-05/lesson_051_bayesian_games_and_bayesian_nash_equilibrium.md), [055](/part-05/lesson_055_screening_and_self_selection.md), [058](/part-05/lesson_058_auctions_and_winner_s_curse.md)
 
-**Related lessons:** [055](/part-05/lesson_055_screening_and_self_selection.md), [057](/part-05/lesson_057_moral_hazard.md)
+**Related lessons:** [057](/part-05/lesson_057_moral_hazard.md)
 
 ---
 
