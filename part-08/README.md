@@ -25,7 +25,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)–[021](/part-02/lesson_021_stag_hunt.md), 032, 040, 051, 083
+**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)–[021](/part-02/lesson_021_stag_hunt.md), 032, [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), 051, 083
 
 **Related lessons:** 090
 
@@ -39,7 +39,7 @@
 
 **Guiding question:** Как стимулите и управленските решения влияят върху работните отношения и екипите?
 
-**Prerequisites:** 037, 040, 042, 067, 069, 070, 083
+**Prerequisites:** 037, [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [042](/part-04/lesson_042_reputation.md), 067, 069, 070, 083
 
 **Related lessons:** 089
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как повторяемостта, взаимността и личните граници влияят върху близките отношения?
 
-**Prerequisites:** 038–047, 054, 077, 083
+**Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), 054, 077, 083
 
 **Related lessons:** 088, 090
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Как прекъсваме повтарящи се конфликтни взаимодействия?
 
-**Prerequisites:** 033, 034, 045, 065, 083
+**Prerequisites:** 033, 034, [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 065, 083
 
 **Related lessons:** 079, 086
 

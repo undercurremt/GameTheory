@@ -53,7 +53,7 @@
 
 **Guiding question:** Как последователните предложения и нетърпението влияят върху резултата?
 
-**Prerequisites:** 029–032, 039, 059
+**Prerequisites:** 029–032, [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), 059
 
 **Related lessons:** 035, 060
 
@@ -111,7 +111,7 @@
 
 **Prerequisites:** [023](/part-02/lesson_023_mixed_strategies.md), 035, 065
 
-**Related lessons:** 046
+**Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md)
 
 *Full lesson content coming soon.*
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как институциите поддържат сътрудничеството?
 
-**Prerequisites:** 044, 067–069
+**Prerequisites:** [044](/part-04/lesson_044_punishment_and_deterrence.md), 067–069
 
 **Related lessons:** 082, 085
 

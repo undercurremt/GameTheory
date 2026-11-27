@@ -117,7 +117,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [009](/part-01/lesson_009_rules_and_game_structure.md)
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), 028, 038, 048, 063
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), 028, [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), 048, 063
 
 ---
 

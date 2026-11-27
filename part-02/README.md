@@ -97,7 +97,7 @@
 
 **Prerequisites:** [013](/part-02/lesson_013_strict_and_weak_dominance.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** 038, 040, 067
+**Related lessons:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), 067
 
 ---
 
@@ -121,7 +121,7 @@
 
 **Prerequisites:** [018](/part-02/lesson_018_multiple_equilibria.md), [020](/part-02/lesson_020_coordination_games.md)
 
-**Related lessons:** 039, 043
+**Related lessons:** [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), [043](/part-04/lesson_043_trust_and_vulnerability.md)
 
 ---
 

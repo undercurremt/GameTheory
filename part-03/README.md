@@ -83,7 +83,7 @@
 
 **Prerequisites:** 031, 032
 
-**Related lessons:** 034, 043, 065
+**Related lessons:** 034, [043](/part-04/lesson_043_trust_and_vulnerability.md), 065
 
 *Full lesson content coming soon.*
 
@@ -111,7 +111,7 @@
 
 **Prerequisites:** 029, 031, 034
 
-**Related lessons:** 046, 062, 066
+**Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md), 062, 066
 
 *Full lesson content coming soon.*
 

@@ -107,5 +107,45 @@ window.BOOK_PAGES = [
  {
   "file": "part-02/lesson_027_cournot_and_bertrand_competition.md",
   "label": "027 Cournot and Bertrand Competition"
+ },
+ {
+  "file": "part-04/lesson_038_one_shot_vs_repeated_games.md",
+  "label": "038 One-Shot vs. Repeated Games"
+ },
+ {
+  "file": "part-04/lesson_039_shadow_of_the_future_and_discounting.md",
+  "label": "039 Shadow of the Future and Discounting"
+ },
+ {
+  "file": "part-04/lesson_040_repeated_prisoner_s_dilemma.md",
+  "label": "040 Repeated Prisoner's Dilemma"
+ },
+ {
+  "file": "part-04/lesson_041_reciprocity_tit_for_tat_and_conditional_cooperation.md",
+  "label": "041 Reciprocity, Tit-for-Tat and Conditional Cooperation"
+ },
+ {
+  "file": "part-04/lesson_042_reputation.md",
+  "label": "042 Reputation"
+ },
+ {
+  "file": "part-04/lesson_043_trust_and_vulnerability.md",
+  "label": "043 Trust and Vulnerability"
+ },
+ {
+  "file": "part-04/lesson_044_punishment_and_deterrence.md",
+  "label": "044 Punishment and Deterrence"
+ },
+ {
+  "file": "part-04/lesson_045_forgiveness_and_imperfect_monitoring.md",
+  "label": "045 Forgiveness and Imperfect Monitoring"
+ },
+ {
+  "file": "part-04/lesson_046_finite_vs_indefinite_repetition.md",
+  "label": "046 Finite vs. Indefinite Repetition"
+ },
+ {
+  "file": "part-04/lesson_047_conditions_for_sustained_cooperation.md",
+  "label": "047 Conditions for Sustained Cooperation"
  }
 ];

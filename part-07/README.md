@@ -81,9 +81,9 @@
 
 **Guiding question:** Как участниците адаптират стратегиите си чрез опит?
 
-**Prerequisites:** [015](/part-02/lesson_015_best_response.md), 038, 073
+**Prerequisites:** [015](/part-02/lesson_015_best_response.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), 073
 
-**Related lessons:** 042, 080
+**Related lessons:** [042](/part-04/lesson_042_reputation.md), 080
 
 *Full lesson content coming soon.*
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Как експериментите изследват справедливостта, доверието и взаимността?
 
-**Prerequisites:** [019](/part-02/lesson_019_prisoner_s_dilemma.md), 043, 059, 072, 077
+**Prerequisites:** [019](/part-02/lesson_019_prisoner_s_dilemma.md), [043](/part-04/lesson_043_trust_and_vulnerability.md), 059, 072, 077
 
 **Related lessons:** 067, 079
 
@@ -167,7 +167,7 @@
 
 **Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), 070, 076, 080
 
-**Related lessons:** 047, 089
+**Related lessons:** [047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), 089
 
 *Full lesson content coming soon.*
 

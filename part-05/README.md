@@ -13,7 +13,7 @@
 
 **Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [010](/part-01/lesson_010_classification_of_games.md), 030
 
-**Related lessons:** 045, 049, 053
+**Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 049, 053
 
 *Full lesson content coming soon.*
 
@@ -27,7 +27,7 @@
 
 **Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), 048
 
-**Related lessons:** 042, 050
+**Related lessons:** [042](/part-04/lesson_042_reputation.md), 050
 
 *Full lesson content coming soon.*
 
@@ -83,7 +83,7 @@
 
 **Prerequisites:** 029, 030, 049, 051, 052
 
-**Related lessons:** 033, 042, 054
+**Related lessons:** 033, [042](/part-04/lesson_042_reputation.md), 054
 
 *Full lesson content coming soon.*
 
@@ -139,7 +139,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), 030, 049
 
-**Related lessons:** 044, 069
+**Related lessons:** [044](/part-04/lesson_044_punishment_and_deterrence.md), 069
 
 *Full lesson content coming soon.*
 
