@@ -28,7 +28,7 @@
 <g fill="currentColor" text-anchor="middle" font-weight="bold"><text x="26" y="59">D</text><text x="60" y="59">D</text><text x="94" y="59">D</text><text x="128" y="59">D</text><text x="162" y="59">D</text><text x="196" y="59">D</text><text x="230" y="59">D</text><text x="264" y="59">D</text><text x="298" y="59">D</text><text x="332" y="59">D</text></g>
 <line x1="330" y1="84" x2="30" y2="84" stroke="#2f6fd6" stroke-width="2"/>
 <polygon points="22,84 32,79 32,89" fill="#2f6fd6"/>
-<text x="180" y="104" fill="#2f6fd6" text-anchor="middle">обратната индукция тръгва от последната седмица</text>
+<text x="180" y="104" fill="#2f6fd6" text-anchor="middle">обратната индукция започва от седмица 10</text>
 <text x="12" y="16" fill="currentColor">седмица</text>
 </svg>
 <figcaption style="font-size:0.9em;opacity:0.8">В седмица 10 няма бъдеще и D доминира. Щом изходът на седмица 10 е ясен, седмица 9 също няма бъдеще, и така до седмица 1.</figcaption>

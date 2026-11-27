@@ -43,7 +43,7 @@
 <text x="258" y="40" fill="#2f6fd6" text-anchor="middle">по-добро и за двамата</text>
 <text x="220" y="108" fill="currentColor" text-anchor="middle">толкова Ана очаква от борбата</text>
 <text x="296" y="124" fill="currentColor" text-anchor="middle">100 € минус очакваното от Борис</text>
-<text x="410" y="40" fill="currentColor" text-anchor="end">дял на Ана (€)</text>
+<text x="410" y="18" fill="currentColor" text-anchor="end">дял на Ана (€)</text>
 </svg>
 <figcaption style="font-size:0.9em;opacity:0.8">Борбата унищожава 20 €. Затова има зона от сделки, които и двамата предпочитат пред нея.</figcaption>
 </figure>
