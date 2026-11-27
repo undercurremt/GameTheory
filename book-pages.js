@@ -279,5 +279,53 @@ window.BOOK_PAGES = [
  {
   "file": "part-06/lesson_070_institutions_and_enforcement.md",
   "label": "070 Institutions and Enforcement"
+ },
+ {
+  "file": "part-07/lesson_071_classical_predictions_vs_observed_behavior.md",
+  "label": "071 Classical Predictions vs. Observed Behavior"
+ },
+ {
+  "file": "part-07/lesson_072_experimental_design_and_interpretation.md",
+  "label": "072 Experimental Design and Interpretation"
+ },
+ {
+  "file": "part-07/lesson_073_bounded_rationality.md",
+  "label": "073 Bounded Rationality"
+ },
+ {
+  "file": "part-07/lesson_074_level_k_and_cognitive_hierarchy.md",
+  "label": "074 Level-k and Cognitive Hierarchy"
+ },
+ {
+  "file": "part-07/lesson_075_quantal_response_equilibrium.md",
+  "label": "075 Quantal Response Equilibrium"
+ },
+ {
+  "file": "part-07/lesson_076_learning_in_games.md",
+  "label": "076 Learning in Games"
+ },
+ {
+  "file": "part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md",
+  "label": "077 Social Preferences, Fairness and Inequity Aversion"
+ },
+ {
+  "file": "part-07/lesson_078_ultimatum_dictator_and_trust_games.md",
+  "label": "078 Ultimatum, Dictator and Trust Games"
+ },
+ {
+  "file": "part-07/lesson_079_emotions_and_psychological_games.md",
+  "label": "079 Emotions and Psychological Games"
+ },
+ {
+  "file": "part-07/lesson_080_evolutionary_game_theory.md",
+  "label": "080 Evolutionary Game Theory"
+ },
+ {
+  "file": "part-07/lesson_081_evolutionarily_stable_strategies.md",
+  "label": "081 Evolutionarily Stable Strategies"
+ },
+ {
+  "file": "part-07/lesson_082_social_norms_and_cultural_evolution.md",
+  "label": "082 Social Norms and Cultural Evolution"
  }
 ];

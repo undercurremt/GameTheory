@@ -49,7 +49,7 @@
 
 **Prerequisites:** [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md)
 
-**Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 077, 078
+**Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md), [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Prerequisites:** [021](/part-02/lesson_021_stag_hunt.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [042](/part-04/lesson_042_reputation.md)
 
-**Related lessons:** 078, 086
+**Related lessons:** [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md), 086
 
 ---
 

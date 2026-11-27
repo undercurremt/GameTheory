@@ -37,7 +37,7 @@
 
 **Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md), [060](/part-06/lesson_060_outside_options_and_bargaining_power.md)
 
-**Related lessons:** 077
+**Related lessons:** [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Prerequisites:** [063](/part-06/lesson_063_coalitional_games_and_the_core.md)
 
-**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), 077
+**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md)
 
-**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), 077
+**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 
@@ -121,7 +121,7 @@
 
 **Prerequisites:** [067](/part-06/lesson_067_public_goods_and_free_riding.md)
 
-**Related lessons:** [069](/part-06/lesson_069_mechanism_design.md), 082
+**Related lessons:** [069](/part-06/lesson_069_mechanism_design.md), [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md)
 
 ---
 
@@ -145,6 +145,6 @@
 
 **Prerequisites:** [044](/part-04/lesson_044_punishment_and_deterrence.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)–[069](/part-06/lesson_069_mechanism_design.md)
 
-**Related lessons:** 082, 085
+**Related lessons:** [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md), 085
 
 ---

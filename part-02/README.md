@@ -61,7 +61,7 @@
 
 **Prerequisites:** [008](/part-01/lesson_008_common_knowledge.md), [014](/part-02/lesson_014_iterated_elimination.md), [015](/part-02/lesson_015_best_response.md)
 
-**Related lessons:** [017](/part-02/lesson_017_nash_equilibrium.md), 074
+**Related lessons:** [017](/part-02/lesson_017_nash_equilibrium.md), [074](/part-07/lesson_074_level_k_and_cognitive_hierarchy.md)
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [018](/part-02/lesson_018_multiple_equilibria.md)
 
-**Related lessons:** [021](/part-02/lesson_021_stag_hunt.md), [025](/part-02/lesson_025_correlated_equilibrium.md), 082
+**Related lessons:** [021](/part-02/lesson_021_stag_hunt.md), [025](/part-02/lesson_025_correlated_equilibrium.md), [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md)
 
 ---
 
@@ -133,7 +133,7 @@
 
 **Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [018](/part-02/lesson_018_multiple_equilibria.md)
 
-**Related lessons:** [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), 081
+**Related lessons:** [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), [081](/part-07/lesson_081_evolutionarily_stable_strategies.md)
 
 ---
 
@@ -145,7 +145,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [015](/part-02/lesson_015_best_response.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** [025](/part-02/lesson_025_correlated_equilibrium.md), 075
+**Related lessons:** [025](/part-02/lesson_025_correlated_equilibrium.md), [075](/part-07/lesson_075_quantal_response_equilibrium.md)
 
 ---
 
@@ -181,7 +181,7 @@
 
 **Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), 077
+**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 

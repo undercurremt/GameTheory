@@ -53,7 +53,7 @@
 
 **Guiding question:** Как повторяемостта, взаимността и личните граници влияят върху близките отношения?
 
-**Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), [054](/part-05/lesson_054_cheap_talk.md), 077, 083
+**Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), [054](/part-05/lesson_054_cheap_talk.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md), 083
 
 **Related lessons:** 088, 090
 
@@ -83,7 +83,7 @@
 
 **Prerequisites:** [033](/part-03/lesson_033_credible_threats_and_promises.md), [034](/part-03/lesson_034_strategic_commitment.md), [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), 083
 
-**Related lessons:** 079, 086
+**Related lessons:** [079](/part-07/lesson_079_emotions_and_psychological_games.md), 086
 
 *Full lesson content coming soon.*
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)–[070](/part-06/lesson_070_institutions_and_enforcement.md), 082
+**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)–[070](/part-06/lesson_070_institutions_and_enforcement.md), [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md)
 
 **Related lessons:** 085, 090
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Кога стратегическото мислене помага и кога става подвеждащо?
 
-**Prerequisites:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 071, 077, 083
+**Prerequisites:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [071](/part-07/lesson_071_classical_predictions_vs_observed_behavior.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md), 083
 
 **Related lessons:** 086, 091
 
