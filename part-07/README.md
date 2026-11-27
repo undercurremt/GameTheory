@@ -123,7 +123,7 @@
 
 **Guiding question:** Как емоциите и убежденията за чуждите очаквания влияят на поведението?
 
-**Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), 050, 077
+**Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [050](/part-05/lesson_050_bayesian_updating.md), 077
 
 **Related lessons:** 068, 090
 

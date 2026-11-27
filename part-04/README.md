@@ -61,7 +61,7 @@
 
 **Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md)
 
-**Related lessons:** 049, 053
+**Related lessons:** [049](/part-05/lesson_049_private_information_and_player_types.md), [053](/part-05/lesson_053_signaling_games_and_costly_signals.md)
 
 ---
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** [041](/part-04/lesson_041_reciprocity_tit_for_tat_and_conditional_cooperation.md), [044](/part-04/lesson_044_punishment_and_deterrence.md)
 
-**Related lessons:** 048, 050
+**Related lessons:** [048](/part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md), [050](/part-05/lesson_050_bayesian_updating.md)
 
 ---
 

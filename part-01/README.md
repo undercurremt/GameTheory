@@ -57,7 +57,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_actions_and_strategies.md), [004](/part-01/lesson_004_outcomes_and_preferences.md)
 
-**Related lessons:** [006](/part-01/lesson_006_rationality.md), [012](/part-02/lesson_012_normal_form_games.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [023](/part-02/lesson_023_mixed_strategies.md), 050, 069, 077
+**Related lessons:** [006](/part-01/lesson_006_rationality.md), [012](/part-02/lesson_012_normal_form_games.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [023](/part-02/lesson_023_mixed_strategies.md), [050](/part-05/lesson_050_bayesian_updating.md), 069, 077
 
 ---
 
@@ -81,7 +81,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [006](/part-01/lesson_006_rationality.md)
 
-**Related lessons:** [008](/part-01/lesson_008_common_knowledge.md), [016](/part-02/lesson_016_rationalizability.md), [030](/part-03/lesson_030_information_sets.md), 048–050
+**Related lessons:** [008](/part-01/lesson_008_common_knowledge.md), [016](/part-02/lesson_016_rationalizability.md), [030](/part-03/lesson_030_information_sets.md), [048](/part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md)–[050](/part-05/lesson_050_bayesian_updating.md)
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [009](/part-01/lesson_009_rules_and_game_structure.md)
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), 048, 063
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [048](/part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md), 063
 
 ---
 

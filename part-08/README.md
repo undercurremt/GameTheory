@@ -25,7 +25,7 @@
 
 **Guiding question:** Как избираме подходящата теоретична рамка?
 
-**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)–[021](/part-02/lesson_021_stag_hunt.md), [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), 051, 083
+**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md)–[021](/part-02/lesson_021_stag_hunt.md), [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [051](/part-05/lesson_051_bayesian_games_and_bayesian_nash_equilibrium.md), 083
 
 **Related lessons:** 090
 
@@ -53,7 +53,7 @@
 
 **Guiding question:** Как повторяемостта, взаимността и личните граници влияят върху близките отношения?
 
-**Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), 054, 077, 083
+**Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), [054](/part-05/lesson_054_cheap_talk.md), 077, 083
 
 **Related lessons:** 088, 090
 

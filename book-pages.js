@@ -187,5 +187,49 @@ window.BOOK_PAGES = [
  {
   "file": "part-04/lesson_047_conditions_for_sustained_cooperation.md",
   "label": "047 Conditions for Sustained Cooperation"
+ },
+ {
+  "file": "part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md",
+  "label": "048 Complete, Incomplete, Perfect and Imperfect Information"
+ },
+ {
+  "file": "part-05/lesson_049_private_information_and_player_types.md",
+  "label": "049 Private Information and Player Types"
+ },
+ {
+  "file": "part-05/lesson_050_bayesian_updating.md",
+  "label": "050 Bayesian Updating"
+ },
+ {
+  "file": "part-05/lesson_051_bayesian_games_and_bayesian_nash_equilibrium.md",
+  "label": "051 Bayesian Games and Bayesian Nash Equilibrium"
+ },
+ {
+  "file": "part-05/lesson_052_perfect_bayesian_equilibrium.md",
+  "label": "052 Perfect Bayesian Equilibrium"
+ },
+ {
+  "file": "part-05/lesson_053_signaling_games_and_costly_signals.md",
+  "label": "053 Signaling Games and Costly Signals"
+ },
+ {
+  "file": "part-05/lesson_054_cheap_talk.md",
+  "label": "054 Cheap Talk"
+ },
+ {
+  "file": "part-05/lesson_055_screening_and_self_selection.md",
+  "label": "055 Screening and Self-Selection"
+ },
+ {
+  "file": "part-05/lesson_056_adverse_selection.md",
+  "label": "056 Adverse Selection"
+ },
+ {
+  "file": "part-05/lesson_057_moral_hazard.md",
+  "label": "057 Moral Hazard"
+ },
+ {
+  "file": "part-05/lesson_058_auctions_and_winner_s_curse.md",
+  "label": "058 Auctions and Winner's Curse"
  }
 ];
