@@ -5,146 +5,146 @@
 
 ---
 
-## [065  Bargaining as Strategic Interaction](/part-06/lesson_065_bargaining_as_strategic_interaction.md)
+## [059  Bargaining as Strategic Interaction](/part-06/lesson_059_bargaining_as_strategic_interaction.md)
 
 **Core concept:** Стратегическо договаряне
 
 **Guiding question:** Как различни интереси могат да доведат до споразумение?
 
-**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [029](/part-03/lesson_029_simultaneous_vs_sequential_games.md), [039](/part-03/lesson_039_endogenous_game_structure.md)
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [037](/part-03/lesson_037_endogenous_game_structure.md)
 
-**Related lessons:** [066](/part-06/lesson_066_outside_options_and_disagreement_points.md), [068](/part-06/lesson_068_nash_bargaining_solution.md)
-
----
-
-## [066  Outside Options and Disagreement Points](/part-06/lesson_066_outside_options_and_disagreement_points.md)
-
-**Core concept:** Външни опции и точка на несъгласие
-
-**Guiding question:** Как алтернативите влияят върху преговорите?
-
-**Prerequisites:** [006](/part-01/lesson_006_outcomes_and_preferences.md)–[008](/part-01/lesson_008_payoffs_and_incentives.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)
-
-**Related lessons:** [067](/part-06/lesson_067_bargaining_power.md), [069](/part-06/lesson_069_alternating_offers_bargaining.md)
+**Related lessons:** [060](/part-06/lesson_060_outside_options_and_bargaining_power.md), [061](/part-06/lesson_061_nash_bargaining_solution.md)
 
 ---
 
-## [067  Bargaining Power](/part-06/lesson_067_bargaining_power.md)
+## [060  Outside Options and Bargaining Power](/part-06/lesson_060_outside_options_and_bargaining_power.md)
 
-**Core concept:** Преговорна сила
+**Core concept:** Външни опции и преговорна сила
 
-**Guiding question:** От какво зависи преговорната сила?
+**Guiding question:** Как алтернативите извън преговорите определят преговорната сила?
 
-**Prerequisites:** [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md), [066](/part-06/lesson_066_outside_options_and_disagreement_points.md)
+**Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md)
 
-**Related lessons:** [068](/part-06/lesson_068_nash_bargaining_solution.md), [071](/part-06/lesson_071_war_of_attrition.md)
+**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), [062](/part-06/lesson_062_alternating_offers_bargaining.md), [066](/part-06/lesson_066_war_of_attrition.md)
 
 ---
 
-## [068  Nash Bargaining Solution](/part-06/lesson_068_nash_bargaining_solution.md)
+## [061  Nash Bargaining Solution](/part-06/lesson_061_nash_bargaining_solution.md)
 
 **Core concept:** Аксиоматичен преговорен модел
 
 **Guiding question:** Как формалните принципи определят решение за разпределение?
 
-**Prerequisites:** [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)–[067](/part-06/lesson_067_bargaining_power.md)
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md), [060](/part-06/lesson_060_outside_options_and_bargaining_power.md)
 
-**Related lessons:** [084](/part-07/lesson_084_fairness_and_inequity_aversion.md)
+**Related lessons:** [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 
-## [069  Alternating-Offers Bargaining](/part-06/lesson_069_alternating_offers_bargaining.md)
+## [062  Alternating-Offers Bargaining](/part-06/lesson_062_alternating_offers_bargaining.md)
 
 **Core concept:** Последователни оферти
 
 **Guiding question:** Как последователните предложения и нетърпението влияят върху резултата?
 
-**Prerequisites:** [030](/part-03/lesson_030_extensive_form_games.md)–[033](/part-03/lesson_033_subgame_perfect_equilibrium.md), [042](/part-04/lesson_042_discount_factors.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)
+**Prerequisites:** [029](/part-03/lesson_029_extensive_form_games.md)–[032](/part-03/lesson_032_subgame_perfect_equilibrium.md), [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md)
 
-**Related lessons:** [038](/part-03/lesson_038_strategic_timing.md), [066](/part-06/lesson_066_outside_options_and_disagreement_points.md)
+**Related lessons:** [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), [060](/part-06/lesson_060_outside_options_and_bargaining_power.md)
 
 ---
 
-## [070  Strategic Conflict and Escalation](/part-06/lesson_070_strategic_conflict_and_escalation.md)
+## [063  Coalitional Games and the Core](/part-06/lesson_063_coalitional_games_and_the_core.md)
+
+**Core concept:** Коалиции и ядро (core)
+
+**Guiding question:** Кои разпределения на общата печалба никоя група не би отхвърлила?
+
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [061](/part-06/lesson_061_nash_bargaining_solution.md)
+
+**Related lessons:** [064](/part-06/lesson_064_the_shapley_value.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)
+
+---
+
+## [064  The Shapley Value](/part-06/lesson_064_the_shapley_value.md)
+
+**Core concept:** Справедлив дял според приноса
+
+**Guiding question:** Как да разделим общата печалба според приноса на всеки участник?
+
+**Prerequisites:** [063](/part-06/lesson_063_coalitional_games_and_the_core.md)
+
+**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
+
+---
+
+## [065  Strategic Conflict and Escalation](/part-06/lesson_065_strategic_conflict_and_escalation.md)
 
 **Core concept:** Ескалация на конфликт
 
 **Guiding question:** Защо конфликтите могат да продължават въпреки взаимната вреда?
 
-**Prerequisites:** [025](/part-02/lesson_025_chicken_and_hawk_dove.md), [034](/part-03/lesson_034_credible_threats.md), [065](/part-06/lesson_065_bargaining_as_strategic_interaction.md)
+**Prerequisites:** [022](/part-02/lesson_022_chicken_and_hawk_dove.md), [033](/part-03/lesson_033_credible_threats_and_promises.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md)
 
-**Related lessons:** [071](/part-06/lesson_071_war_of_attrition.md), [098](/part-08/lesson_098_conflict_de_escalation_and_repair.md)
+**Related lessons:** [066](/part-06/lesson_066_war_of_attrition.md), [088](/part-08/lesson_088_conflict_de_escalation_and_repair.md)
 
 ---
 
-## [071  War of Attrition](/part-06/lesson_071_war_of_attrition.md)
+## [066  War of Attrition](/part-06/lesson_066_war_of_attrition.md)
 
 **Core concept:** Война на изтощение
 
 **Guiding question:** Защо участниците продължават да изчакват въпреки растящите разходи?
 
-**Prerequisites:** [026](/part-02/lesson_026_mixed_strategies.md), [038](/part-03/lesson_038_strategic_timing.md), [070](/part-06/lesson_070_strategic_conflict_and_escalation.md)
+**Prerequisites:** [023](/part-02/lesson_023_mixed_strategies.md), [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), [065](/part-06/lesson_065_strategic_conflict_and_escalation.md)
 
-**Related lessons:** [050](/part-04/lesson_050_finite_vs_indefinite_repetition.md)
+**Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md)
 
 ---
 
-## [072  Public Goods Games](/part-06/lesson_072_public_goods_games.md)
+## [067  Public Goods and Free-Riding](/part-06/lesson_067_public_goods_and_free_riding.md)
 
-**Core concept:** Обществени блага
+**Core concept:** Обществени блага и безплатно ползване
 
 **Guiding question:** Защо общата полза не гарантира индивидуален принос?
 
-**Prerequisites:** [022](/part-02/lesson_022_prisoner_s_dilemma.md), [028](/part-02/lesson_028_pareto_efficiency_and_welfare.md)
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md)
 
-**Related lessons:** [073](/part-06/lesson_073_free_riding_and_collective_action.md), [083](/part-07/lesson_083_social_preferences.md)
-
----
-
-## [073  Free-Riding and Collective Action](/part-06/lesson_073_free_riding_and_collective_action.md)
-
-**Core concept:** Безплатно ползване и колективно действие
-
-**Guiding question:** Защо участници се възползват от чуждите усилия?
-
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [072](/part-06/lesson_072_public_goods_games.md)
-
-**Related lessons:** [074](/part-06/lesson_074_common_pool_resources.md), [076](/part-06/lesson_076_institutions_and_enforcement.md)
+**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
 ---
 
-## [074  Common-Pool Resources](/part-06/lesson_074_common_pool_resources.md)
+## [068  Common-Pool Resources](/part-06/lesson_068_common_pool_resources.md)
 
 **Core concept:** Ресурси за общо ползване
 
 **Guiding question:** Как индивидуалните действия могат да застрашат общ ресурс?
 
-**Prerequisites:** [072](/part-06/lesson_072_public_goods_games.md), [073](/part-06/lesson_073_free_riding_and_collective_action.md)
+**Prerequisites:** [067](/part-06/lesson_067_public_goods_and_free_riding.md)
 
-**Related lessons:** [075](/part-06/lesson_075_mechanism_design.md), [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md)
+**Related lessons:** [069](/part-06/lesson_069_mechanism_design.md), [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md)
 
 ---
 
-## [075  Mechanism Design](/part-06/lesson_075_mechanism_design.md)
+## [069  Mechanism Design](/part-06/lesson_069_mechanism_design.md)
 
 **Core concept:** Проектиране на механизми
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [008](/part-01/lesson_008_payoffs_and_incentives.md), [012](/part-01/lesson_012_rules_and_game_structure.md), [020](/part-02/lesson_020_nash_equilibrium.md), [039](/part-03/lesson_039_endogenous_game_structure.md)
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [017](/part-02/lesson_017_nash_equilibrium.md), [037](/part-03/lesson_037_endogenous_game_structure.md), [051](/part-05/lesson_051_bayesian_games_and_bayesian_nash_equilibrium.md), [055](/part-05/lesson_055_screening_and_self_selection.md), [058](/part-05/lesson_058_auctions_and_winner_s_curse.md)
 
-**Related lessons:** [061](/part-05/lesson_061_screening_and_self_selection.md), [063](/part-05/lesson_063_moral_hazard.md)
+**Related lessons:** [057](/part-05/lesson_057_moral_hazard.md)
 
 ---
 
-## [076  Institutions and Enforcement](/part-06/lesson_076_institutions_and_enforcement.md)
+## [070  Institutions and Enforcement](/part-06/lesson_070_institutions_and_enforcement.md)
 
 **Core concept:** Институции и прилагане на правила
 
 **Guiding question:** Как институциите поддържат сътрудничеството?
 
-**Prerequisites:** [048](/part-04/lesson_048_punishment_and_deterrence.md), [072](/part-06/lesson_072_public_goods_games.md)–[075](/part-06/lesson_075_mechanism_design.md)
+**Prerequisites:** [044](/part-04/lesson_044_punishment_and_deterrence.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)–[069](/part-06/lesson_069_mechanism_design.md)
 
-**Related lessons:** [089](/part-07/lesson_089_social_norms_and_cultural_evolution.md), [094](/part-08/lesson_094_leadership_and_team_incentives.md)
+**Related lessons:** [082](/part-07/lesson_082_social_norms_and_cultural_evolution.md), [085](/part-08/lesson_085_work_teams_and_leadership.md)
 
 ---

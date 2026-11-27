@@ -1,10 +1,10 @@
-# Course curriculum — Game Theory Master Curriculum v1.0 (Master Lesson Index v0.3, Concept Dependency Matrix v0.3)
-# Source: Game_Theory_Master_Curriculum_v1.0.docx. Single source of truth for part/lesson titles, core concepts,
-# guiding questions, prerequisites (P) and related lessons (X).
+# Course curriculum — Game Theory Master Curriculum v2.0 (restructured from v1.0: 101 -> 91 lessons, 15 merges, 5 new).
+# Single source of truth for part/lesson titles, core concepts, guiding questions, prerequisites and related lessons.
+# `v1` lists the v1.0 lesson numbers each lesson was built from (empty = new lesson).
 # Edit here, then run: python tools/build.py   (sidebar and part pages are regenerated from this)
 
 course: Game Theory
-version: '1.0'
+version: '2.0'
 goal: Задълбочено разбиране на стратегическото взаимодействие, човешкото поведение и приложението на теорията на игрите в ежедневния живот.
 parts:
 - number: 1
@@ -12,1005 +12,1133 @@ parts:
   title: Foundations of Game Theory
   lessons:
   - id: '001'
-    title: Origins of Game Theory
-    concept: Исторически произход
-    question: Защо възниква теорията на игрите?
+    title: Origins and Founders of Game Theory
+    concept: Исторически произход и основоположници
+    question: Защо възниква теорията на игрите и кой я оформя като дисциплина?
     prerequisites: []
     related:
-    - '002'
-    - '014'
-  - id: '002'
-    title: Founders and Scientific Development
-    concept: Основоположници и развитие
-    question: Как Von Neumann, Morgenstern, Nash и други оформят дисциплината?
-    prerequisites:
+    - '011'
+    - '017'
+    - '024'
+    - '061'
+    - 080
+    v1:
     - '001'
-    related:
-    - '020'
-    - 068
-    - 087
-  - id: '003'
-    title: Strategic Interaction
-    concept: Определение за игра
-    question: Кога една ситуация е игра?
+    - '002'
+  - id: '002'
+    title: Strategic Interaction and Interdependence
+    concept: Определение за игра и взаимозависимост
+    question: Кога една ситуация е игра и как решенията на участниците зависят едно от друго?
     prerequisites: []
     related:
-    - '004'
-    - '012'
-    - '014'
-  - id: '004'
-    title: Players and Interdependence
-    concept: Участници и взаимозависимост
-    question: Как решенията на участниците зависят едно от друго?
-    prerequisites:
+    - '005'
+    - 009
+    - '011'
+    - 083
+    v1:
     - '003'
-    related:
-    - 008
-    - 091
-  - id: '005'
+    - '004'
+  - id: '003'
     title: Actions and Strategies
     concept: Действия и стратегии
     question: Как стратегията се различава от действието?
     prerequisites:
-    - '003'
-    - '004'
+    - '002'
     related:
+    - '012'
+    - '023'
+    - 029
     - '030'
-    - '031'
-  - id: '006'
+    v1:
+    - '005'
+  - id: '004'
     title: Outcomes and Preferences
     concept: Резултати и предпочитания
     question: Как описваме предпочитанията на участниците?
     prerequisites:
+    - '002'
+    - '003'
+    related:
+    - '005'
+    - '006'
+    - '077'
+    v1:
+    - '006'
+  - id: '005'
+    title: Utility, Payoffs and Incentives
+    concept: Полезност, печалби и стимули
+    question: Как оценяваме сигурни и рискови резултати и как стимулите влияят върху избора?
+    prerequisites:
     - '003'
     - '004'
-    - '005'
     related:
-    - '007'
-    - 083
-  - id: '007'
-    title: Utility and Expected Utility
-    concept: Полезност и избор при риск
-    question: Как оценяваме сигурни и несигурни резултати?
-    prerequisites:
     - '006'
-    related:
-    - '055'
-    - 084
-  - id: 008
-    title: Payoffs and Incentives
-    concept: Стимули и печалби
-    question: Как стимулите влияят върху избора?
-    prerequisites:
-    - '005'
-    - '006'
+    - '012'
+    - 019
+    - '023'
+    - '050'
+    - 069
+    - '077'
+    v1:
     - '007'
-    related:
-    - '022'
-    - '075'
-  - id: 009
+    - 008
+  - id: '006'
     title: Rationality
     concept: Рационален избор
     question: Какво означава рационалност в Game Theory?
     prerequisites:
+    - '003'
+    - '004'
     - '005'
-    - '006'
+    related:
     - '007'
     - 008
-    related:
-    - 019
-    - 079
-  - id: '010'
+    - '016'
+    - '073'
+    v1:
+    - 009
+  - id: '007'
     title: Knowledge, Beliefs and Expectations
     concept: Информация и очаквания
     question: Как знанията и очакванията влияят върху решенията?
     prerequisites:
+    - '002'
     - '003'
-    - '004'
-    - '005'
+    - '006'
     related:
-    - '011'
-    - '054'
-  - id: '011'
+    - 008
+    - '016'
+    - '030'
+    - 048
+    - 049
+    - '050'
+    v1:
+    - '010'
+  - id: 008
     title: Common Knowledge
     concept: Общо знание
     question: Какво означава всички да знаят, че всички знаят?
     prerequisites:
-    - 009
-    - '010'
+    - '006'
+    - '007'
     related:
-    - 019
+    - '016'
+    - '017'
+    - 018
     - '020'
-  - id: '012'
+    - 082
+    v1:
+    - '011'
+  - id: 009
     title: Rules and Game Structure
     concept: Правила на играта
     question: Как правилата определят стратегическите възможности?
     prerequisites:
+    - '002'
     - '003'
     - '004'
     - '005'
-    - 008
     related:
-    - 039
-    - '075'
-  - id: '013'
+    - '010'
+    - 028
+    - '037'
+    - 069
+    - '070'
+    v1:
+    - '012'
+  - id: '010'
     title: Classification of Games
     concept: Типове игри
     question: Какви са основните разновидности на игрите?
     prerequisites:
+    - '002'
     - '003'
-    - '004'
-    - '005'
-    - '010'
-    - '012'
+    - '007'
+    - 009
     related:
-    - 029
-    - '040'
-    - '052'
-  - id: '014'
+    - '011'
+    - '024'
+    - 028
+    - 038
+    - 048
+    - '063'
+    v1:
+    - '013'
+  - id: '011'
     title: Models, Assumptions and Explanation
     concept: Допускания и ограничения
     question: Какво обяснява един модел и къде са границите му?
     prerequisites:
-    - '003'
+    - '002'
+    - '004'
     - '006'
     - 009
-    - '013'
+    - '010'
     related:
-    - '077'
-    - '100'
+    - '071'
+    - 084
+    - 090
+    v1:
+    - '014'
 - number: 2
   roman: II
   title: Strategic Reasoning & Equilibrium
   lessons:
-  - id: '015'
+  - id: '012'
     title: Normal-Form Games
     concept: Стратегически матрици
     question: Как представяме стратегическа игра чрез матрица?
     prerequisites:
+    - '003'
+    - '004'
     - '005'
-    - '006'
-    - '007'
-    - 008
-    - '013'
+    - '010'
     related:
-    - '030'
-  - id: '016'
+    - 029
+    v1:
+    - '015'
+  - id: '013'
     title: Strict and Weak Dominance
     concept: Строго и слабо доминиране
     question: Кога една стратегия превъзхожда друга?
     prerequisites:
-    - 009
-    - '015'
+    - '006'
+    - '012'
     related:
-    - '017'
-    - 019
-  - id: '017'
+    - '014'
+    - '016'
+    v1:
+    - '016'
+  - id: '014'
     title: Iterated Elimination
     concept: Елиминация на стратегии
     question: Как елиминираме доминираните стратегии?
     prerequisites:
-    - '016'
+    - '013'
     related:
-    - '011'
-    - 019
-  - id: 018
+    - 008
+    - '016'
+    v1:
+    - '017'
+  - id: '015'
     title: Best Response
     concept: Най-добър отговор
     question: Какво е най-доброто действие при даден избор на другия?
     prerequisites:
-    - 008
-    - 009
-    - '015'
+    - '005'
+    - '006'
+    - '012'
     related:
-    - 019
-    - '020'
-  - id: 019
+    - '016'
+    - '017'
+    v1:
+    - 018
+  - id: '016'
     title: Rationalizability
     concept: Рационализируемост
     question: Кои стратегии са съвместими с рационално стратегическо разсъждение?
     prerequisites:
-    - '011'
-    - '017'
-    - 018
+    - 008
+    - '014'
+    - '015'
     related:
-    - '020'
-    - 080
-  - id: '020'
+    - '017'
+    - '074'
+    v1:
+    - 019
+  - id: '017'
     title: Nash Equilibrium
     concept: Равновесие на Неш
     question: Кога никой няма стимул да промени едностранно избора си?
     prerequisites:
+    - '012'
     - '015'
-    - 018
     related:
-    - '021'
-    - '033'
-    - '056'
-  - id: '021'
+    - 018
+    - '032'
+    - '051'
+    v1:
+    - '020'
+  - id: 018
     title: Multiple Equilibria
     concept: Множество равновесия
     question: Защо една игра може да има няколко равновесия?
     prerequisites:
-    - '020'
+    - '017'
     related:
-    - '023'
-    - '024'
-    - '027'
-  - id: '022'
+    - '020'
+    - '021'
+    - '025'
+    v1:
+    - '021'
+  - id: 019
     title: Prisoner's Dilemma
     concept: Социална дилема
     question: Защо личният интерес може да доведе до колективен провал?
     prerequisites:
-    - '016'
-    - '020'
+    - '013'
+    - '017'
     related:
+    - 038
     - '040'
-    - '043'
-    - '072'
-  - id: '023'
+    - '067'
+    v1:
+    - '022'
+  - id: '020'
     title: Coordination Games
     concept: Координационни игри
     question: Как участниците координират решенията си?
     prerequisites:
-    - '020'
-    - '021'
+    - '017'
+    - 018
     related:
-    - '024'
-    - '027'
-    - 089
-  - id: '024'
+    - '021'
+    - '025'
+    - 082
+    v1:
+    - '023'
+  - id: '021'
     title: Stag Hunt
     concept: Увереност в сътрудничеството
     question: Защо липсата на увереност в другия възпрепятства сътрудничеството?
     prerequisites:
-    - '021'
-    - '023'
+    - 018
+    - '020'
     related:
-    - '041'
-    - '047'
-  - id: '025'
+    - 039
+    - '043'
+    v1:
+    - '024'
+  - id: '022'
     title: Chicken and Hawk–Dove
     concept: Конфронтация и отстъпление
     question: Защо възникват стратегически конфронтации?
     prerequisites:
-    - '020'
-    - '021'
+    - '017'
+    - 018
     related:
-    - '070'
-    - 088
-  - id: '026'
+    - '065'
+    - 081
+    v1:
+    - '025'
+  - id: '023'
     title: Mixed Strategies
     concept: Смесени стратегии
     question: Кога случайният избор между стратегии е рационален?
     prerequisites:
-    - '007'
-    - 018
-    - '020'
+    - '005'
+    - '015'
+    - '017'
     related:
-    - '027'
-    - 081
-  - id: '027'
+    - '025'
+    - '075'
+    v1:
+    - '026'
+  - id: '024'
+    title: Zero-Sum Games and Minimax
+    concept: Игри с нулева сума и minimax
+    question: Какво може да си гарантира всеки играч, когато интересите са напълно противоположни?
+    prerequisites:
+    - '017'
+    - '023'
+    related:
+    - '001'
+    - '025'
+    v1: []
+  - id: '025'
     title: Correlated Equilibrium
     concept: Координирани препоръки
     question: Как общите сигнали могат да подпомогнат координацията?
     prerequisites:
-    - '020'
-    - '026'
-    related:
+    - '017'
     - '023'
-    - 059
-  - id: 028
+    related:
+    - '020'
+    - '054'
+    v1:
+    - '027'
+  - id: '026'
     title: Pareto Efficiency and Welfare
     concept: Ефективност и благосъстояние
     question: Защо равновесието не гарантира най-добрия общ резултат?
     prerequisites:
-    - '006'
-    - '007'
-    - 008
-    - '020'
+    - '004'
+    - '005'
+    - '017'
     related:
-    - 068
-    - 084
+    - '061'
+    - '077'
+    v1:
+    - 028
+  - id: '027'
+    title: Cournot and Bertrand Competition
+    concept: 'Конкуренция между фирми: количества и цени'
+    question: Как се определят цени и количества, когато фирмите се съобразяват една с друга?
+    prerequisites:
+    - '015'
+    - '017'
+    related:
+    - '001'
+    - '026'
+    - '035'
+    v1: []
 - number: 3
   roman: III
   title: Sequential Games & Commitment
   lessons:
-  - id: 029
+  - id: 028
     title: Simultaneous vs. Sequential Games
     concept: Времева последователност
     question: Как редът на действията променя стратегиите?
     prerequisites:
-    - '013'
-    - '015'
+    - '010'
+    - '012'
     related:
-    - '030'
-  - id: '030'
+    - 029
+    v1:
+    - 029
+  - id: 029
     title: Extensive-Form Games
     concept: Дървета на игри
     question: Как се представят последователните решения?
     prerequisites:
+    - '003'
     - '005'
-    - 008
-    - 029
+    - 028
     related:
+    - '030'
     - '031'
-    - '032'
-  - id: '031'
+    v1:
+    - '030'
+  - id: '030'
     title: Information Sets
     concept: Информационни множества
     question: Какво знае участникът в момента на решението?
     prerequisites:
-    - '010'
-    - '030'
+    - '007'
+    - 029
     related:
-    - '053'
-    - '057'
-  - id: '032'
+    - 048
+    - '052'
+    v1:
+    - '031'
+  - id: '031'
     title: Backward Induction
     concept: Обратна индукция
     question: Как анализираме играта от края към началото?
     prerequisites:
-    - 009
+    - '006'
+    - 029
     - '030'
-    - '031'
     related:
-    - '033'
-    - 069
-  - id: '033'
+    - '032'
+    - '062'
+    v1:
+    - '032'
+  - id: '032'
     title: Subgame Perfect Equilibrium
     concept: Равновесие в подигрите
     question: Кое равновесие остава устойчиво във всяка подигра?
     prerequisites:
-    - '020'
+    - '017'
+    - 029
     - '030'
+    - '031'
+    related:
+    - '033'
+    v1:
+    - '033'
+  - id: '033'
+    title: Credible Threats and Promises
+    concept: Достоверност на заплахи и обещания
+    question: Кога една заплаха или едно обещание са достоверни?
+    prerequisites:
     - '031'
     - '032'
     related:
     - '034'
+    - '043'
+    - '065'
+    v1:
+    - '034'
     - '035'
   - id: '034'
-    title: Credible Threats
-    concept: Достоверни заплахи
-    question: Кога една заплаха е достоверна?
-    prerequisites:
-    - '032'
-    - '033'
-    related:
-    - '036'
-    - '070'
-  - id: '035'
-    title: Credible Promises
-    concept: Достоверни обещания
-    question: Какво прави обещанието убедително?
-    prerequisites:
-    - '032'
-    - '033'
-    - '034'
-    related:
-    - '036'
-    - '047'
-  - id: '036'
     title: Strategic Commitment
     concept: Стратегически ангажимент
     question: Защо ограничаването на собствения избор може да бъде предимство?
     prerequisites:
+    - '033'
+    related:
+    - '035'
+    - 069
+    v1:
+    - '036'
+  - id: '035'
+    title: First-Mover, Second-Mover and Timing
+    concept: Ред и време на ходовете
+    question: Кога е по-добре да действаш първи, втори или да изчакаш?
+    prerequisites:
+    - 029
+    - '031'
+    - '034'
+    related:
+    - '046'
+    - '062'
+    - '066'
+    v1:
+    - '037'
+    - 038
+  - id: '036'
+    title: Stackelberg Leadership
+    concept: Лидер и последовател на пазара
+    question: Кога ходът пръв дава реално предимство?
+    prerequisites:
+    - '027'
+    - '031'
+    related:
     - '034'
     - '035'
-    related:
-    - '037'
-    - '075'
+    v1: []
   - id: '037'
-    title: First-Mover and Second-Mover Advantages
-    concept: Последователни преимущества
-    question: Кога е по-добре да действаш първи или втори?
-    prerequisites:
-    - '030'
-    - '032'
-    - '036'
-    related:
-    - 069
-  - id: 038
-    title: Strategic Timing
-    concept: Стратегическо изчакване
-    question: Как времето на действието влияе върху резултата?
-    prerequisites:
-    - '030'
-    - '037'
-    related:
-    - '050'
-    - '071'
-  - id: 039
     title: Endogenous Game Structure
     concept: Промяна на структурата на играта
     question: Как можем да променяме структурата на играта?
     prerequisites:
-    - '012'
-    - '030'
-    - '036'
+    - 009
+    - 029
+    - '034'
     related:
-    - '075'
-    - '076'
+    - 069
+    - '070'
+    v1:
+    - 039
 - number: 4
   roman: IV
   title: Repeated Games & Cooperation
   lessons:
-  - id: '040'
+  - id: 038
     title: One-Shot vs. Repeated Games
     concept: Еднократни и повтарящи се игри
     question: Как повторяемостта променя решенията?
     prerequisites:
-    - '020'
-    - '022'
-    - 029
+    - '017'
+    - 019
+    - 028
     related:
-    - '041'
-    - '043'
-  - id: '041'
-    title: Shadow of the Future
-    concept: Значението на бъдещето
-    question: Защо бъдещите взаимодействия имат значение днес?
-    prerequisites:
+    - 039
     - '040'
+    v1:
+    - '040'
+  - id: 039
+    title: Shadow of the Future and Discounting
+    concept: Значението на бъдещето и дисконтиране
+    question: Защо и колко бъдещите взаимодействия имат значение днес?
+    prerequisites:
+    - '005'
+    - 038
     related:
+    - '046'
+    - '047'
+    v1:
+    - '041'
     - '042'
-    - '051'
-  - id: '042'
-    title: Discount Factors
-    concept: Дисконтиране
-    question: Как оценяваме бъдещите резултати?
-    prerequisites:
-    - '007'
-    - '040'
-    - '041'
-    related:
-    - '050'
-  - id: '043'
+  - id: '040'
     title: Repeated Prisoner's Dilemma
     concept: Повторена социална дилема
     question: Как повторението може да създаде възможност за сътрудничество?
     prerequisites:
-    - '022'
-    - '040'
-    - '041'
-    - '042'
+    - 019
+    - 038
+    - 039
     related:
+    - '041'
     - '044'
-    - 048
-  - id: '044'
-    title: Tit-for-Tat and Reciprocity
-    concept: Взаимност
-    question: Как ответното поведение влияе върху сътрудничеството?
-    prerequisites:
+    v1:
     - '043'
+  - id: '041'
+    title: Reciprocity, Tit-for-Tat and Conditional Cooperation
+    concept: Взаимност и условно сътрудничество
+    question: Как ответното поведение поддържа сътрудничеството и защо то често е условно?
+    prerequisites:
+    - '040'
     related:
     - '045'
-    - 049
-  - id: '045'
-    title: Conditional Cooperation
-    concept: Условно сътрудничество
-    question: Защо сътрудничеството често е условно?
-    prerequisites:
-    - '043'
+    - '077'
+    - 078
+    v1:
     - '044'
-    related:
-    - 083
-    - 085
-  - id: '046'
+    - '045'
+  - id: '042'
     title: Reputation
     concept: Репутация
     question: Как миналото поведение влияе върху бъдещите взаимодействия?
     prerequisites:
+    - 038
+    - 039
     - '040'
-    - '041'
-    - '042'
-    - '043'
     related:
-    - '054'
-    - 058
-  - id: '047'
+    - 049
+    - '053'
+    v1:
+    - '046'
+  - id: '043'
     title: Trust and Vulnerability
     concept: Доверие и уязвимост
     question: Как възниква доверие при риск от злоупотреба?
     prerequisites:
-    - '024'
-    - '040'
-    - '046'
+    - '021'
+    - 038
+    - '042'
     related:
-    - 085
-    - 095
-  - id: 048
+    - 078
+    - 086
+    v1:
+    - '047'
+  - id: '044'
     title: Punishment and Deterrence
     concept: Наказание и възпиране
     question: Кога санкциите могат да поддържат сътрудничество?
     prerequisites:
-    - '043'
-    - '046'
+    - '040'
+    - '042'
     related:
-    - 049
-    - '076'
-  - id: 049
+    - '045'
+    - '070'
+    v1:
+    - 048
+  - id: '045'
     title: Forgiveness and Imperfect Monitoring
     concept: Грешки и прошка
     question: Как възстановяваме сътрудничеството след грешки?
     prerequisites:
+    - '041'
     - '044'
-    - 048
     related:
-    - '053'
-    - '055'
-  - id: '050'
+    - 048
+    - '050'
+    v1:
+    - 049
+  - id: '046'
     title: Finite vs. Indefinite Repetition
     concept: Хоризонт на повторението
     question: Как известният или неизвестният край променя стимулите?
     prerequisites:
-    - '040'
-    - '042'
-    - '043'
-    related:
-    - '032'
     - 038
-  - id: '051'
+    - 039
+    - '040'
+    related:
+    - '031'
+    - '035'
+    v1:
+    - '050'
+  - id: '047'
     title: Conditions for Sustained Cooperation
     concept: Устойчиво сътрудничество
     question: Какви условия поддържат дългосрочното сътрудничество?
     prerequisites:
+    - 039
+    - '040'
     - '041'
     - '042'
     - '043'
     - '044'
     - '045'
     - '046'
-    - '047'
-    - 048
-    - 049
-    - '050'
     related:
-    - '072'
-    - '076'
-    - 098
+    - '067'
+    - '070'
+    - 088
+    v1:
+    - '051'
 - number: 5
   roman: V
   title: Information, Signaling & Beliefs
   lessons:
-  - id: '052'
-    title: Complete vs. Incomplete Information
-    concept: Пълна и непълна информация
-    question: Какво се променя, когато не познаваме характеристиките на играта?
+  - id: 048
+    title: Complete, Incomplete, Perfect and Imperfect Information
+    concept: Видове информация в игрите
+    question: Какво се променя, когато не познаваме характеристиките на играта или предишните ходове?
     prerequisites:
+    - '007'
     - '010'
-    - '013'
+    - '030'
     related:
-    - '053'
-    - '054'
-  - id: '053'
-    title: Perfect vs. Imperfect Information
-    concept: Перфектна и неперфектна информация
-    question: Как липсата на информация за предходни действия влияе на решенията?
-    prerequisites:
-    - '031'
-    - '052'
-    related:
+    - '045'
     - 049
-    - 058
-  - id: '054'
+    - '053'
+    v1:
+    - '052'
+    - '053'
+  - id: 049
     title: Private Information and Player Types
     concept: Частна информация и типове
     question: Как моделираме скритите характеристики на участниците?
     prerequisites:
-    - '010'
-    - '052'
+    - '007'
+    - 048
     related:
-    - '046'
-    - '055'
-  - id: '055'
+    - '042'
+    - '050'
+    v1:
+    - '054'
+  - id: '050'
     title: Bayesian Updating
     concept: Байесово обновяване
     question: Как променяме убежденията си при нова информация?
     prerequisites:
+    - '005'
     - '007'
-    - '010'
-    - '054'
+    - 049
     related:
-    - '056'
-    - 059
-  - id: '056'
+    - '051'
+    - '054'
+    v1:
+    - '055'
+  - id: '051'
     title: Bayesian Games and Bayesian Nash Equilibrium
     concept: Байесови игри
     question: Как намираме равновесие при непълна информация?
     prerequisites:
-    - 018
-    - '020'
-    - '054'
-    - '055'
+    - '015'
+    - '017'
+    - 049
+    - '050'
     related:
-    - '057'
-    - '064'
-  - id: '057'
+    - '052'
+    - 058
+    v1:
+    - '056'
+  - id: '052'
     title: Perfect Bayesian Equilibrium
     concept: Последователни стратегии и убеждения
     question: Как съчетаваме стратегии и убеждения в динамични игри с непълна информация?
     prerequisites:
-    - '031'
-    - '033'
-    - '055'
-    - '056'
-    related:
-    - 058
-    - 059
-  - id: 058
-    title: Signaling Games
-    concept: Сигнализиращи игри
-    question: Как действията разкриват информация?
-    prerequisites:
     - '030'
-    - '031'
-    - '054'
-    - '056'
-    - '057'
+    - '032'
+    - '050'
+    - '051'
     related:
-    - 059
+    - '053'
+    - '054'
+    v1:
+    - '057'
+  - id: '053'
+    title: Signaling Games and Costly Signals
+    concept: Сигнали и тяхната цена
+    question: Как действията разкриват информация и защо цената на сигнала повишава достоверността му?
+    prerequisites:
+    - 029
+    - '030'
+    - 049
+    - '051'
+    - '052'
+    related:
+    - '033'
+    - '042'
+    - '054'
+    v1:
+    - 058
     - '060'
-  - id: 059
+  - id: '054'
     title: Cheap Talk
     concept: Необвързваща комуникация
     question: Кога необвързващата комуникация може да бъде информативна?
     prerequisites:
-    - '055'
-    - '056'
-    - '057'
-    - 058
+    - '050'
+    - '051'
+    - '052'
+    - '053'
     related:
-    - '027'
-    - 096
-  - id: '060'
-    title: Costly Signaling
-    concept: Скъпи сигнали
-    question: Защо цената на сигнала може да повиши достоверността му?
-    prerequisites:
-    - 058
-    related:
-    - '035'
-    - '046'
-  - id: '061'
+    - '025'
+    - 086
+    v1:
+    - 059
+  - id: '055'
     title: Screening and Self-Selection
     concept: Скрининг и самоподбор
     question: Как изборите могат да разкрият скрита информация?
     prerequisites:
-    - '054'
-    - '056'
+    - 049
+    - '051'
     related:
-    - '060'
-    - '062'
-  - id: '062'
+    - '053'
+    - '056'
+    v1:
+    - '061'
+  - id: '056'
     title: Adverse Selection
     concept: Неблагоприятен подбор
     question: Как скритата информация възпрепятства взаимноизгодни споразумения?
     prerequisites:
-    - '054'
-    - '061'
+    - 049
+    - '055'
     related:
-    - '063'
-    - '064'
-  - id: '063'
+    - '057'
+    - 058
+    v1:
+    - '062'
+  - id: '057'
     title: Moral Hazard
     concept: Морален риск
     question: Как ненаблюдаваните действия влияят върху стимулите?
     prerequisites:
-    - 008
-    - '031'
-    - '054'
+    - '005'
+    - '030'
+    - 049
     related:
-    - 048
-    - '075'
-  - id: '064'
+    - '044'
+    - 069
+    v1:
+    - '063'
+  - id: 058
     title: Auctions and Winner's Curse
     concept: Търгове и проклятието на победителя
     question: Защо победата в търг може да се окаже неблагоприятна?
     prerequisites:
-    - '055'
-    - '056'
+    - '050'
+    - '051'
     related:
-    - '066'
-    - 069
+    - '060'
+    - '062'
+    v1:
+    - '064'
 - number: 6
   roman: VI
   title: Bargaining, Conflict & Collective Action
   lessons:
-  - id: '065'
+  - id: 059
     title: Bargaining as Strategic Interaction
     concept: Стратегическо договаряне
     question: Как различни интереси могат да доведат до споразумение?
     prerequisites:
+    - '026'
     - 028
-    - 029
-    - 039
+    - '037'
     related:
-    - '066'
-    - 068
-  - id: '066'
-    title: Outside Options and Disagreement Points
-    concept: Външни опции и точка на несъгласие
-    question: Как алтернативите влияят върху преговорите?
-    prerequisites:
-    - '006'
-    - '007'
-    - 008
+    - '060'
+    - '061'
+    v1:
     - '065'
+  - id: '060'
+    title: Outside Options and Bargaining Power
+    concept: Външни опции и преговорна сила
+    question: Как алтернативите извън преговорите определят преговорната сила?
+    prerequisites:
+    - '004'
+    - '005'
+    - 059
     related:
+    - '061'
+    - '062'
+    - '066'
+    v1:
+    - '066'
     - '067'
-    - 069
-  - id: '067'
-    title: Bargaining Power
-    concept: Преговорна сила
-    question: От какво зависи преговорната сила?
-    prerequisites:
-    - '065'
-    - '066'
-    related:
-    - 068
-    - '071'
-  - id: 068
+  - id: '061'
     title: Nash Bargaining Solution
     concept: Аксиоматичен преговорен модел
     question: Как формалните принципи определят решение за разпределение?
     prerequisites:
-    - 028
-    - '065'
-    - '066'
-    - '067'
+    - '026'
+    - 059
+    - '060'
     related:
-    - 084
-  - id: 069
+    - '077'
+    v1:
+    - 068
+  - id: '062'
     title: Alternating-Offers Bargaining
     concept: Последователни оферти
     question: Как последователните предложения и нетърпението влияят върху резултата?
     prerequisites:
+    - 029
     - '030'
     - '031'
     - '032'
-    - '033'
-    - '042'
-    - '065'
+    - 039
+    - 059
     related:
-    - 038
-    - '066'
-  - id: '070'
+    - '035'
+    - '060'
+    v1:
+    - 069
+  - id: '063'
+    title: Coalitional Games and the Core
+    concept: Коалиции и ядро (core)
+    question: Кои разпределения на общата печалба никоя група не би отхвърлила?
+    prerequisites:
+    - '026'
+    - '061'
+    related:
+    - '064'
+    - '067'
+    v1: []
+  - id: '064'
+    title: The Shapley Value
+    concept: Справедлив дял според приноса
+    question: Как да разделим общата печалба според приноса на всеки участник?
+    prerequisites:
+    - '063'
+    related:
+    - '061'
+    - '077'
+    v1: []
+  - id: '065'
     title: Strategic Conflict and Escalation
     concept: Ескалация на конфликт
     question: Защо конфликтите могат да продължават въпреки взаимната вреда?
     prerequisites:
-    - '025'
-    - '034'
-    - '065'
+    - '022'
+    - '033'
+    - 059
     related:
-    - '071'
-    - 098
-  - id: '071'
+    - '066'
+    - 088
+    v1:
+    - '070'
+  - id: '066'
     title: War of Attrition
     concept: Война на изтощение
     question: Защо участниците продължават да изчакват въпреки растящите разходи?
     prerequisites:
-    - '026'
-    - 038
-    - '070'
+    - '023'
+    - '035'
+    - '065'
     related:
-    - '050'
-  - id: '072'
-    title: Public Goods Games
-    concept: Обществени блага
+    - '046'
+    v1:
+    - '071'
+  - id: '067'
+    title: Public Goods and Free-Riding
+    concept: Обществени блага и безплатно ползване
     question: Защо общата полза не гарантира индивидуален принос?
     prerequisites:
-    - '022'
-    - 028
+    - '005'
+    - 019
+    - '026'
     related:
-    - '073'
-    - 083
-  - id: '073'
-    title: Free-Riding and Collective Action
-    concept: Безплатно ползване и колективно действие
-    question: Защо участници се възползват от чуждите усилия?
-    prerequisites:
-    - 008
+    - 068
+    - '070'
+    - '077'
+    v1:
     - '072'
-    related:
-    - '074'
-    - '076'
-  - id: '074'
+    - '073'
+  - id: 068
     title: Common-Pool Resources
     concept: Ресурси за общо ползване
     question: Как индивидуалните действия могат да застрашат общ ресурс?
     prerequisites:
-    - '072'
-    - '073'
+    - '067'
     related:
-    - '075'
-    - 089
-  - id: '075'
+    - 069
+    - 082
+    v1:
+    - '074'
+  - id: 069
     title: Mechanism Design
     concept: Проектиране на механизми
     question: Как проектираме правила, които променят стимулите?
     prerequisites:
-    - 008
-    - '012'
-    - '020'
-    - 039
+    - '005'
+    - 009
+    - '017'
+    - '037'
+    - '051'
+    - '055'
+    - 058
     related:
-    - '061'
-    - '063'
-  - id: '076'
+    - '057'
+    v1:
+    - '075'
+  - id: '070'
     title: Institutions and Enforcement
     concept: Институции и прилагане на правила
     question: Как институциите поддържат сътрудничеството?
     prerequisites:
-    - 048
-    - '072'
-    - '073'
-    - '074'
-    - '075'
+    - '044'
+    - '067'
+    - 068
+    - 069
     related:
-    - 089
-    - 094
+    - 082
+    - 085
+    v1:
+    - '076'
 - number: 7
   roman: VII
   title: Behavioral & Evolutionary Game Theory
   lessons:
-  - id: '077'
+  - id: '071'
     title: Classical Predictions vs. Observed Behavior
     concept: Предсказания срещу реално поведение
     question: Защо хората не винаги действат според класическите модели?
     prerequisites:
-    - 009
-    - '020'
-    - '022'
+    - '006'
+    - '017'
+    - 019
     related:
-    - 078
-  - id: 078
+    - '072'
+    v1:
+    - '077'
+  - id: '072'
     title: Experimental Design and Interpretation
     concept: Експериментална методология
     question: Как разбираме какво действително показва един експеримент?
     prerequisites:
-    - '014'
-    - '077'
+    - '011'
+    - '071'
     related:
-    - 080
-    - 085
-  - id: 079
+    - '074'
+    - 078
+    v1:
+    - 078
+  - id: '073'
     title: Bounded Rationality
     concept: Ограничена рационалност
     question: Как когнитивните ограничения влияят на решенията?
     prerequisites:
-    - 009
-    - '014'
-    - '077'
-    - 078
+    - '006'
+    - '011'
+    - '071'
+    - '072'
     related:
-    - 080
-    - 081
-    - 082
-  - id: 080
+    - '074'
+    - '075'
+    - '076'
+    v1:
+    - 079
+  - id: '074'
     title: Level-k and Cognitive Hierarchy
     concept: Нива на мислене
     question: Защо хората използват различни нива на стратегическо разсъждение?
     prerequisites:
-    - '011'
-    - 019
-    - 079
+    - 008
+    - '016'
+    - '073'
     related:
-    - 081
-  - id: 081
+    - '075'
+    v1:
+    - 080
+  - id: '075'
     title: Quantal Response Equilibrium
     concept: Вероятностен отговор
     question: Как моделираме вероятностните отклонения от оптималния избор?
     prerequisites:
-    - '007'
-    - '020'
-    - '026'
-    - 079
+    - '005'
+    - '017'
+    - '023'
+    - '073'
     related:
-    - 080
-    - 082
-  - id: 082
+    - '074'
+    - '076'
+    v1:
+    - 081
+  - id: '076'
     title: Learning in Games
     concept: Стратегическо учене
     question: Как участниците адаптират стратегиите си чрез опит?
     prerequisites:
-    - 018
-    - '040'
-    - 079
+    - '015'
+    - 038
+    - '073'
     related:
-    - '046'
-    - 087
-  - id: 083
-    title: Social Preferences
-    concept: Социални предпочитания
-    question: Защо чуждите резултати могат да влияят върху собствената ни полезност?
+    - '042'
+    - 080
+    v1:
+    - 082
+  - id: '077'
+    title: Social Preferences, Fairness and Inequity Aversion
+    concept: Социални предпочитания и справедливост
+    question: Защо чуждите резултати и несправедливостта влияят върху собствения ни избор?
     prerequisites:
-    - '006'
-    - '007'
-    - 008
-    - '077'
+    - '004'
+    - '005'
+    - '026'
+    - '071'
+    - '072'
+    related:
     - 078
-    related:
-    - 084
-    - 085
+    - 079
     - 086
-  - id: 084
-    title: Fairness and Inequity Aversion
-    concept: Справедливост и неравенство
-    question: Защо несправедливостта може да мотивира отказ от лична изгода?
-    prerequisites:
-    - 028
+    v1:
     - 083
-    related:
-    - 085
-    - 095
-  - id: 085
+    - 084
+  - id: 078
     title: Ultimatum, Dictator and Trust Games
     concept: Експериментални игри
     question: Как експериментите изследват справедливостта, доверието и взаимността?
     prerequisites:
-    - '022'
-    - '047'
-    - '065'
-    - 078
-    - 083
-    related:
+    - 019
+    - '043'
+    - 059
     - '072'
-    - 086
-  - id: 086
+    - '077'
+    related:
+    - '067'
+    - 079
+    v1:
+    - 085
+  - id: 079
     title: Emotions and Psychological Games
     concept: Емоции и психологически игри
     question: Как емоциите и убежденията за чуждите очаквания влияят на поведението?
     prerequisites:
-    - '010'
-    - '055'
-    - 083
-    - 084
+    - '007'
+    - '050'
+    - '077'
     related:
-    - '074'
-    - '100'
-  - id: 087
+    - 068
+    - 090
+    v1:
+    - 086
+  - id: 080
     title: Evolutionary Game Theory
     concept: Еволюционна динамика
     question: Как стратегиите се разпространяват чрез еволюционни процеси?
     prerequisites:
-    - '020'
-    - '025'
-    - '026'
+    - '017'
+    - '022'
+    - '023'
     related:
-    - 082
-    - 088
-  - id: 088
+    - '076'
+    - 081
+    v1:
+    - 087
+  - id: 081
     title: Evolutionarily Stable Strategies
     concept: Еволюционно стабилни стратегии
     question: Кога една стратегия е устойчива на навлизането на алтернативи?
     prerequisites:
-    - '025'
-    - 087
+    - '022'
+    - 080
     related:
-    - 089
-  - id: 089
+    - 082
+    v1:
+    - 088
+  - id: 082
     title: Social Norms and Cultural Evolution
     concept: Норми и културна еволюция
     question: Как възникват и се поддържат социалните норми?
     prerequisites:
-    - '023'
+    - '020'
+    - '070'
     - '076'
-    - 082
-    - 087
+    - 080
     related:
-    - '051'
-    - 099
+    - '047'
+    - 089
+    v1:
+    - 089
 - number: 8
   roman: VIII
   title: Game Theory in Everyday Life
   lessons:
-  - id: 090
-    title: Recognizing Strategic Situations
-    concept: Разпознаване на стратегически ситуации
-    question: Как разпознаваме стратегическо взаимодействие в ежедневието?
+  - id: 083
+    title: Recognizing and Mapping Strategic Situations
+    concept: Разпознаване и описване на стратегически ситуации
+    question: Как разпознаваме стратегическо взаимодействие в ежедневието и как го описваме систематично?
     prerequisites:
+    - '002'
     - '003'
     - '004'
     - '005'
@@ -1020,71 +1148,54 @@ parts:
     - 009
     - '010'
     - '011'
-    - '012'
-    - '013'
-    - '014'
-    - '020'
+    - '017'
     related:
-    - '100'
-  - id: 091
-    title: Mapping Players, Incentives and Information
-    concept: Картографиране на интересите
-    question: Как систематично описваме една реална ситуация?
-    prerequisites:
-    - '005'
-    - '006'
-    - '007'
-    - 008
-    - 009
-    - '010'
-    - '011'
-    - '012'
+    - 084
     - 090
-    related:
-    - 092
-  - id: 092
+    v1:
+    - 090
+    - 091
+  - id: 084
     title: Choosing Between Competing Models
     concept: Избор между модели
     question: Как избираме подходящата теоретична рамка?
     prerequisites:
+    - '017'
+    - 019
     - '020'
-    - '022'
-    - '023'
-    - '024'
-    - '033'
-    - '043'
-    - '056'
-    - 091
+    - '021'
+    - '032'
+    - '040'
+    - '051'
+    - 083
     related:
-    - '100'
-  - id: 093
-    title: Workplace Cooperation and Conflict
-    concept: Работно взаимодействие
-    question: Как стимулите влияят върху работните отношения?
+    - 090
+    v1:
+    - 092
+  - id: 085
+    title: Work, Teams and Leadership
+    concept: Работа, екипи и стимули
+    question: Как стимулите и управленските решения влияят върху работните отношения и екипите?
     prerequisites:
-    - '043'
-    - '046'
-    - '072'
-    - '073'
-    - 091
+    - '037'
+    - '040'
+    - '042'
+    - '067'
+    - 069
+    - '070'
+    - 083
     related:
-    - 094
-  - id: 094
-    title: Leadership and Team Incentives
-    concept: Екипи и стимули
-    question: Как управленските решения променят екипното поведение?
-    prerequisites:
-    - 039
-    - '075'
-    - '076'
+    - 089
+    v1:
     - 093
-    related:
-    - 099
-  - id: 095
-    title: Family and Close Relationships
-    concept: Близки взаимоотношения
-    question: Как повторяемите взаимодействия влияят върху близките отношения?
+    - 094
+  - id: 086
+    title: Family, Friendship and Boundaries
+    concept: Близки отношения, взаимност и граници
+    question: Как повторяемостта, взаимността и личните граници влияят върху близките отношения?
     prerequisites:
+    - 038
+    - 039
     - '040'
     - '041'
     - '042'
@@ -1093,102 +1204,90 @@ parts:
     - '045'
     - '046'
     - '047'
-    - 048
-    - 049
-    - '050'
-    - '051'
+    - '054'
+    - '077'
     - 083
-    - 084
     related:
-    - 096
-    - 098
-  - id: 096
-    title: Friendship, Reciprocity and Boundaries
-    concept: Приятелство и граници
-    question: Как анализираме взаимността и личните граници?
-    prerequisites:
-    - '044'
-    - '045'
-    - '046'
-    - '047'
-    - 048
-    - 049
-    - 059
-    - 091
-    related:
+    - 088
+    - 090
+    v1:
     - 095
-    - '100'
-  - id: 097
+    - 096
+  - id: 087
     title: Everyday Bargaining and Negotiation
     concept: Ежедневни преговори
     question: Как търсим взаимноприемливи решения?
     prerequisites:
-    - '065'
-    - '066'
-    - '067'
-    - 068
-    - 069
-    - 091
+    - 059
+    - '060'
+    - '061'
+    - '062'
+    - 083
     related:
-    - '070'
-    - 098
-  - id: 098
+    - '065'
+    - 088
+    v1:
+    - 097
+  - id: 088
     title: Conflict De-escalation and Repair
     concept: Деескалация
     question: Как прекъсваме повтарящи се конфликтни взаимодействия?
     prerequisites:
+    - '033'
     - '034'
-    - '035'
-    - '036'
-    - 049
-    - '070'
-    - 091
+    - '045'
+    - '065'
+    - 083
     related:
+    - 079
     - 086
-    - 095
-  - id: 099
+    v1:
+    - 098
+  - id: 089
     title: Networks and Social Interdependence
     concept: Социални мрежи
     question: Как социалната мрежа влияе върху индивидуалните решения?
     prerequisites:
-    - '023'
-    - '072'
-    - '073'
-    - '074'
-    - '075'
-    - '076'
-    - 089
+    - '020'
+    - '067'
+    - 068
+    - 069
+    - '070'
+    - 082
     related:
-    - 094
-    - '100'
-  - id: '100'
+    - 085
+    - 090
+    v1:
+    - 099
+  - id: 090
     title: Ethics and Limits of Strategic Thinking
     concept: Етика и ограничения
     question: Кога стратегическото мислене помага и кога става подвеждащо?
     prerequisites:
-    - '014'
-    - 028
+    - '011'
+    - '026'
+    - '071'
     - '077'
     - 083
-    - 090
     related:
-    - 095
-    - '101'
-  - id: '101'
+    - 086
+    - 091
+    v1:
+    - '100'
+  - id: 091
     title: Integrated Strategic Analysis
     concept: Комплексен анализ
     question: Как интегрираме наученото в сложна житейска ситуация?
     prerequisites:
+    - 083
+    - 084
+    - 085
+    - 086
+    - 087
+    - 088
+    - 089
     - 090
-    - 091
-    - 092
-    - 093
-    - 094
-    - 095
-    - 096
-    - 097
-    - 098
-    - 099
-    - '100'
     related:
     - Всички части
+    v1:
+    - '101'
