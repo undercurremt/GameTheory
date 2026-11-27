@@ -11,7 +11,7 @@
 
 **Guiding question:** Как различни интереси могат да доведат до споразумение?
 
-**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 028, 037
+**Prerequisites:** [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [037](/part-03/lesson_037_endogenous_game_structure.md)
 
 **Related lessons:** 060, 061
 
@@ -53,9 +53,9 @@
 
 **Guiding question:** Как последователните предложения и нетърпението влияят върху резултата?
 
-**Prerequisites:** 029–032, [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), 059
+**Prerequisites:** [029](/part-03/lesson_029_extensive_form_games.md)–[032](/part-03/lesson_032_subgame_perfect_equilibrium.md), [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), 059
 
-**Related lessons:** 035, 060
+**Related lessons:** [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), 060
 
 *Full lesson content coming soon.*
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Защо конфликтите могат да продължават въпреки взаимната вреда?
 
-**Prerequisites:** [022](/part-02/lesson_022_chicken_and_hawk_dove.md), 033, 059
+**Prerequisites:** [022](/part-02/lesson_022_chicken_and_hawk_dove.md), [033](/part-03/lesson_033_credible_threats_and_promises.md), 059
 
 **Related lessons:** 066, 088
 
@@ -109,7 +109,7 @@
 
 **Guiding question:** Защо участниците продължават да изчакват въпреки растящите разходи?
 
-**Prerequisites:** [023](/part-02/lesson_023_mixed_strategies.md), 035, 065
+**Prerequisites:** [023](/part-02/lesson_023_mixed_strategies.md), [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), 065
 
 **Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md)
 
@@ -151,7 +151,7 @@
 
 **Guiding question:** Как проектираме правила, които променят стимулите?
 
-**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [017](/part-02/lesson_017_nash_equilibrium.md), 037
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [017](/part-02/lesson_017_nash_equilibrium.md), [037](/part-03/lesson_037_endogenous_game_structure.md)
 
 **Related lessons:** 055, 057
 

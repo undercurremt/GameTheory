@@ -109,6 +109,46 @@ window.BOOK_PAGES = [
   "label": "027 Cournot and Bertrand Competition"
  },
  {
+  "file": "part-03/lesson_028_simultaneous_vs_sequential_games.md",
+  "label": "028 Simultaneous vs. Sequential Games"
+ },
+ {
+  "file": "part-03/lesson_029_extensive_form_games.md",
+  "label": "029 Extensive-Form Games"
+ },
+ {
+  "file": "part-03/lesson_030_information_sets.md",
+  "label": "030 Information Sets"
+ },
+ {
+  "file": "part-03/lesson_031_backward_induction.md",
+  "label": "031 Backward Induction"
+ },
+ {
+  "file": "part-03/lesson_032_subgame_perfect_equilibrium.md",
+  "label": "032 Subgame Perfect Equilibrium"
+ },
+ {
+  "file": "part-03/lesson_033_credible_threats_and_promises.md",
+  "label": "033 Credible Threats and Promises"
+ },
+ {
+  "file": "part-03/lesson_034_strategic_commitment.md",
+  "label": "034 Strategic Commitment"
+ },
+ {
+  "file": "part-03/lesson_035_first_mover_second_mover_and_timing.md",
+  "label": "035 First-Mover, Second-Mover and Timing"
+ },
+ {
+  "file": "part-03/lesson_036_stackelberg_leadership.md",
+  "label": "036 Stackelberg Leadership"
+ },
+ {
+  "file": "part-03/lesson_037_endogenous_game_structure.md",
+  "label": "037 Endogenous Game Structure"
+ },
+ {
   "file": "part-04/lesson_038_one_shot_vs_repeated_games.md",
   "label": "038 One-Shot vs. Repeated Games"
  },

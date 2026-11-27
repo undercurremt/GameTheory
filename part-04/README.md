@@ -11,7 +11,7 @@
 
 **Guiding question:** Как повторяемостта променя решенията?
 
-**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), 028
+**Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md)
 
 **Related lessons:** [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md)
 
@@ -109,7 +109,7 @@
 
 **Prerequisites:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md)–[040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md)
 
-**Related lessons:** 031, 035
+**Related lessons:** [031](/part-03/lesson_031_backward_induction.md), [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md)
 
 ---
 

@@ -11,7 +11,7 @@
 
 **Guiding question:** Какво се променя, когато не познаваме характеристиките на играта или предишните ходове?
 
-**Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [010](/part-01/lesson_010_classification_of_games.md), 030
+**Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [010](/part-01/lesson_010_classification_of_games.md), [030](/part-03/lesson_030_information_sets.md)
 
 **Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 049, 053
 
@@ -67,7 +67,7 @@
 
 **Guiding question:** Как съчетаваме стратегии и убеждения в динамични игри с непълна информация?
 
-**Prerequisites:** 030, 032, 050, 051
+**Prerequisites:** [030](/part-03/lesson_030_information_sets.md), [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), 050, 051
 
 **Related lessons:** 053, 054
 
@@ -81,9 +81,9 @@
 
 **Guiding question:** Как действията разкриват информация и защо цената на сигнала повишава достоверността му?
 
-**Prerequisites:** 029, 030, 049, 051, 052
+**Prerequisites:** [029](/part-03/lesson_029_extensive_form_games.md), [030](/part-03/lesson_030_information_sets.md), 049, 051, 052
 
-**Related lessons:** 033, [042](/part-04/lesson_042_reputation.md), 054
+**Related lessons:** [033](/part-03/lesson_033_credible_threats_and_promises.md), [042](/part-04/lesson_042_reputation.md), 054
 
 *Full lesson content coming soon.*
 
@@ -137,7 +137,7 @@
 
 **Guiding question:** Как ненаблюдаваните действия влияят върху стимулите?
 
-**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), 030, 049
+**Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [030](/part-03/lesson_030_information_sets.md), 049
 
 **Related lessons:** [044](/part-04/lesson_044_punishment_and_deterrence.md), 069
 

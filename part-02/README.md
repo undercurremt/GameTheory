@@ -13,7 +13,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_actions_and_strategies.md)–[005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [010](/part-01/lesson_010_classification_of_games.md)
 
-**Related lessons:** 029
+**Related lessons:** [029](/part-03/lesson_029_extensive_form_games.md)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Prerequisites:** [012](/part-02/lesson_012_normal_form_games.md), [015](/part-02/lesson_015_best_response.md)
 
-**Related lessons:** [018](/part-02/lesson_018_multiple_equilibria.md), 032, 051
+**Related lessons:** [018](/part-02/lesson_018_multiple_equilibria.md), [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), 051
 
 ---
 
@@ -193,6 +193,6 @@
 
 **Prerequisites:** [015](/part-02/lesson_015_best_response.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** [001](/part-01/lesson_001_origins_and_founders_of_game_theory.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), 035
+**Related lessons:** [001](/part-01/lesson_001_origins_and_founders_of_game_theory.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md)
 
 ---
