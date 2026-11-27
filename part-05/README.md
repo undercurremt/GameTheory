@@ -121,7 +121,7 @@
 
 **Prerequisites:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [030](/part-03/lesson_030_information_sets.md), [049](/part-05/lesson_049_private_information_and_player_types.md)
 
-**Related lessons:** [044](/part-04/lesson_044_punishment_and_deterrence.md), 069
+**Related lessons:** [044](/part-04/lesson_044_punishment_and_deterrence.md), [069](/part-06/lesson_069_mechanism_design.md)
 
 ---
 
@@ -133,6 +133,6 @@
 
 **Prerequisites:** [050](/part-05/lesson_050_bayesian_updating.md), [051](/part-05/lesson_051_bayesian_games_and_bayesian_nash_equilibrium.md)
 
-**Related lessons:** 060, 062
+**Related lessons:** [060](/part-06/lesson_060_outside_options_and_bargaining_power.md), [062](/part-06/lesson_062_alternating_offers_bargaining.md)
 
 ---

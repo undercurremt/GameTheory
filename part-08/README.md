@@ -39,7 +39,7 @@
 
 **Guiding question:** Как стимулите и управленските решения влияят върху работните отношения и екипите?
 
-**Prerequisites:** [037](/part-03/lesson_037_endogenous_game_structure.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [042](/part-04/lesson_042_reputation.md), 067, 069, 070, 083
+**Prerequisites:** [037](/part-03/lesson_037_endogenous_game_structure.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [042](/part-04/lesson_042_reputation.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md), [069](/part-06/lesson_069_mechanism_design.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), 083
 
 **Related lessons:** 089
 
@@ -67,9 +67,9 @@
 
 **Guiding question:** Как търсим взаимноприемливи решения?
 
-**Prerequisites:** 059–062, 083
+**Prerequisites:** [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md)–[062](/part-06/lesson_062_alternating_offers_bargaining.md), 083
 
-**Related lessons:** 065, 088
+**Related lessons:** [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), 088
 
 *Full lesson content coming soon.*
 
@@ -81,7 +81,7 @@
 
 **Guiding question:** Как прекъсваме повтарящи се конфликтни взаимодействия?
 
-**Prerequisites:** [033](/part-03/lesson_033_credible_threats_and_promises.md), [034](/part-03/lesson_034_strategic_commitment.md), [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 065, 083
+**Prerequisites:** [033](/part-03/lesson_033_credible_threats_and_promises.md), [034](/part-03/lesson_034_strategic_commitment.md), [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), 083
 
 **Related lessons:** 079, 086
 
@@ -95,7 +95,7 @@
 
 **Guiding question:** Как социалната мрежа влияе върху индивидуалните решения?
 
-**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), 067–070, 082
+**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)–[070](/part-06/lesson_070_institutions_and_enforcement.md), 082
 
 **Related lessons:** 085, 090
 

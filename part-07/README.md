@@ -109,9 +109,9 @@
 
 **Guiding question:** Как експериментите изследват справедливостта, доверието и взаимността?
 
-**Prerequisites:** [019](/part-02/lesson_019_prisoner_s_dilemma.md), [043](/part-04/lesson_043_trust_and_vulnerability.md), 059, 072, 077
+**Prerequisites:** [019](/part-02/lesson_019_prisoner_s_dilemma.md), [043](/part-04/lesson_043_trust_and_vulnerability.md), [059](/part-06/lesson_059_bargaining_as_strategic_interaction.md), 072, 077
 
-**Related lessons:** 067, 079
+**Related lessons:** [067](/part-06/lesson_067_public_goods_and_free_riding.md), 079
 
 *Full lesson content coming soon.*
 
@@ -125,7 +125,7 @@
 
 **Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [050](/part-05/lesson_050_bayesian_updating.md), 077
 
-**Related lessons:** 068, 090
+**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), 090
 
 *Full lesson content coming soon.*
 
@@ -165,7 +165,7 @@
 
 **Guiding question:** Как възникват и се поддържат социалните норми?
 
-**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), 070, 076, 080
+**Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), 076, 080
 
 **Related lessons:** [047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), 089
 

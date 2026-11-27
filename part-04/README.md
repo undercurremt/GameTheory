@@ -85,7 +85,7 @@
 
 **Prerequisites:** [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [042](/part-04/lesson_042_reputation.md)
 
-**Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), 070
+**Related lessons:** [045](/part-04/lesson_045_forgiveness_and_imperfect_monitoring.md), [070](/part-06/lesson_070_institutions_and_enforcement.md)
 
 ---
 
@@ -121,6 +121,6 @@
 
 **Prerequisites:** [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md)–[046](/part-04/lesson_046_finite_vs_indefinite_repetition.md)
 
-**Related lessons:** 067, 070, 088
+**Related lessons:** [067](/part-06/lesson_067_public_goods_and_free_riding.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), 088
 
 ---

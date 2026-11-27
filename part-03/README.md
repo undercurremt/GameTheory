@@ -49,7 +49,7 @@
 
 **Prerequisites:** [006](/part-01/lesson_006_rationality.md), [029](/part-03/lesson_029_extensive_form_games.md), [030](/part-03/lesson_030_information_sets.md)
 
-**Related lessons:** [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), 062
+**Related lessons:** [032](/part-03/lesson_032_subgame_perfect_equilibrium.md), [062](/part-06/lesson_062_alternating_offers_bargaining.md)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Prerequisites:** [031](/part-03/lesson_031_backward_induction.md), [032](/part-03/lesson_032_subgame_perfect_equilibrium.md)
 
-**Related lessons:** [034](/part-03/lesson_034_strategic_commitment.md), [043](/part-04/lesson_043_trust_and_vulnerability.md), 065
+**Related lessons:** [034](/part-03/lesson_034_strategic_commitment.md), [043](/part-04/lesson_043_trust_and_vulnerability.md), [065](/part-06/lesson_065_strategic_conflict_and_escalation.md)
 
 ---
 
@@ -85,7 +85,7 @@
 
 **Prerequisites:** [033](/part-03/lesson_033_credible_threats_and_promises.md)
 
-**Related lessons:** [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), 069
+**Related lessons:** [035](/part-03/lesson_035_first_mover_second_mover_and_timing.md), [069](/part-06/lesson_069_mechanism_design.md)
 
 ---
 
@@ -97,7 +97,7 @@
 
 **Prerequisites:** [029](/part-03/lesson_029_extensive_form_games.md), [031](/part-03/lesson_031_backward_induction.md), [034](/part-03/lesson_034_strategic_commitment.md)
 
-**Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md), 062, 066
+**Related lessons:** [046](/part-04/lesson_046_finite_vs_indefinite_repetition.md), [062](/part-06/lesson_062_alternating_offers_bargaining.md), [066](/part-06/lesson_066_war_of_attrition.md)
 
 ---
 
@@ -121,6 +121,6 @@
 
 **Prerequisites:** [009](/part-01/lesson_009_rules_and_game_structure.md), [029](/part-03/lesson_029_extensive_form_games.md), [034](/part-03/lesson_034_strategic_commitment.md)
 
-**Related lessons:** 069, 070
+**Related lessons:** [069](/part-06/lesson_069_mechanism_design.md), [070](/part-06/lesson_070_institutions_and_enforcement.md)
 
 ---

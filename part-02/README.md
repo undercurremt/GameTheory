@@ -97,7 +97,7 @@
 
 **Prerequisites:** [013](/part-02/lesson_013_strict_and_weak_dominance.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), 067
+**Related lessons:** [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [040](/part-04/lesson_040_repeated_prisoner_s_dilemma.md), [067](/part-06/lesson_067_public_goods_and_free_riding.md)
 
 ---
 
@@ -133,7 +133,7 @@
 
 **Prerequisites:** [017](/part-02/lesson_017_nash_equilibrium.md), [018](/part-02/lesson_018_multiple_equilibria.md)
 
-**Related lessons:** 065, 081
+**Related lessons:** [065](/part-06/lesson_065_strategic_conflict_and_escalation.md), 081
 
 ---
 
@@ -181,7 +181,7 @@
 
 **Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [017](/part-02/lesson_017_nash_equilibrium.md)
 
-**Related lessons:** 061, 077
+**Related lessons:** [061](/part-06/lesson_061_nash_bargaining_solution.md), 077
 
 ---
 

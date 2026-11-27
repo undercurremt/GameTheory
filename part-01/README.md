@@ -11,7 +11,7 @@
 
 **Guiding question:** Защо възниква теорията на игрите и кой я оформя като дисциплина?
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [017](/part-02/lesson_017_nash_equilibrium.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), 061, 080
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [017](/part-02/lesson_017_nash_equilibrium.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), [061](/part-06/lesson_061_nash_bargaining_solution.md), 080
 
 ---
 
@@ -57,7 +57,7 @@
 
 **Prerequisites:** [003](/part-01/lesson_003_actions_and_strategies.md), [004](/part-01/lesson_004_outcomes_and_preferences.md)
 
-**Related lessons:** [006](/part-01/lesson_006_rationality.md), [012](/part-02/lesson_012_normal_form_games.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [023](/part-02/lesson_023_mixed_strategies.md), [050](/part-05/lesson_050_bayesian_updating.md), 069, 077
+**Related lessons:** [006](/part-01/lesson_006_rationality.md), [012](/part-02/lesson_012_normal_form_games.md), [019](/part-02/lesson_019_prisoner_s_dilemma.md), [023](/part-02/lesson_023_mixed_strategies.md), [050](/part-05/lesson_050_bayesian_updating.md), [069](/part-06/lesson_069_mechanism_design.md), 077
 
 ---
 
@@ -105,7 +105,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md)–[005](/part-01/lesson_005_utility_payoffs_and_incentives.md)
 
-**Related lessons:** [010](/part-01/lesson_010_classification_of_games.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [037](/part-03/lesson_037_endogenous_game_structure.md), 069, 070
+**Related lessons:** [010](/part-01/lesson_010_classification_of_games.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [037](/part-03/lesson_037_endogenous_game_structure.md), [069](/part-06/lesson_069_mechanism_design.md), [070](/part-06/lesson_070_institutions_and_enforcement.md)
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [003](/part-01/lesson_003_actions_and_strategies.md), [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [009](/part-01/lesson_009_rules_and_game_structure.md)
 
-**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [048](/part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md), 063
+**Related lessons:** [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [024](/part-02/lesson_024_zero_sum_games_and_minimax.md), [028](/part-03/lesson_028_simultaneous_vs_sequential_games.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [048](/part-05/lesson_048_complete_incomplete_perfect_and_imperfect_information.md), [063](/part-06/lesson_063_coalitional_games_and_the_core.md)
 
 ---
 
