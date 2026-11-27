@@ -44,6 +44,24 @@ q_A=\frac{90-q_B}{2}.
 
 Колкото повече предлага Борис, толкова по-малко иска да предложи Ана. Борис има същата функция с разменени роли: \(q_B=\tfrac{90-q_A}{2}\).
 
+<figure style="margin:1.5em auto;max-width:380px;text-align:center">
+<svg viewBox="0 0 360 340" width="100%" role="img" aria-label="Двете прави на най-добрите отговори се пресичат в точката (30, 30)" style="font-family:inherit;font-size:13px">
+<line x1="50" y1="290" x2="335" y2="290" stroke="currentColor" stroke-width="1.2"/>
+<line x1="50" y1="290" x2="50" y2="10" stroke="currentColor" stroke-width="1.2"/>
+<g stroke="currentColor" stroke-opacity="0.25" stroke-dasharray="3 3"><line x1="140" y1="290" x2="140" y2="200"/><line x1="50" y1="200" x2="140" y2="200"/></g>
+<g fill="currentColor" text-anchor="middle"><text x="140" y="306">30</text><text x="185" y="306">45</text><text x="320" y="306">90</text><text x="335" y="326" text-anchor="end">количество на Ана</text></g>
+<g fill="currentColor" text-anchor="end"><text x="44" y="204">30</text><text x="44" y="159">45</text><text x="44" y="24">90</text></g>
+<text x="56" y="12" fill="currentColor">количество на Борис</text>
+<line x1="50" y1="20" x2="185" y2="290" stroke="#2f6fd6" stroke-width="2.5"/>
+<line x1="50" y1="155" x2="320" y2="290" stroke="#d9822b" stroke-width="2.5"/>
+<text x="98" y="70" fill="#2f6fd6">отговор на Ана</text>
+<text x="215" y="226" fill="#d9822b">отговор на Борис</text>
+<circle cx="140" cy="200" r="5" fill="currentColor"/>
+<text x="150" y="192" fill="currentColor">равновесие (30, 30)</text>
+</svg>
+<figcaption style="font-size:0.9em;opacity:0.8">Синята права: колко произвежда Ана при всяко количество на Борис. Оранжевата: обратното. Равновесието е в пресечната точка.</figcaption>
+</figure>
+
 **Равновесието** е там, където всеки отговаря най-добре на другия. От таблицата се вижда: ако Борис предлага 30, Ана иска 30; ако Ана предлага 30, Борис иска 30. Значи
 
 \[
