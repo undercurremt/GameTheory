@@ -85,7 +85,7 @@
 
 **Prerequisites:** [050](/part-05/lesson_050_bayesian_updating.md)–[053](/part-05/lesson_053_signaling_games_and_costly_signals.md)
 
-**Related lessons:** [025](/part-02/lesson_025_correlated_equilibrium.md), 086
+**Related lessons:** [025](/part-02/lesson_025_correlated_equilibrium.md), [086](/part-08/lesson_086_family_friendship_and_boundaries.md)
 
 ---
 

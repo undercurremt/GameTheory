@@ -327,5 +327,41 @@ window.BOOK_PAGES = [
  {
   "file": "part-07/lesson_082_social_norms_and_cultural_evolution.md",
   "label": "082 Social Norms and Cultural Evolution"
+ },
+ {
+  "file": "part-08/lesson_083_recognizing_and_mapping_strategic_situations.md",
+  "label": "083 Recognizing and Mapping Strategic Situations"
+ },
+ {
+  "file": "part-08/lesson_084_choosing_between_competing_models.md",
+  "label": "084 Choosing Between Competing Models"
+ },
+ {
+  "file": "part-08/lesson_085_work_teams_and_leadership.md",
+  "label": "085 Work, Teams and Leadership"
+ },
+ {
+  "file": "part-08/lesson_086_family_friendship_and_boundaries.md",
+  "label": "086 Family, Friendship and Boundaries"
+ },
+ {
+  "file": "part-08/lesson_087_everyday_bargaining_and_negotiation.md",
+  "label": "087 Everyday Bargaining and Negotiation"
+ },
+ {
+  "file": "part-08/lesson_088_conflict_de_escalation_and_repair.md",
+  "label": "088 Conflict De-escalation and Repair"
+ },
+ {
+  "file": "part-08/lesson_089_networks_and_social_interdependence.md",
+  "label": "089 Networks and Social Interdependence"
+ },
+ {
+  "file": "part-08/lesson_090_ethics_and_limits_of_strategic_thinking.md",
+  "label": "090 Ethics and Limits of Strategic Thinking"
+ },
+ {
+  "file": "part-08/lesson_091_integrated_strategic_analysis.md",
+  "label": "091 Integrated Strategic Analysis"
  }
 ];

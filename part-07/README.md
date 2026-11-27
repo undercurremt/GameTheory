@@ -85,7 +85,7 @@
 
 **Prerequisites:** [004](/part-01/lesson_004_outcomes_and_preferences.md), [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [026](/part-02/lesson_026_pareto_efficiency_and_welfare.md), [071](/part-07/lesson_071_classical_predictions_vs_observed_behavior.md), [072](/part-07/lesson_072_experimental_design_and_interpretation.md)
 
-**Related lessons:** [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md), [079](/part-07/lesson_079_emotions_and_psychological_games.md), 086
+**Related lessons:** [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md), [079](/part-07/lesson_079_emotions_and_psychological_games.md), [086](/part-08/lesson_086_family_friendship_and_boundaries.md)
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Prerequisites:** [007](/part-01/lesson_007_knowledge_beliefs_and_expectations.md), [050](/part-05/lesson_050_bayesian_updating.md), [077](/part-07/lesson_077_social_preferences_fairness_and_inequity_aversion.md)
 
-**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), 090
+**Related lessons:** [068](/part-06/lesson_068_common_pool_resources.md), [090](/part-08/lesson_090_ethics_and_limits_of_strategic_thinking.md)
 
 ---
 
@@ -145,6 +145,6 @@
 
 **Prerequisites:** [020](/part-02/lesson_020_coordination_games.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), [076](/part-07/lesson_076_learning_in_games.md), [080](/part-07/lesson_080_evolutionary_game_theory.md)
 
-**Related lessons:** [047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), 089
+**Related lessons:** [047](/part-04/lesson_047_conditions_for_sustained_cooperation.md), [089](/part-08/lesson_089_networks_and_social_interdependence.md)
 
 ---

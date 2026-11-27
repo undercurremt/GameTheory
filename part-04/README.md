@@ -73,7 +73,7 @@
 
 **Prerequisites:** [021](/part-02/lesson_021_stag_hunt.md), [038](/part-04/lesson_038_one_shot_vs_repeated_games.md), [042](/part-04/lesson_042_reputation.md)
 
-**Related lessons:** [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md), 086
+**Related lessons:** [078](/part-07/lesson_078_ultimatum_dictator_and_trust_games.md), [086](/part-08/lesson_086_family_friendship_and_boundaries.md)
 
 ---
 
@@ -121,6 +121,6 @@
 
 **Prerequisites:** [039](/part-04/lesson_039_shadow_of_the_future_and_discounting.md)–[046](/part-04/lesson_046_finite_vs_indefinite_repetition.md)
 
-**Related lessons:** [067](/part-06/lesson_067_public_goods_and_free_riding.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), 088
+**Related lessons:** [067](/part-06/lesson_067_public_goods_and_free_riding.md), [070](/part-06/lesson_070_institutions_and_enforcement.md), [088](/part-08/lesson_088_conflict_de_escalation_and_repair.md)
 
 ---

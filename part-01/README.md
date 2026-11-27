@@ -21,7 +21,7 @@
 
 **Guiding question:** Кога една ситуация е игра и как решенията на участниците зависят едно от друго?
 
-**Related lessons:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [011](/part-01/lesson_011_models_assumptions_and_explanation.md), 083
+**Related lessons:** [005](/part-01/lesson_005_utility_payoffs_and_incentives.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [011](/part-01/lesson_011_models_assumptions_and_explanation.md), [083](/part-08/lesson_083_recognizing_and_mapping_strategic_situations.md)
 
 ---
 
@@ -129,6 +129,6 @@
 
 **Prerequisites:** [002](/part-01/lesson_002_strategic_interaction_and_interdependence.md), [004](/part-01/lesson_004_outcomes_and_preferences.md), [006](/part-01/lesson_006_rationality.md), [009](/part-01/lesson_009_rules_and_game_structure.md), [010](/part-01/lesson_010_classification_of_games.md)
 
-**Related lessons:** [071](/part-07/lesson_071_classical_predictions_vs_observed_behavior.md), 084, 090
+**Related lessons:** [071](/part-07/lesson_071_classical_predictions_vs_observed_behavior.md), [084](/part-08/lesson_084_choosing_between_competing_models.md), [090](/part-08/lesson_090_ethics_and_limits_of_strategic_thinking.md)
 
 ---
